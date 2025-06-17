@@ -1,4 +1,5 @@
-## Slide 1
+<!-- .slide: data-background="indigo" -->
+## Part 1, Slide 1
 Example text.
 
 - bullet 1
@@ -12,7 +13,7 @@ Example note.
 
 ---
 
-
+<!-- .slide: data-background="steelblue" -->
 ## Slide 2
 More text.
 
