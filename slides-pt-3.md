@@ -158,7 +158,17 @@ Notes: Here's an example of the YAML that governs our navigation.
 
 ## Navigation YAML
 
-(markdown code snippet)
+```md
+nav:
+    main:
+      - label: Courses
+        href: GYM_ROOT_URL/courses/
+      - label: Jobs
+        href: GYM_ROOT_URL/jobs/
+      - label: About
+        href: GYM_ROOT_URL/about/
+```
+<!-- .element: class="" data-background="blue" -->
 
 Note:
 
@@ -169,8 +179,23 @@ Note:
 
 ## Navigation JSON
 
-(markdown code snippet)
-
+```md
+"nav": {
+  "main": [
+    {
+      "label": "Courses",
+      "href": "https://thegymnasium.com/courses/"
+    },
+    {
+      "label": "Jobs",
+      "href": "https://thegymnasium.com/jobs/"
+    },
+    {
+      "label": "About",
+      "href": "https://thegymnasium.com/about/"
+    }
+  ]
+```
 
 Note:
 
