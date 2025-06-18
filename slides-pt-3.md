@@ -154,11 +154,9 @@ Notes: Here's an example of the YAML that governs our navigation.
 
 ------
 
-
-
 ## Navigation YAML
 
-```md
+```yaml
 nav:
     main:
       - label: Courses
@@ -168,7 +166,6 @@ nav:
       - label: About
         href: GYM_ROOT_URL/about/
 ```
-<!-- .element: class="" data-background="blue" -->
 
 Note:
 
@@ -179,7 +176,7 @@ Note:
 
 ## Navigation JSON
 
-```md
+```json
 "nav": {
   "main": [
     {
