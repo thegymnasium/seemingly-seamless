@@ -212,7 +212,7 @@ section.has-dark-background, section.has-dark-background h1, section.has-dark-ba
 .reveal pre {
   display: block;
   position: relative;
-  width: 90%;
+  width: 95%;
   margin: var(--r-block-margin) auto;
   text-align: left;
   font-size: 0.55em;
@@ -230,9 +230,9 @@ section.has-dark-background, section.has-dark-background h1, section.has-dark-ba
 
 .reveal pre code {
   display: block;
-  padding: 5px;
+  padding: 0.5rem;
   overflow: auto;
-  max-height: 400px;
+  max-height: 500px;
   word-wrap: normal;
 }
 
