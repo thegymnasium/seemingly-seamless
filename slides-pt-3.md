@@ -282,27 +282,54 @@ This JSON is consumed by the MFEs + LMS at build time.
 
 ------
 
-## Navigation (Public)
+<!-- .slide: data-auto-animate -->
 
-(add a screenshot of the courses subnav)
+### Navigation (Public)
 
-![Screenshot of main navigation](img/nav-main-1.png)<!-- .element: class="r-fit-text" -->
+![Screenshot of main navigation](img/home-public.png)<!-- .element: class="r-fit-text" data-id="screencap" -->
 
 
 Note: 
+The home page for public visitors.
+
+
+------
+
+<!-- .slide: data-auto-animate -->
+
+### Navigation (Logged-In)
+
+![Screenshot of main navigation](img/home-private.png)<!-- .element: class="r-fit-text" data-id="screencap" -->
+
+
+Note: 
+The home page for logged in users.
+
+------
+
+<!-- .slide: data-auto-animate -->
+
+### Dashboard
+
+![Screenshot of main navigation](img/dash-after.png)<!-- .element: class="r-fit-text" data-id="screencap" -->
+
+
+Note: 
+The dashboard navigation.
 
 
 
 ------
 
-## Rendered Navigation (Logged-In)
+<!-- .slide: data-auto-animate -->
 
-![Screenshot of main navigation](img/nav-main-2.png)<!-- .element: class="r-fit-text" -->
+### Course Navigation
+
+![Screenshot of course navigation](img/course-about-dsfe.png)<!-- .element: class="r-fit-text" data-id="screencap" -->
 
 
 Note: 
-
-
+The course navigation (in this case, Gym Shorts)
 
 
 ---
