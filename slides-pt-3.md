@@ -284,7 +284,7 @@ This JSON is consumed by the MFEs + LMS at build time.
 
 <!-- .slide: data-auto-animate -->
 
-### Navigation (Public)
+### Navigation: Public
 
 ![Screenshot of main navigation](img/home-public.png)<!-- .element: class="r-fit-text" data-id="screencap" -->
 
@@ -295,9 +295,9 @@ The home page for public visitors.
 
 ------
 
-<!-- .slide: data-auto-animate -->
+<!-- .slide:  -->
 
-### Navigation (Logged-In)
+### Navigation: Logged-In
 
 ![Screenshot of main navigation](img/home-private.png)<!-- .element: class="r-fit-text" data-id="screencap" -->
 
@@ -307,9 +307,9 @@ The home page for logged in users.
 
 ------
 
-<!-- .slide: data-auto-animate -->
+<!-- .slide:  -->
 
-### Dashboard
+### Navigation: Dashboard
 
 ![Screenshot of main navigation](img/dash-after.png)<!-- .element: class="r-fit-text" data-id="screencap" -->
 
@@ -321,9 +321,9 @@ The dashboard navigation.
 
 ------
 
-<!-- .slide: data-auto-animate -->
+<!-- .slide:  -->
 
-### Course Navigation
+### Navigation: Course
 
 ![Screenshot of course navigation](img/course-about-dsfe.png)<!-- .element: class="r-fit-text" data-id="screencap" -->
 
