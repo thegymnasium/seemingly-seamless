@@ -87,7 +87,7 @@ Started learning the MFEs in 2023/2024 etc.
 
 ## Redwood Upgrade
 
-- Upgrade from hawthorn (2018) to redwood (2024)
+- Upgrade from Hawthorn (2018) to Redwood (2024)
 - Our very talented collaborator Amir Tadrisi wrote some fancy scripts to automatically migrate data from version to version.
 
 Note:
@@ -97,16 +97,16 @@ The next slide shows how many versions Amir needed to process.
 
 ## Versions
 
-**hawthorn >** <!-- .element: class="fragment" data-fragment-index="1" --> 
-**ironwood >** <!-- .element: class="fragment" data-fragment-index="2" --> 
-**juniper >** <!-- .element: class="fragment" data-fragment-index="3" --> 
-**koa >** <!-- .element: class="fragment" data-fragment-index="4" --> 
-**lilac >** <!-- .element: class="fragment" data-fragment-index="5" --> 
-**maple >** <!-- .element: class="fragment" data-fragment-index="6" --> 
-**olive >** <!-- .element: class="fragment" data-fragment-index="7" --> 
-**palm >** <!-- .element: class="fragment" data-fragment-index="8" --> 
-**quince >** <!-- .element: class="fragment" data-fragment-index="9" --> 
-**redwood** <!-- .element: class="fragment" data-fragment-index="10" -->
+**Hawthorn >** <!-- .element: class="fragment" data-fragment-index="1" --> 
+**Ironwood >** <!-- .element: class="fragment" data-fragment-index="2" --> 
+**Juniper >** <!-- .element: class="fragment" data-fragment-index="3" --> 
+**Koa >** <!-- .element: class="fragment" data-fragment-index="4" --> 
+**Lilac >** <!-- .element: class="fragment" data-fragment-index="5" --> 
+**Maple >** <!-- .element: class="fragment" data-fragment-index="6" --> 
+**Olive >** <!-- .element: class="fragment" data-fragment-index="7" --> 
+**Palm >** <!-- .element: class="fragment" data-fragment-index="8" --> 
+**Quince >** <!-- .element: class="fragment" data-fragment-index="9" --> 
+**Redwood** <!-- .element: class="fragment" data-fragment-index="10" -->
 
 Notes:
 Could you imagine going through these manually? We will leave you a QR code to contact Amir should you need his consulting expertise.
@@ -128,6 +128,18 @@ Note:
 
 
 Note: 
+
+
+------
+
+## Steps/Process
+
+Why? Updating styles from one source is much easier/faster than updating it in 8 different places.
+
+1. disable built-in MFE CSS
+    - cleanup
+2. disable theme CSS
+3. use eleventy to deliver CSS to MFEs + theme 
 
 
 ---
@@ -155,6 +167,38 @@ We are the ideal client for hosting providers - the only intervention hosting pr
 Note:
 YAML/JSON as a source of truth - showing stages of “the truth”.
 
+Some may ask, why not just write your truth in JSON - the answer:  YAML is much easier to read and write, doesn't require curly braces and quotes everywhere.
+
+The second reason, is the JSON is consumed exclusively by the LMS portion of our setup - the MFEs + the theme
+
+
+------
+
+## YAML
+
+YAML is the maintainer's source of truth.
+
+<pre class="code-wrapper" data-id="code-animation">
+  <code class="language-yml" data-line-numbers data-trim> 
+%YAML 1.2
+---
+YAML: YAML Ain't Markup Language™
+
+What It Is:
+  YAML is a human-friendly data serialization
+  language for all programming languages.
+  </code>
+</pre>
+
+Notes:
+
+------
+
+## JSON
+
+JSON is exclusively for consumption by the LMS (MFEs + theme)
+
+Notes:
 
 ---
 
@@ -449,14 +493,12 @@ And the resulting rendered HTML.
 TBD...
 
 Screencaps of rendered pages:
-- Unified navigation
 - Unified footer
 - 404 page
 - Banner
 
 Note:
 Potential screencaps of rendered pages:
-- Unified navigation
 - Unified footer
 - 404 page
 - Banner
