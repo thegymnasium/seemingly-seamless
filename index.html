@@ -27,6 +27,7 @@
           data-separator-notes="^Notes?"
           data-transition="slide">
         </section>
+
         <!-- Part 1 -->
         <section 
           data-charset="utf-8"
@@ -36,6 +37,7 @@
           data-separator-notes="^Notes?"
           data-transition="slide">
         </section>
+
         <!-- Part 2 -->
         <section 
           data-charset="utf-8"
@@ -45,6 +47,7 @@
           data-separator-notes="^Notes?"
           data-transition="slide">
         </section>
+
         <!-- Part 3 -->
         <section 
           data-charset="utf-8"
@@ -54,6 +57,7 @@
           data-separator-notes="^Notes?"
           data-transition="slide">
         </section>
+
         <!-- Part 4 -->
         <section 
           data-charset="utf-8"
@@ -63,6 +67,7 @@
           data-separator-notes="^Notes?"
           data-transition="slide">
         </section>
+
         <!-- Outro -->
         <section 
           data-charset="utf-8"
@@ -76,10 +81,12 @@
     </div>
 
     <script src="dist/reveal.js"></script>
-    <script src="plugin/highlight/highlight.js"></script>
-    <script src="plugin/markdown/markdown.js"></script>
-    <!-- <script src="plugin/math/math.js"></script> -->
     <script src="plugin/notes/notes.js"></script>
+    <script src="plugin/markdown/markdown.js"></script>
+    <script src="plugin/highlight/highlight.js"></script>
+    
+    <!-- <script src="plugin/math/math.js"></script> -->
+    
     <!-- <script src="plugin/search/search.js"></script> -->
     <script src="plugin/zoom/zoom.js"></script>
     <script>
@@ -87,12 +94,30 @@
       // - https://revealjs.com/initialization/
       // - https://revealjs.com/config/
       Reveal.initialize({
-        hash: true,
+        controls: true,
+				progress: true,
+				center: true,
+				hash: true,
+        slideNumber: 'c/t',
+
+        // The "normal" size of the presentation, aspect ratio will
+        // be preserved when the presentation is scaled to fit different
+        // resolutions. Can be specified using percentage units.
+        width: 960,
+        height: 700,
+
+        // Factor of the display size that should remain empty around
+        // the content
+        margin: 0.04,
+
+        // Bounds for smallest/largest possible scale to apply to content
+        minScale: 0.2,
+        maxScale: 2.0,
 
         // Learn about plugins: https://revealjs.com/plugins/
         plugins: [
-          RevealHighlight,
           RevealMarkdown,
+          RevealHighlight,
           // RevealMath,
           RevealNotes,
           // RevealSearch,

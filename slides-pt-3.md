@@ -96,9 +96,20 @@ The next slide shows how many versions Amir needed to process.
 ---
 
 ## Versions
-hawthorn > ironwood > juniper > koa > lilac > maple > olive > palm > quince > redwood
 
-Notes: 
+**hawthorn >** <!-- .element: class="fragment" data-fragment-index="1" --> 
+**ironwood >** <!-- .element: class="fragment" data-fragment-index="2" --> 
+**juniper >** <!-- .element: class="fragment" data-fragment-index="3" --> 
+**koa >** <!-- .element: class="fragment" data-fragment-index="4" --> 
+**lilac >** <!-- .element: class="fragment" data-fragment-index="5" --> 
+**maple >** <!-- .element: class="fragment" data-fragment-index="6" --> 
+**olive >** <!-- .element: class="fragment" data-fragment-index="7" --> 
+**palm >** <!-- .element: class="fragment" data-fragment-index="8" --> 
+**quince >** <!-- .element: class="fragment" data-fragment-index="9" --> 
+**redwood** <!-- .element: class="fragment" data-fragment-index="10" -->
+
+Notes:
+Could you imagine going through these manually? We will leave you a QR code to contact Amir should you need his consulting expertise.
 
 ---
 
@@ -154,18 +165,20 @@ Notes: Here's an example of the YAML that governs our navigation.
 
 ------
 
-## Navigation YAML
-
-```yaml
+<!-- .slide: data-auto-animate -->
+<h2 data-id="code-title">Navigation YAML</h2>
+<pre class="code-wrapper" data-id="code-animation">
+  <code class="language-yml" data-line-numbers data-trim> 
 nav:
-    main:
-      - label: Courses
-        href: GYM_ROOT_URL/courses/
-      - label: Jobs
-        href: GYM_ROOT_URL/jobs/
-      - label: About
-        href: GYM_ROOT_URL/about/
-```
+  main:
+    - label: Courses
+      href: GYM_ROOT_URL/courses/
+    - label: Jobs
+      href: GYM_ROOT_URL/jobs/
+    - label: About
+      href: GYM_ROOT_URL/about/
+  </code>
+</pre>
 
 Note:
 
@@ -173,10 +186,12 @@ Note:
 
 ------
 
+<!-- .slide: data-auto-animate -->
 
 ## Navigation JSON
 
-```json
+<pre class="code-wrapper" data-id="code-animation">
+  <code class="language-json" data-line-numbers data-trim>
 "nav": {
   "main": [
     {
@@ -192,7 +207,9 @@ Note:
       "href": "https://thegymnasium.com/about/"
     }
   ]
-```
+}
+  </code>
+</pre>
 
 Note:
 
@@ -238,7 +255,7 @@ Note:
 
 ## YAML (Meta)
 
-![Screenshot of YAML](img/yaml-config-main-1.png)<!-- .element: class="r-fit-text" -->
+(add code block)
 
 
 Note:
@@ -250,7 +267,7 @@ This is what our YAML looks like.
 
 ## JSON (Meta)
 
-![Screenshot of JSON](img/json-meta.png)<!-- .element: class="r-fit-text" -->
+(add code block)
 
 
 Note: 
@@ -260,7 +277,7 @@ The JSON gets generated from the YAML.
 
 ## HTML (Meta)
 
-![Screenshot of HTML meta section](img/html-meta.png)<!-- .element: class="r-fit-text" -->
+(add code block)
 
 
 Note: 
@@ -272,10 +289,16 @@ And the resulting rendered HTML.
 
 ## TODO: show more Rendered Components
 
-![Image of ](img/)
+TBD...
+
+Screencaps of rendered pages:
+- Unified navigation
+- Unified footer
+- 404 page
+- Banner
 
 Note:
-Screencaps of rendered pages:
+Potential screencaps of rendered pages:
 - Unified navigation
 - Unified footer
 - 404 page
