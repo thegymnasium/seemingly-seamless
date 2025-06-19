@@ -336,31 +336,73 @@ The course navigation (in this case, Gym Shorts)
 
 <!-- .slide: data-background="green" class="" -->
 
-## Example: meta data <!-- .element: class="r-fit-text" -->
+## Meta Data <!-- .element: class="r-fit-text" -->
 
 Note:
 
 
-
 ------
 
+<!-- .slide: data-auto-animate -->
 
-
-## YAML (Meta)
-
-(add code block)
-
+<h2 data-id="code-title">Meta YAML</h2>
+<pre class="code-wrapper" data-id="code-animation">
+  <code class="language-yml" data-line-numbers="|8" data-trim> 
+meta:
+  title: Gymnasium
+  subtitle: Free online courses and tutorials on design and development.
+  author: Aquent Gymnasium
+  description: Design a career you love with our free online courses and tutorials on design, development, UX, prototyping, accessibility, and career skills.
+  short_description: Design a career you love with free online courses and tutorials.
+  og_img: /img/og/gym-brand.png
+  twitter_handle: "@AquentGymnasium"
+  </code>
+</pre>
 
 Note:
-This is what our YAML looks like.
+Here's an example of how we handle the site meta - those unseen elements that are so useful for SEO and web crawling spiders sent by search engines such as Google, Yahoo, Bing, etc, ad nauseam
 
+Oh wait, what's Twitter doing there?
+
+Let's cancel that.
+
+------
+
+<!-- .slide: data-auto-animate -->
+
+<h2 data-id="code-title">Meta YAML</h2>
+<pre class="code-wrapper" data-id="code-animation">
+  <code class="language-yml" data-line-numbers data-trim> 
+meta:
+  title: Gymnasium
+  subtitle: Free online courses and tutorials on design and development.
+  author: Aquent Gymnasium
+  description: Design a career you love with our free online courses and tutorials on design, development, UX, prototyping, accessibility, and career skills.
+  short_description: Design a career you love with free online courses and tutorials.
+  og_img: /img/og/gym-brand.png
+  </code>
+</pre>
+
+Note:
+Next, the JSON
 
 ------
 
 
-## JSON (Meta)
+## META JSON
 
-(add code block)
+<pre class="code-wrapper" data-id="code-animation">
+  <code class="language-json" data-line-numbers data-trim>
+"meta": {
+  "title": "Gymnasium",
+  "subtitle": "Free online courses and tutorials on design and development.",
+  "author": "Aquent Gymnasium",
+  "description": "Design a career you love with our free online courses and tutorials on design, development, UX, prototyping, accessibility, and career skills.",
+  "short_description": "Design a career you love with free online courses and tutorials.",
+  "og_img": "/img/og/gym-brand.png"
+}
+  </code>
+</pre>
 
 
 Note: 
@@ -368,10 +410,32 @@ The JSON gets generated from the YAML.
 
 ------
 
-## HTML (Meta)
+## Meta (HTML)
 
-(add code block)
-
+<pre class="code-wrapper" data-id="code-animation">
+  <code class="language-html" data-line-numbers="6,10,11,12,13,14" data-trim>
+    <script type="text/template">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="generator" content="Eleventy v3.0.0">
+<meta http-equiv="x-ua-compatible" content="ie=edge">
+<meta name="robots" content="noai, noimageai, noindex, nofollow, noimageindex, noarchive, nosnippet, nocache">
+<title>Free online courses and tutorials on design and development. | Gymnasium</title>
+<meta name="author" property="og:site_name" content="Aquent Gymnasium">
+<link rel="canonical" href="https://thegymnasium.com/">
+<meta property="og:url" content="https://thegymnasium.com/">
+<meta property="og:title" content="Free online courses and tutorials on design and development.">
+<meta name="description" property="og:description"
+  content="Design a career you love with our free online courses and tutorials on design, development, UX, prototyping, accessibility, and career skills.">
+<meta property="og:image:alt" content="Free online courses and tutorials on design and development.">
+<meta property="og:image" content="https://thegymnasium.com/img/og/gym-brand.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="628">
+<meta property="og:type" content="website">
+<meta property="og:locale" content="en_US">
+    </script>
+  </code>
+</pre>
 
 Note: 
 And the resulting rendered HTML.
