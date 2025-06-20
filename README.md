@@ -1,30 +1,41 @@
-<p align="center">
-  <a href="https://revealjs.com">
-  <img src="https://hakim-static.s3.amazonaws.com/reveal-js/logo/v1/reveal-black-text-sticker.png" alt="reveal.js" width="500">
-  </a>
-  <br><br>
-  <a href="https://github.com/hakimel/reveal.js/actions"><img src="https://github.com/hakimel/reveal.js/workflows/tests/badge.svg"></a>
-  <a href="https://slides.com/"><img src="https://static.slid.es/images/slides-github-banner-320x40.png?1" alt="Slides" width="160" height="20"></a>
-</p>
+# Seemingly Seamless
 
-reveal.js is an open source HTML presentation framework. It enables anyone with a web browser to create beautiful presentations for free. Check out the live demo at [revealjs.com](https://revealjs.com/).
+This case study is for anyone struggling to integrate Open edX with their branding, marketing websites, or content management systems. It’s a practical, real-world example of how to extend Open edX in creative ways. The talk is for those looking for technical insights into customization, user experience improvements, and strategies for dealing with the inherent challenges of Open edX’s architecture.
 
-The framework comes with a powerful feature set including [nested slides](https://revealjs.com/vertical-slides/), [Markdown support](https://revealjs.com/markdown/), [Auto-Animate](https://revealjs.com/auto-animate/), [PDF export](https://revealjs.com/pdf-export/), [speaker notes](https://revealjs.com/speaker-view/), [LaTeX typesetting](https://revealjs.com/math/), [syntax highlighted code](https://revealjs.com/code/) and an [extensive API](https://revealjs.com/api/).
+In this talk, we’ll share our journey of transforming a modern Open edX instance into a highly customized platform that delivers a consistent, branded learner experience across both the marketing site and the courseware.
 
----
+Along the way, we faced numerous technical and design challenges: integrating MFEs (micro front-ends) with inconsistent styles, managing complex front-end assets, and building a system where content and visual styling are maintained in one place.
+This talk will walk through our approach, starting with the design requirements that shaped our decision-making, followed by the technical choices that allowed us to leverage Open edX in a way that suited our needs. We’ll discuss the tools we used and the decision that led us to develop with Eleventy for static site generation and content management. We'll also explore how we created a unified course catalog and login awareness across the entire site experience.
 
-Want to create reveal.js presentation in a graphical editor? Try <https://slides.com>. It's made by the same people behind reveal.js.
+Additionally, we’ll dive into the pitfalls we encountered — MFEs that didn’t live up to expectations, poor documentation, and integration headaches — and how we “broke” Open edX to make it work for us.
 
----
+Finally, we’ll demonstrate our YAML config and JSON data integration and show how we customized our theme.
 
-### Getting started
-- 🚀 [Install reveal.js](https://revealjs.com/installation)
-- 👀 [View the demo presentation](https://revealjs.com/demo)
-- 📖 [Read the documentation](https://revealjs.com/markup/)
-- 🖌 [Try the visual editor for reveal.js at Slides.com](https://slides.com/)
-- 🎬 [Watch the reveal.js video course (paid)](https://revealjs.com/course)
 
---- 
-<div align="center">
-  MIT licensed | Copyright © 2011-2024 Hakim El Hattab, https://hakim.se
-</div>
+## Presenters
+
+- [Justin Gagne](https://www.linkedin.com/in/justingagne/)
+- [Roman Edirisinghe](https://www.linkedin.com/in/romanedirisinghe/)
+
+
+## Gymnasium Team
+- Andrew Miller
+- Jeremy Osborn
+- Keir Janey
+
+
+## Additional Contacts
+
+- [Amir Tadrisi](https://www.linkedin.com/in/amirtadrisi/)
+- [Mike Bifulco](https://www.linkedin.com/in/mbifulco/)
+- [OpenCraft](https://opencraft.com)
+
+## Links
+- [Aquent](https://aquent.com)
+- [Gymnasium](https://thegymnasium.com)
+
+## Resources
+- [YAML](https://yaml.org/)
+- [JSON](https://www.json.org/)
+- [Markdown Guide](https://www.markdownguide.org/basic-syntax/)
+- [Reveal.js Documentation](https://github.com/hakimel/reveal.js) (used for the presentation itself)
