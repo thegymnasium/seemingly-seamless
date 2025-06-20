@@ -1,20 +1,19 @@
-## Introduction
-
-Roman Edirisinghe, Director of Technology
+## Roman Edirisinghe
+Director of Technology
 
 - working with the web since 1996
 - background in art
 - largely self-taught
 
 
-Note:
-I'm Roman Edirisinghe, the hat I wear  Gymnasium’s director of technology. I joined Gymnasium in 2021, and had no prior experience with Open edX.
+Notes:
+I'm Roman Edirisinghe, and I'm Gymnasium’s director of technology. I joined Gymnasium in 2021, and had no prior experience with Open edX.
 
 
 ---
 
-
 ## Beginnings
+
 Vanilla Open edX vs Gymnasium's Open edX
 
 - Gymnasium's Hawthorn theme was heavily customized
@@ -23,12 +22,12 @@ Vanilla Open edX vs Gymnasium's Open edX
 - adding new pages required intervention of hosting provider
 
 
-Note:
+Notes:
 What ensued was a crash course not just into Open edX, but also into how the Gymnasium team had customized the platform.
 
 ---
 
-## Before
+## Recap
 
 Gymnasium's Hawthorn-based custom theme:
 - Used a SSG (Jekyll) to include pre-generated HTML fragments within the LMS
@@ -36,13 +35,15 @@ Gymnasium's Hawthorn-based custom theme:
 - But we still **needed** our hosting provider to generate new pages.
 - We were hampered by the limitations of Open edX. [REVISE]
 
-Note:
+Notes:
+
+If we bored you at the beginning, here's more stuff to help you fall asleep.
 
 ---
 
-## Hosting Woes
+## Sea Change Woes
 
-Sometimes, partnerships have to change.
+Sometimes, partnerships have to change. <!-- .element: class="fragment" data-fragment-index="0" -->
 
 - loveless marriage <!-- .element: class="fragment" data-fragment-index="1" -->
 - it's not you, it's me <!-- .element: class="fragment" data-fragment-index="2" -->
@@ -64,7 +65,7 @@ We realized the relationship with our hosting provider was not what it used to b
 - Change the overall architecture (frontend + LMS)
 
 
-Note: 
+Notes:
 
 
 
@@ -78,7 +79,7 @@ Note:
 - Confusing implementation - some parts of LMS were the theme, others were MFEs.
 
 
-Note:
+Notes:
 Started learning the MFEs in 2023/2024 etc.
 
 
@@ -90,7 +91,7 @@ Started learning the MFEs in 2023/2024 etc.
 - Upgrade from Hawthorn (2018) to Redwood (2024)
 - Our very talented collaborator Amir Tadrisi wrote some fancy scripts to automatically migrate data from version to version.
 
-Note:
+Notes:
 The next slide shows how many versions Amir needed to process.
 
 ---
@@ -118,7 +119,7 @@ The upgrade was huge pain point, but Amir's help made this step so much easier.
 
 10 versions in 10 hours, with 10 days of prep & planning.
 
-Note: 
+Notes:
 
 ---
 
@@ -127,7 +128,7 @@ Note:
 ![Screenshot of Flowchart](img/gymnasium-flowchart.png)
 
 
-Note: 
+Notes:
 
 
 ------
@@ -141,6 +142,7 @@ Why? Updating styles from one source is much easier/faster than updating it in 8
 2. disable theme CSS
 3. use eleventy to deliver CSS to MFEs + theme 
 
+Notes:
 
 ---
 
@@ -152,25 +154,21 @@ Why? Updating styles from one source is much easier/faster than updating it in 8
 - We make changes in the SSG, deploy that (2-5 minutes)
 - Trigger a rebuild of the open edx systems (35-45 minutes)
 
-
-Note:
+Notes:
 We are the ideal client for hosting providers - the only intervention hosting providers needed was to handle emergencies.
-
 
 ---
 
-
-<!-- .slide: data-background="purple" class="" -->
+<!-- .slide: data-background="black" class="" -->
 
 ## Truth = YAML + JSON <!-- .element: class="r-fit-text" -->
 
-Note:
+Notes:
 YAML/JSON as a source of truth - showing stages of “the truth”.
 
 Some may ask, why not just write your truth in JSON - the answer:  YAML is much easier to read and write, doesn't require curly braces and quotes everywhere.
 
 The second reason, is the JSON is consumed exclusively by the LMS portion of our setup - the MFEs + the theme
-
 
 ------
 
@@ -202,7 +200,7 @@ Notes:
 
 ---
 
-<!-- .slide: data-background="blue" class="" -->
+<!-- .slide: data-background="black" class="" -->
 ## Navigation
 
 Notes: Here's an example of the YAML that governs our navigation.
@@ -246,7 +244,7 @@ header:
   </code>
 </pre>
 
-Note:
+Notes:
 In this example, I'll step through the various sections of YAML, each of which will get processed and transformed.
 
 
@@ -318,7 +316,7 @@ In this example, I'll step through the various sections of YAML, each of which w
   </code>
 </pre>
 
-Note:
+Notes:
 The YAML gets processed by eleventy, which spits out the JSON. Take note that the GYM_ROOT_URL and GYM_LMS_URL text strings have been replaced by the actual URL. We did this to support our development, staging, and production environments.
 
 This JSON is consumed by the MFEs + LMS at build time.
@@ -333,7 +331,7 @@ This JSON is consumed by the MFEs + LMS at build time.
 ![Screenshot of main navigation](img/home-public.png)<!-- .element: class="r-fit-text" data-id="screencap" -->
 
 
-Note: 
+Notes:
 The home page for public visitors.
 
 
@@ -346,7 +344,7 @@ The home page for public visitors.
 ![Screenshot of main navigation](img/home-private.png)<!-- .element: class="r-fit-text" data-id="screencap" -->
 
 
-Note: 
+Notes:
 The home page for logged in users.
 
 ------
@@ -358,7 +356,7 @@ The home page for logged in users.
 ![Screenshot of main navigation](img/dash-after.png)<!-- .element: class="r-fit-text" data-id="screencap" -->
 
 
-Note: 
+Notes:
 The dashboard navigation.
 
 
@@ -372,17 +370,17 @@ The dashboard navigation.
 ![Screenshot of course navigation](img/course-about-dsfe.png)<!-- .element: class="r-fit-text" data-id="screencap" -->
 
 
-Note: 
+Notes:
 The course navigation (in this case, Gym Shorts)
 
 
 ---
 
-<!-- .slide: data-background="green" class="" -->
+<!-- .slide: data-background="black" class="" -->
 
 ## Meta Data <!-- .element: class="r-fit-text" -->
 
-Note:
+Notes:
 
 
 ------
@@ -403,7 +401,7 @@ meta:
   </code>
 </pre>
 
-Note:
+Notes:
 Here's an example of how we handle the site meta - those unseen elements that are so useful for SEO and web crawling spiders sent by search engines such as Google, Yahoo, Bing, etc, ad nauseam
 
 Oh wait, what's Twitter doing there?
@@ -427,7 +425,7 @@ meta:
   </code>
 </pre>
 
-Note:
+Notes:
 Next, the JSON
 
 ------
@@ -449,7 +447,7 @@ Next, the JSON
 </pre>
 
 
-Note: 
+Notes:
 The JSON gets generated from the YAML.
 
 ------
@@ -481,7 +479,7 @@ The JSON gets generated from the YAML.
   </code>
 </pre>
 
-Note: 
+Notes:
 And the resulting rendered HTML.
 
 
@@ -497,7 +495,7 @@ Screencaps of rendered pages:
 - 404 page
 - Banner
 
-Note:
+Notes:
 Potential screencaps of rendered pages:
 - Unified footer
 - 404 page
@@ -514,7 +512,7 @@ Potential screencaps of rendered pages:
 - Pitfalls: discovery that some development of MFEs resulted in CSS rules declared 8-10x (link to the issue)
 
 
-Note:
+Notes:
 
 
 
@@ -530,6 +528,6 @@ Note:
 - banner
 - overrides to core MFE behaviors
 
-Note:
+Notes:
 Rather than serve our header, footer, and overrides from different repositories, we created one repo to meet our needs. One repo to rule them all.
 

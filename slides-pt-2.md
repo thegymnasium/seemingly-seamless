@@ -1,4 +1,4 @@
-<!-- .slide: data-background="peru" -->
+<!-- .slide: data-background="black" -->
 ## Part 2, Slide 1
 Example text.
 
@@ -7,15 +7,15 @@ Example text.
 - bullet 3
 
 
-Note:
+Notes:
 Example note.
 
 
 ---
 
-<!-- .slide: data-background="whitesmoke" -->
+<!-- .slide: data-background="black" -->
 ## Slide 2
 More text.
 
-Note:
+Notes:
 More notes.

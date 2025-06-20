@@ -1,31 +1,43 @@
-<!-- .slide: data-background="darkmagenta" -->
-## Plot Twist
+## Conclusion
+
+- After 10 years of working with Open edX, the platform has become became much easier to customize
+- (thank you)
+
+---
+
+<!-- .slide: data-background="black" -->
+## Plot twist. Oops!
 All things will eventually come to pass.
 
 free costs money… it is bittersweet in a way… but we’re able to see our mission through by now turning all of this content public… and that was something Aquent didn’t have to do…
 
 
-Note:
+Notes:
 Example note.
 
----
+------
 
-## Plot twist. Oops!
+<!-- .slide: data-background-image="https://i.dailymail.co.uk/i/pix/2010/02/23/article-1253068-086DC3C1000005DC-407_964x584.jpg" class="" -->
 
-- We built the plane, but we had to land it and retire it to the Great American Airplane Graveyard. (image?)
 
+
+
+
+------
+
+## Retirement?
+
+- We built the plane, but we had to land it and retire it to the Great American Airplane Graveyard.
 - Didn't spend more than a few months flying our new jet.
 
-
 Notes:
-For the developers among you, we leaned into "graceful degradation" to shut down the LMS
+
 
 ---
 
 ## Post Gymnasium
 
 - core team members stuck on after layoffs to help transition the site to open-sourced content
-
 
 ---
 
@@ -36,7 +48,8 @@ The end of Gymnasium: in a moment of crisis, design & development was incredibly
 We made an incredibly flexible, agile environment - scaling up & scaling down/back
 
 Notes:
-More details.
+For the developers among you, we leaned into "graceful degradation" to shut down the LMS
+
 
 ---
 
@@ -70,7 +83,9 @@ After we were laid off, we almost didn't come.
 
 ---
 
-## Biblio
+## Links?
+
+(or do we just use the QR code in the next slide to point to the readme?)
 
 - [YAML](https://yaml.org/)
 
@@ -89,6 +104,6 @@ Questions?
 - Roman
 - Talk link (contains links to supporters/contributors)
 
-Note:
+Notes:
 
 On
