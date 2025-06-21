@@ -386,7 +386,7 @@ Notes: This is the YAML for our site footer
 <h2 data-id="code-title">Footer YAML</h2>
 <pre class="code-wrapper" data-id="code-animation">
   <code class="language-yml" 
-    data-disable-line-numbers="|2-22|23-38|39-57|58-114|115-136|138-151|152-159|160-191" data-trim> 
+    data-disable- line-numbers="|2-22|23-38|39-57|58-114|115-136|138-151|152-159|160-191" data-trim> 
 footer:
   nav:
     - title: What We Do
@@ -774,7 +774,65 @@ The unified site footer - this looks the same across the eleventy static site an
 
 <!-- .slide: data-background="black" class="" -->
 
-## Meta Data <!-- .element: class="r-fit-text" -->
+## Site Banner
+
+Notes:
+Used for sitewide notifications, we handle this similar to the footer - by embedding the entirety of it within the JSON.
+
+------
+
+<!-- .slide: data-auto-animate -->
+
+<h2 data-id="code-title">Site Banner YAML</h2>
+<pre class="code-wrapper" data-id="code-animation">
+  <code class="language-yml" data-line-numbers="" data-trim> 
+    <script type="text/template">
+banner:
+  active: true
+  class: 
+  content: |
+    <p><span aria-label="Pushpin emoji" role="img">📌</span> <strong>Some things have changed, but our courses and content remain free.</strong> We no longer offer credentials. <a href="/faq/">Please see the FAQ for details</a>.</p>
+      </script>
+  </code>
+</pre>
+
+Notes:
+
+
+------
+
+<!-- .slide: data-auto-animate -->
+
+<h2 data-id="code-title">Site Banner HTML</h2>
+<pre class="code-wrapper" data-id="code-animation">
+  <code class="language-html" data-line-numbers="" data-trim> 
+    <script type="text/template">
+<aside id="system-status" class="system-status">
+  <div class="container">
+    <p><span aria-label="Pushpin emoji" role="img">📌</span> <strong>Some things have changed, but our courses and content remain free.</strong> We no longer offer credentials. <a href="/faq/">Please see our FAQ for details</a>.</p>
+  </div>
+</aside>
+      </script>
+  </code>
+</pre>
+
+Notes:
+(note to self: this is another potential teaser about the conclusion)
+
+------
+
+<!-- .slide: data-background="black" class="" -->
+
+### Site Banner
+
+![Screenshot of site banner](img/banner-01.png)<!-- .element: class="r-fit-text" data-id="screencap" -->
+
+
+---
+
+<!-- .slide: data-background="black" class="" -->
+
+## Meta Data
 
 Notes:
 
@@ -887,15 +945,11 @@ And the resulting rendered HTML.
 TBD...
 
 Screencaps of rendered pages:
-- Unified footer
 - 404 page
-- Banner
 
 Notes:
 Potential screencaps of rendered pages:
-- Unified footer
 - 404 page
-- Banner
 
 
 ---
