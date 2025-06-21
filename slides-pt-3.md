@@ -797,7 +797,7 @@ banner:
 </pre>
 
 Notes:
-
+(note to self: this is another potential teaser about the conclusion)
 
 ------
 
@@ -826,6 +826,97 @@ Notes:
 ### Site Banner
 
 ![Screenshot of site banner](img/banner-01.png)<!-- .element: class="r-fit-text" data-id="screencap" -->
+
+Notes:
+(note to self: this is another potential teaser about the conclusion)
+
+---
+
+<!-- .slide: data-background="black" class="" -->
+
+## 404 Error
+
+Notes:
+
+
+------
+
+<!-- .slide: data-auto-animate -->
+
+<h2 data-id="code-title">404 YAML</h2>
+<pre class="code-wrapper" data-id="code-animation">
+  <code class="language-yml" data-line-numbers="" data-trim> 
+    <script type="text/template">
+errors:
+  error_404:
+    heading: '404: Page Not Found'
+    description: |
+      <span aria-label="Waving hand emoji" role="img">👋</span> You discovered a page that doesn’t exist.
+    body: |
+      <p>Some might call you lost. Others might call you a creative genius.</p><p>Either way, we suggest that you check out our frequently visited pages below:</p>
+    show_links: true
+  error_unknown:
+    heading: 'Oops!'
+    description: |
+      <span aria-label="Waving hand emoji" role="img">👋</span> There was an unexpected error.
+    body: |
+      <p>Try refreshing the page using the button below.</p>
+    footer: |
+      <p>If this issue persists, please reach out to our support team at <b><a href="mailto:help@thegymnasium.com?subject=Get+In+Touch">help@thegymnasium.com</a></b>.</p>
+    show_links: false
+  links:
+  - label: Homepage
+    url: GYM_ROOT_URL/
+  - label: Full Courses
+    url: GYM_ROOT_URL/courses/full/
+  - label: Gym Shorts
+    url: GYM_ROOT_URL/courses/gym-shorts/
+  - label: Take 5 Tutorials
+    url: GYM_ROOT_URL/courses/take5/
+  footer: |
+    <p>Need to get in touch? You can email us at <b><a href="mailto:help@thegymnasium.com?subject=Get+In+Touch">help@thegymnasium.com</a></b>.</p>
+      </script>
+  </code>
+</pre>
+
+Notes:
+
+------
+
+<!-- .slide: data-auto-animate -->
+
+<h2 data-id="code-title">404 HTML</h2>
+<pre class="code-wrapper" data-id="code-animation">
+  <code class="language-html" data-line-numbers="" data-trim> 
+    <script type="text/template">
+<header class="main-header">
+  <h1>404: Page Not Found</h1>
+  <p><span aria-label="Waving hand emoji" role="img">👋</span> You discovered a page that doesn’t exist.</p>
+</header>
+<p>Some might call you lost. Others might call you a creative genius.</p>
+<p>Either way, we suggest that you check out our frequently visited pages below:</p>
+<ul>
+  <li><a href="/">Homepage</a></li>
+  <li><a href="/courses/full/">Full Courses</a></li>
+  <li><a href="/courses/gym-shorts/">Gym Shorts</a></li>
+  <li><a href="/courses/take5/">Take 5 Tutorials</a></li>
+</ul>
+      </script>
+  </code>
+</pre>
+
+Notes:
+
+
+------
+
+<!-- .slide: data-background="black" class="" -->
+
+### 404 Page
+
+![Screenshot of 404 error page](img/error-404.png)<!-- .element: class="r-fit-text" data-id="screencap" -->
+
+Notes:
 
 
 ---
@@ -936,24 +1027,7 @@ The JSON gets generated from the YAML.
 Notes:
 And the resulting rendered HTML.
 
-
 ---
-
-
-## TODO: show more Rendered Components
-
-TBD...
-
-Screencaps of rendered pages:
-- 404 page
-
-Notes:
-Potential screencaps of rendered pages:
-- 404 page
-
-
----
-
 
 ## CSS (SCSS)
 
@@ -961,9 +1035,7 @@ Potential screencaps of rendered pages:
 - Required disabling default CSS of MFEs. 
 - Pitfalls: discovery that some development of MFEs resulted in CSS rules declared 8-10x (link to the issue)
 
-
 Notes:
-
 
 
 ---
