@@ -116,7 +116,7 @@ Notes:
 
 ---
 
-## Thanks
+### Made Possible By
 
 - Thank the team
 - Thank Aquent
@@ -142,12 +142,14 @@ Merci beaucoup
 
 - [Justin Gagne](https://www.linkedin.com/in/justingagne/)[QR]
     - linkedin.com/in/justingagne/
+
 - [Roman Edirisinghe](https://www.linkedin.com/in/romanedirisinghe/) [QR]
     - linkedin.com/in/romanedirisinghe/
+
 - [Seemingly Seamless](https://github.com/thegymnasium/seemingly-seamless) [QR]
     - github.com/thegymnasium/seemingly-seamless
+
 
 Questions?
 
 Notes:
-
