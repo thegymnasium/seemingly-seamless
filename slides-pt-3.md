@@ -389,15 +389,11 @@ Used for sitewide notifications, we handle this similar to the footer - by embed
 
 <h2 data-id="code-title">Site Banner YAML</h2>
 <pre class="code-wrapper" data-id="code-animation">
-  <code class="language-yml" data-line-numbers="" data-trim> 
-    <script type="text/template">
-banner:
-  active: true
-  class: 
-  content: |
-    <p><span aria-label="Pushpin emoji" role="img">📌</span> <strong>Some things have changed, but our courses and content remain free.</strong> We no longer offer credentials. <a href="/faq/">Please see the FAQ for details</a>.</p>
-      </script>
-  </code>
+  <code class="language-yml"
+    data-line-numbers=""
+    data-trim
+    data-url="code-samples/banner.yaml"
+    ></code>
 </pre>
 
 Notes:
@@ -409,15 +405,11 @@ Notes:
 
 <h2 data-id="code-title">Site Banner HTML</h2>
 <pre class="code-wrapper" data-id="code-animation">
-  <code class="language-html" data-line-numbers="" data-trim> 
-    <script type="text/template">
-<aside id="system-status" class="system-status">
-  <div class="container">
-    <p><span aria-label="Pushpin emoji" role="img">📌</span> <strong>Some things have changed, but our courses and content remain free.</strong> We no longer offer credentials. <a href="/faq/">Please see our FAQ for details</a>.</p>
-  </div>
-</aside>
-      </script>
-  </code>
+  <code class="language-html"
+    data-line-numbers=""
+    data-trim
+    data-url="code-samples/banner.html"
+    ></code>
 </pre>
 
 Notes:
@@ -449,38 +441,11 @@ Notes:
 
 <h2 data-id="code-title">404 YAML</h2>
 <pre class="code-wrapper" data-id="code-animation">
-  <code class="language-yml" data-line-numbers="" data-trim> 
-    <script type="text/template">
-errors:
-  error_404:
-    heading: '404: Page Not Found'
-    description: |
-      <span aria-label="Waving hand emoji" role="img">👋</span> You discovered a page that doesn’t exist.
-    body: |
-      <p>Some might call you lost. Others might call you a creative genius.</p><p>Either way, we suggest that you check out our frequently visited pages below:</p>
-    show_links: true
-  error_unknown:
-    heading: 'Oops!'
-    description: |
-      <span aria-label="Waving hand emoji" role="img">👋</span> There was an unexpected error.
-    body: |
-      <p>Try refreshing the page using the button below.</p>
-    footer: |
-      <p>If this issue persists, please reach out to our support team at <b><a href="mailto:help@thegymnasium.com?subject=Get+In+Touch">help@thegymnasium.com</a></b>.</p>
-    show_links: false
-  links:
-  - label: Homepage
-    url: GYM_ROOT_URL/
-  - label: Full Courses
-    url: GYM_ROOT_URL/courses/full/
-  - label: Gym Shorts
-    url: GYM_ROOT_URL/courses/gym-shorts/
-  - label: Take 5 Tutorials
-    url: GYM_ROOT_URL/courses/take5/
-  footer: |
-    <p>Need to get in touch? You can email us at <b><a href="mailto:help@thegymnasium.com?subject=Get+In+Touch">help@thegymnasium.com</a></b>.</p>
-      </script>
-  </code>
+  <code class="language-yml"
+    data-line-numbers=""
+    data-trim
+    data-url="code-samples/error-404.yaml"
+    ></code>
 </pre>
 
 Notes:
@@ -491,22 +456,11 @@ Notes:
 
 <h2 data-id="code-title">404 HTML</h2>
 <pre class="code-wrapper" data-id="code-animation">
-  <code class="language-html" data-line-numbers="" data-trim> 
-    <script type="text/template">
-<header class="main-header">
-  <h1>404: Page Not Found</h1>
-  <p><span aria-label="Waving hand emoji" role="img">👋</span> You discovered a page that doesn’t exist.</p>
-</header>
-<p>Some might call you lost. Others might call you a creative genius.</p>
-<p>Either way, we suggest that you check out our frequently visited pages below:</p>
-<ul>
-  <li><a href="/">Homepage</a></li>
-  <li><a href="/courses/full/">Full Courses</a></li>
-  <li><a href="/courses/gym-shorts/">Gym Shorts</a></li>
-  <li><a href="/courses/take5/">Take 5 Tutorials</a></li>
-</ul>
-      </script>
-  </code>
+  <code class="language-html"
+    data-line-numbers=""
+    data-trim
+    data-url="code-samples/error-404.html"
+    ></code>
 </pre>
 
 Notes:
@@ -538,16 +492,11 @@ Notes:
 
 <h2 data-id="code-title">Meta YAML</h2>
 <pre class="code-wrapper" data-id="code-animation">
-  <code class="language-yml" data-line-numbers="|8" data-trim> 
-meta:
-  title: Gymnasium
-  subtitle: Free online courses and tutorials on design and development.
-  author: Aquent Gymnasium
-  description: Design a career you love with our free online courses and tutorials on design, development, UX, prototyping, accessibility, and career skills.
-  short_description: Design a career you love with free online courses and tutorials.
-  og_img: /img/og/gym-brand.png
-  twitter_handle: "@AquentGymnasium"
-  </code>
+  <code class="language-yml"
+    data-line-numbers="|8"
+    data-trim
+    data-url="code-samples/meta.yaml"
+    ></code>
 </pre>
 
 Notes:
@@ -563,15 +512,12 @@ Let's cancel that.
 
 <h2 data-id="code-title">Meta YAML</h2>
 <pre class="code-wrapper" data-id="code-animation">
-  <code class="language-yml" data-line-numbers data-trim> 
-meta:
-  title: Gymnasium
-  subtitle: Free online courses and tutorials on design and development.
-  author: Aquent Gymnasium
-  description: Design a career you love with our free online courses and tutorials on design, development, UX, prototyping, accessibility, and career skills.
-  short_description: Design a career you love with free online courses and tutorials.
-  og_img: /img/og/gym-brand.png
-  </code>
+  <code class="language-yml"
+    data-line-numbers
+    data-trim
+    data-url="code-samples/meta.yaml"
+    data-line-end="7"
+    ></code>
 </pre>
 
 Notes:
@@ -583,16 +529,11 @@ Next, the JSON
 ## META JSON
 
 <pre class="code-wrapper" data-id="code-animation">
-  <code class="language-json" data-line-numbers data-trim>
-"meta": {
-  "title": "Gymnasium",
-  "subtitle": "Free online courses and tutorials on design and development.",
-  "author": "Aquent Gymnasium",
-  "description": "Design a career you love with our free online courses and tutorials on design, development, UX, prototyping, accessibility, and career skills.",
-  "short_description": "Design a career you love with free online courses and tutorials.",
-  "og_img": "/img/og/gym-brand.png"
-}
-  </code>
+  <code class="language-json"
+    data-line-numbers
+    data-trim
+    data-url="code-samples/meta.json"
+    ></code>
 </pre>
 
 
@@ -604,28 +545,11 @@ The JSON gets generated from the YAML.
 ## Meta HTML
 
 <pre class="code-wrapper" data-id="code-animation">
-  <code class="language-html" data-line-numbers="6,10,11,12,13,14" data-trim>
-    <script type="text/template">
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width,initial-scale=1">
-<meta name="generator" content="Eleventy v3.0.0">
-<meta http-equiv="x-ua-compatible" content="ie=edge">
-<meta name="robots" content="noai, noimageai, noindex, nofollow, noimageindex, noarchive, nosnippet, nocache">
-<title>Free online courses and tutorials on design and development. | Gymnasium</title>
-<meta name="author" property="og:site_name" content="Aquent Gymnasium">
-<link rel="canonical" href="https://thegymnasium.com/">
-<meta property="og:url" content="https://thegymnasium.com/">
-<meta property="og:title" content="Free online courses and tutorials on design and development.">
-<meta name="description" property="og:description"
-  content="Design a career you love with our free online courses and tutorials on design, development, UX, prototyping, accessibility, and career skills.">
-<meta property="og:image:alt" content="Free online courses and tutorials on design and development.">
-<meta property="og:image" content="https://thegymnasium.com/img/og/gym-brand.png">
-<meta property="og:image:width" content="1200">
-<meta property="og:image:height" content="628">
-<meta property="og:type" content="website">
-<meta property="og:locale" content="en_US">
-    </script>
-  </code>
+  <code class="language-html"
+    data-line-numbers="6,10,11,12,13,14"
+    data-trim
+    data-url="code-samples/meta.html"
+    ></code>
 </pre>
 
 Notes:
