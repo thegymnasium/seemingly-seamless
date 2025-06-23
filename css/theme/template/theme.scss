@@ -328,3 +328,17 @@
         background-color: var(--r-background-color);
     }
 }
+
+/*********************************************
+ * VISIBILITY CLASSES
+ *********************************************/
+.hide {
+	display: none;
+}
+
+/*********************************************
+ * UTILITY STYLE CLASSES
+ *********************************************/
+.text-shadow {
+	text-shadow: var(--r-text-shadow) !important;
+}

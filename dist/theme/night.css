@@ -39,6 +39,7 @@ section.has-light-background, section.has-light-background h1, section.has-light
   --r-selection-color: #fff;
   --r-overlay-element-bg-color: 240, 240, 240;
   --r-overlay-element-fg-color: 0, 0, 0;
+  --r-text-shadow: 0 0 0.5rem rgba(0, 0, 0, 0.95);
 }
 
 .reveal-viewport {
@@ -357,4 +358,17 @@ section.has-light-background, section.has-light-background h1, section.has-light
   .backgrounds {
     background-color: var(--r-background-color);
   }
+}
+/*********************************************
+ * VISIBILITY CLASSES
+ *********************************************/
+.hide {
+  display: none;
+}
+
+/*********************************************
+ * UTILITY STYLE CLASSES
+ *********************************************/
+.text-shadow {
+  text-shadow: var(--r-text-shadow) !important;
 }

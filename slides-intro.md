@@ -115,9 +115,9 @@ Since 2015, Gymnasium’s course catalog has expanded, not just in quantity, but
 
 ---
 
-<!-- .slide: data-background-image="https://www.publicdomainpictures.net/pictures/80000/velka/giant-redwood-trees-in-california-1392245948kXD.jpg" class="" -->
+<!-- .slide: data-background="black" data-background-image="https://www.publicdomainpictures.net/pictures/80000/velka/giant-redwood-trees-in-california-1392245948kXD.jpg" class="has-dark-background" -->
 
-## Our Open edX Journey <!-- .element: style="color:white" -->
+## Our Open edX Journey <!-- .element: class="text-shadow" -->
 
 ---
 

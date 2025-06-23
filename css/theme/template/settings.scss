@@ -45,6 +45,8 @@ $selectionColor: #fff;
 $overlayElementBgColor: 240, 240, 240;
 $overlayElementFgColor: 0, 0, 0;
 
+$textShadow: 0 0 0.5rem rgba(0,0,0,0.95);
+
 // Generates the presentation background, can be overridden
 // to return a background image or gradient
 @mixin bodyBackground() {
