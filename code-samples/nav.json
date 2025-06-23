@@ -1,0 +1,59 @@
+{
+  "nav": {
+    "main": [
+      {
+        "label": "Courses",
+        "href": "https://thegymnasium.com/courses/"
+      },
+      {
+        "label": "Jobs",
+        "href": "https://thegymnasium.com/jobs/"
+      },
+      {
+        "label": "About",
+        "href": "https://thegymnasium.com/about/"
+      }
+    ],
+    "auth": {
+      "public": [
+        {
+          "label": "Sign In",
+          "href": "https://learn.thegymnasium.com/login"
+        },
+        {
+          "label": "Sign Up",
+          "href": "https://learn.thegymnasium.com/register",
+          "class": "btn"
+        }
+      ],
+      "private": [
+        {
+          "label": "Dashboard",
+          "href": "https://learn.thegymnasium.com/dashboard"
+        },
+        {
+          "label": "Log Out",
+          "href": "https://learn.thegymnasium.com/logout"
+        }
+      ]
+    },
+    "courses": [
+      {
+        "label": "Full Courses",
+        "href": "https://thegymnasium.com/courses/full/"
+      },
+      {
+        "label": "Gym Shorts",
+        "href": "https://thegymnasium.com/courses/gym-shorts/"
+      },
+      {
+        "label": "Take 5 Tutorials",
+        "href": "https://thegymnasium.com/courses/take5/"
+      },
+      {
+        "label": "Collections",
+        "href": "https://thegymnasium.com/collections/"
+      }
+    ]
+  }
+}

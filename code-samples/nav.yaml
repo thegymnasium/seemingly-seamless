@@ -1,0 +1,30 @@
+header:
+  nav:
+    main:
+    - label: Courses
+      href: GYM_ROOT_URL/courses/
+    - label: Jobs
+      href: GYM_ROOT_URL/jobs/
+    - label: About
+      href: GYM_ROOT_URL/about/
+    auth:
+      public:
+      - label: Sign In
+        href: GYM_LMS_URL/login
+      - label: Sign Up
+        href: GYM_LMS_URL/register
+        class: btn
+      private:
+      - label: Dashboard
+        href: GYM_LMS_URL/dashboard
+      - label: Log Out
+        href: GYM_LMS_URL/logout
+    courses:
+    - label: Full Courses
+      href: GYM_ROOT_URL/courses/full/
+    - label: Gym Shorts
+      href: GYM_ROOT_URL/courses/gym-shorts/
+    - label: Take 5 Tutorials
+      href: GYM_ROOT_URL/courses/take5/
+    - label: Collections
+      href: GYM_ROOT_URL/collections/

@@ -226,38 +226,11 @@ Notes: Here's an example of the YAML that governs our navigation.
 <!-- .slide: data-auto-animate -->
 <h2 data-id="code-title">Navigation YAML</h2>
 <pre class="code-wrapper" data-id="code-animation">
-  <code class="language-yml" data-line-numbers="|3-9|11-16|17-21|22-30" data-trim> 
-header:
-  nav:
-    main:
-    - label: Courses
-      href: GYM_ROOT_URL/courses/
-    - label: Jobs
-      href: GYM_ROOT_URL/jobs/
-    - label: About
-      href: GYM_ROOT_URL/about/
-    auth:
-      public:
-      - label: Sign In
-        href: GYM_LMS_URL/login
-      - label: Sign Up
-        href: GYM_LMS_URL/register
-        class: btn
-      private:
-      - label: Dashboard
-        href: GYM_LMS_URL/dashboard
-      - label: Log Out
-        href: GYM_LMS_URL/logout
-    courses:
-    - label: Full Courses
-      href: GYM_ROOT_URL/courses/full/
-    - label: Gym Shorts
-      href: GYM_ROOT_URL/courses/gym-shorts/
-    - label: Take 5 Tutorials
-      href: GYM_ROOT_URL/courses/take5/
-    - label: Collections
-      href: GYM_ROOT_URL/collections/
-  </code>
+  <code class="language-yml" 
+    data-line-numbers="|3-9|11-16|17-21|22-30" 
+    data-trim
+    data-url="code-samples/nav.yaml"
+  ></code>
 </pre>
 
 Notes:
@@ -271,65 +244,11 @@ In this example, I'll step through the various sections of YAML, each of which w
 ## Navigation JSON
 
 <pre class="code-wrapper" data-id="code-animation">
-  <code class="language-json" data-line-numbers="|2-15|17-27|28-37|39-56" data-trim>
-"nav": {
-  "main": [
-    {
-      "label": "Courses",
-      "href": "https://thegymnasium.com/courses/"
-    },
-    {
-      "label": "Jobs",
-      "href": "https://thegymnasium.com/jobs/"
-    },
-    {
-      "label": "About",
-      "href": "https://thegymnasium.com/about/"
-    }
-  ],
-  "auth": {
-    "public": [
-      {
-        "label": "Sign In",
-        "href": "https://learn.thegymnasium.com/login"
-      },
-      {
-        "label": "Sign Up",
-        "href": "https://learn.thegymnasium.com/register",
-        "class": "btn"
-      }
-    ],
-    "private": [
-      {
-        "label": "Dashboard",
-        "href": "https://learn.thegymnasium.com/dashboard"
-      },
-      {
-        "label": "Log Out",
-        "href": "https://learn.thegymnasium.com/logout"
-      }
-    ]
-  },
-  "courses": [
-    {
-      "label": "Full Courses",
-      "href": "https://thegymnasium.com/courses/full/"
-    },
-    {
-      "label": "Gym Shorts",
-      "href": "https://thegymnasium.com/courses/gym-shorts/"
-    },
-    {
-      "label": "Take 5 Tutorials",
-      "href": "https://thegymnasium.com/courses/take5/"
-    },
-    {
-      "label": "Collections",
-      "href": "https://thegymnasium.com/collections/"
-    }
-  ]
-}
-  </code>
+  <code class="language-json"
+    data-line-numbers="|3-16|18-28|29-38|40-57"
+    data-trim
+    data-url="code-samples/nav.json"
+    ></code>
 </pre>
 
 Notes:
