@@ -72,7 +72,9 @@ Notes:
 ---
 
 
-## Post Hawthorn Open edX (Olive...Palm)
+## Research Phase
+
+Post Hawthorn Open edX (Olive...Palm)
 
 - MFEs
 - Noticed MFEs weren't built consistently
@@ -82,6 +84,19 @@ Notes:
 Notes:
 Started learning the MFEs in 2023/2024 etc.
 
+
+---
+
+### Plan Overview
+
+1. login "awareness" on static site [TODO: reference a cookie]
+1. open edx version upgrade
+1. achieving a consistent experience
+    1. custom react components
+    1. CSS served from static site
+
+Notes:
+For the sake of simplicity, we are going to skip talking about login awareness and focus on the 
 
 ---
 
@@ -115,11 +130,11 @@ Could you imagine going through these manually? We will leave you a QR code to c
 ---
 
 ## Pain = Healing
-The upgrade was huge pain point, but Amir's help made this step so much easier.
 
 10 versions in 10 hours, with 10 days of prep & planning.
 
 Notes:
+The upgrade was huge pain point, but Amir's help made this step so much easier.
 
 ---
 
@@ -143,12 +158,13 @@ Why? Updating styles from one source is much easier/faster than updating it in 8
 3. use eleventy to deliver CSS to MFEs + theme 
 
 Notes:
+Among other thinbgs, our goal was to take advantage of our static site's 2 minute build time. Compare that to 35-45 minutes on average for deploying open edx changes.
 
 ---
 
 
 
-## Site Build Process Overview
+## Deployment Process Overview
 
 - Process is streamlined and reduces the dependency/intervention from the hosting provider. 
 - We make changes in the SSG, deploy that (2-5 minutes)
@@ -1029,13 +1045,33 @@ And the resulting rendered HTML.
 
 ---
 
-## CSS (SCSS)
+## 
+
+
+------
+
+## Consistent Visual Design
 
 - CSS being served from SSG (eleventy)
 - Required disabling default CSS of MFEs. 
 - Pitfalls: discovery that some development of MFEs resulted in CSS rules declared 8-10x (link to the issue)
 
 Notes:
+Let's talk talk about the steps involved in achieving a consistent visual design.
+
+------
+
+### Disable default CSS
+
+Notes:
+To achieve a consistent aesthetic, and to take advantage of our static site's 2 minute build time, we decided to serve all the CSS from the static site.
+
+
+------
+
+### Reasoning
+
+
 
 
 ---
