@@ -7,6 +7,8 @@ Notes:
 
 ---
 
+<!-- .slide: data-auto-animate -->
+
 ## Next Steps?
 
 Revisit our implentation by:
@@ -17,6 +19,8 @@ Revisit our implentation by:
 - creating additional MFEs to account for parts of the UI we decided to hide<!-- .element: class="fragment" data-fragment-index="4" -->
 
 ------
+
+<!-- .slide: data-auto-animate -->
 
 ## Next Steps?
 
@@ -46,7 +50,7 @@ You can anticipate and plan for all sort of outcomes, but the one you don't acco
 
 ------
 
-## Shit Happens <!-- .element: class="hide" -->
+## Sh*t Happens <!-- .element: class="hide" -->
 
 <!-- .slide: data-background="black" -->
 
@@ -56,7 +60,7 @@ You can anticipate and plan for all sort of outcomes, but the one you don't acco
 
 ------
 
-## Post Shit <!-- .element: class="hide" -->
+## Post Sh*t <!-- .element: class="hide" -->
 
 Despite hardships, we’re able to see our mission through by now turning all of our content public.
 
@@ -118,12 +122,12 @@ Notes:
 
 ### Made Possible By
 
-- Thank the team
-- Thank Aquent
-- Thank sponsors
-- Thank Appsembler
-- Thank OpenCraft
-- Thank Amir
+- Gymnasium Team
+- Amir
+- Aquent
+- Open edX
+- Appsembler
+- OpenCraft
 
 ---
 
