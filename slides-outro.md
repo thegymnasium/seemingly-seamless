@@ -37,10 +37,10 @@ Revisit our implentation by:
 
 <!-- .slide: data-background="black" -->
 
-## Plot twist
-Anything that can go wrong will go wrong.
+## Plot Twist
+Anything that can go wrong will go wrong.<!-- .element: class="fragment" data-fragment-index="1" -->
 
-You can anticipate and plan for all sort of outcomes, but the one you don't account for is…<!-- .element: class="fragment" data-fragment-index="1" -->
+You can anticipate and plan for all sort of outcomes, but the one you don't account for is…<!-- .element: class="fragment" data-fragment-index="2" -->
 
 ------
 
