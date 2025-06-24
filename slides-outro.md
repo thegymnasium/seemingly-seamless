@@ -29,6 +29,7 @@ Notes:
 site ran successfully for 3 months
 
 Notes:
+Do we want to adjust this to make it seem less like it happened in the past?
 
 ---
 
@@ -86,6 +87,14 @@ Notes:
 
 ---
 
+### unexpected turbulence <!-- .element: class="hide" -->
+
+unexpected turbulence
+
+Notes:
+
+---
+
 ### things go wrong <!-- .element: class="hide" -->
 
 anything that can go wrong will go wrong
@@ -104,7 +113,7 @@ Notes:
 
 <!-- .slide: data-background="black" -->
 
-## Free costs money <!-- .element: class="" -->
+## Free costs money 💸<!-- .element: class="" -->
 
 Notes:
 Everything comes at a cost.
@@ -113,13 +122,13 @@ Everything comes at a cost.
 
 ### budget cuts <!-- .element: class="hide" -->
 
-budget cuts
+budget cuts 📉
 
 ---
 
 ### reorg <!-- .element: class="hide" -->
 
-a surprise company reorganization
+a surprise company reorganization 🙈
 
 Notes:
 
@@ -127,7 +136,7 @@ Notes:
 
 ### department closed <!-- .element: class="hide" -->
 
-and our department was retired
+and our department was retired 😱
 
 Notes:
 
@@ -145,25 +154,25 @@ Notes:
 
 ---
 
-## No more LMS?
+## No more LMS? 📚
 
 Notes:
 
 ---
 
-## No credentials
+## No credentials? 🏆📜🎓
 
 Notes:
 
 ---
 
-## Content goes public
+## Make everything public 🌍
 
 Notes:
 
 ---
 
-## Still free online learning 💯
+## Still free online learning 💯🆓
 
 Notes:
 (via YouTube)
@@ -178,15 +187,17 @@ Notes:
 
 ---
 
-## Exit Row Only
+## 🛬 Exit row seats only
 
-- Post Gymnasium: core team members helped transition the site to archived, publicly available content
+---
+
+core team members helped transition the site to archived, publicly available content
 
 Notes: 
 
 ---
 
-## Emergency Landing
+## 🛬 Emergency Landing
 
 The end of Gymnasium: in a moment of crisis, design & development was incredibly easy for us.
 
@@ -200,7 +211,7 @@ Notes:
 
 ---
 
-## Mission Accomplished
+## Mission Accomplished 💪
 
 - Aquent’s mission to provide free education continues, sans certificates.
 
@@ -208,7 +219,7 @@ Notes: (improv)
 
 ---
 
-### Made Possible By
+### 🙏 Made Possible By 🤝
 
 - Gymnasium Team
 - Amir
@@ -223,7 +234,7 @@ Notes: (improvise)
 
 <!-- .slide: data-background="black" -->
 
-## More than a job
+## More than a job 💼
 
 - We love doing this type of work
 - We’re available to help – and to hire
@@ -232,13 +243,13 @@ Notes: (improvise)
 
 ---
 
-## Fin
+## Fin 🔚
 
 Merci beaucoup <!-- .element: class="fragment" data-fragment-index="2" -->
 
 ---
 
-### Questions?
+### Questions? 🤨❓
 
 - [Justin Gagne](https://www.linkedin.com/in/justingagne/)[QR]
     - linkedin.com/in/justingagne/
@@ -248,8 +259,6 @@ Merci beaucoup <!-- .element: class="fragment" data-fragment-index="2" -->
 
 - [Seemingly Seamless](https://github.com/thegymnasium/seemingly-seamless) [QR]
     - github.com/thegymnasium/seemingly-seamless
-
-
 
 
 Notes: (improvise)
