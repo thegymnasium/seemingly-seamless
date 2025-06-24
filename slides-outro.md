@@ -26,10 +26,9 @@ Notes:
 
 ### clear skies <!-- .element: class="hide" -->
 
-site ran successfully for 3 months
+site running successfully for months
 
 Notes:
-Do we want to adjust this to make it seem less like it happened in the past?
 
 ---
 
@@ -89,7 +88,7 @@ Notes:
 
 ### unexpected turbulence <!-- .element: class="hide" -->
 
-unexpected turbulence
+unexpected turbulence!
 
 Notes:
 
