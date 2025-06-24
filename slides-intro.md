@@ -185,9 +185,9 @@ What started as a custom-built platform grew into something much bigger and bett
 
 ### Building the Plane While Flying It
 
-[screencap?]
+![Screencap of building the plane while flying it video.](img/building-the-plane-speech.png)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5DiJ_2Bz2hM?si=7oauqxnLKzUk8317" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/5DiJ_2Bz2hM?si=7oauqxnLKzUk8317" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> -->
 
 Notes: This talk is a continuation of the previous presentation. All civilization is built on the shoulders of giants.
 
