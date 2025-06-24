@@ -1,36 +1,31 @@
 <!-- .slide: data-background="black" -->
+
 ## Seemingly Seamless
 ### How We Improved the Learner Experience and Made Our Lives Easier
-
-with **Roman Edirisinghe** and **Justin Gagne**
 
 `Open edX 2025`
 
 Notes:
-
 Thank you for joining us for our case study talk, Seemingly Seamless: How We Improved the Learner Experience and Made Our Lives Easier.
-
-
 
 ---
 
 ### Introduce Roman <!-- .element: class="hide" -->
 
-Roman Edirisinghe, Director of Technology
-
 ![Image of Roman](img/roman.png)
+
+Roman Edirisinghe, Director of Technology
 
 Notes:
 I’m Roman Edirisinghe, Director of Technology
-
 
 ---
 
 ### Introduce Justin<!-- .element: class="hide" -->
 
-Justin Gagne, Design Lead
-
 ![Image of Justin](img/justin.png)
+
+Justin Gagne, Design Lead
 
 Notes: And I’m Justin Gagne, Design Lead
 
@@ -43,10 +38,9 @@ Notes: And I’m Justin Gagne, Design Lead
 - Along the way, we ran into many pitfalls, least of which was our desire for maximum customization.
 - We're here to show our version of seamless, which resulted in **zero** support tickets filed post new platform launch.
 
-Notes: (Justin improvise)
+Notes:
 
-
-------
+---
 
 ## What We'll Cover
 *(Not necessarily in order of appearance.)*
@@ -57,8 +51,7 @@ Notes: (Justin improvise)
 - We overcame styling, asset, and content challenges.
 - We’ll demonstrate our approach to customization.
 
-
-Notes: (Roman improvise)
+Notes:
 
 ---
 
@@ -66,12 +59,11 @@ Notes: (Roman improvise)
 
 ![Gymnasium homepage, June 2025.](img/gym-homepage-06-2025-1920w.png)
 
-Notes: (Justin improvise)
+Notes:
 
 Bonjour, Ahoj, Hello — we're Gymnasium — Aquent’s free learning platform.
 
 Together, we built Gymnasium — it’s marketing site and Open edX learner experience.
-
 
 ---
 
@@ -83,7 +75,7 @@ Since 2013, we’ve reached over 160,000 students from more than 200 countries a
 
 For many students, these credentials — certificates and badges — significantly increase their chances of landing a job.<!-- .element: class="fragment" data-fragment-index="2" -->
 
-Notes: (Justin)
+Notes:
 A little bit more about Gymnasium...
 
 We offer free online courses and tutorials on design, development, UX, prototyping, accessibility, and career skills.
@@ -99,17 +91,16 @@ Since 2013:
 
 ![LinkedIn Gymnasium course certificate completion show-off.](img/student-certificate-1920w.png)
 
-Notes: (Justin)
+Notes:
 Our students frequently share their achievements on LinkedIn, showcasing the skills they’ve built through Gymnasium.
 
 ---
-
 
 ## Empowerment
 
 ![Intern empowerment through Gymnasium.](img/student-certificate-detail-1920w.png)
 
-Notes: (Justin)
+Notes:
 New skills often lead to empowerment. Seeing an intern like Salma in Egypt upskilling is just one of over 20,000 stories that make free online learning meaningful — thanks to Gymnasium and made possible by our parent company, Aquent. Congrats to Salma!
 
 
@@ -123,8 +114,7 @@ New skills often lead to empowerment. Seeing an intern like Salma in Egypt upski
 Notes: (Roman)
 When we lauched on open edx in 2015, we started with 5 full courses and three short courses.
 
-
-------
+---
 
 ### Screencap: March 2016<!-- .element: class="hide" -->
 
@@ -146,14 +136,13 @@ Notes: (Roman) a sample of Gymnasium a decade ago.
 Notes: (Justin)
 Since 2015, Gymnasium’s course catalog has expanded, not just in quantity, but also in topic and format. Retired courses remain accessible to learners, while new formats like our 5-minute tutorials and the 2024 live format portfolio workshop pilot helped meet diverse learning needs.
 
-
-------
+---
 
 ### Screencap: June 2025<!-- .element: class="hide" -->
 
 ![Gymnasium catalog, June 2025.](img/gym-courses-detail-2025-1920w.png)
 
-Notes: (Justin prompt Roman for zooms) 
+Notes:
 - Here is what our course catalog looks like now.
 - Our design language hasn't changed much, but it has simplified and aged into a fine wine.
 
@@ -163,32 +152,31 @@ Notes: (Justin prompt Roman for zooms)
 
 <!-- .slide: data-background="black" data-background-image="https://www.publicdomainpictures.net/pictures/80000/velka/giant-redwood-trees-in-california-1392245948kXD.jpg" class="has-dark-background" -->
 
-Notes: (Roman)
+Notes:
 Our Open edX Journey: Enough about us, let’s talk about Open edX.
 
 ---
 
 ## Roots to Redwood
 
-- 2013: Initial launch on a custom-built platform
-- 2015: Relaunch on Open edX (featured in Open edX Conference talk) <!-- .element: class="fragment" data-fragment-index="2" -->
-- 2018: Migration to Hawthorn (and time stood still)<!-- .element: class="fragment" data-fragment-index="3" -->
-- 2024: Migration from Hawthorn to Redwood; 10 versions in 10 hours (with a lot planning) <!-- .element: class="fragment" data-fragment-index="4" -->
-- 2025: 🔮 🎱 🥠 Twists, turns, and a big reveal… Stick around. 🙏 <!-- .element: class="fragment" data-fragment-index="5" -->
-
-Notes: (Justin)
+Notes:
 What started as a custom-built platform grew into something much bigger and better, thanks to Open edX. This brief timeline highlights the key migrations and milestones that shaped Gymnasium — and our approach to design and development along the way.
 
-- 2013: Initial launch on a custom-built platform
-- 2015: Relaunch on Open edX (featured in Open edX Conference talk)
-    - Talk was entitled "Building the Plane While Flying it"
-- 2018: Migration to Hawthorn; no pop quizzes, just exceptional performance
-- 2024: Migration from Hawthorn to Redwood; 10 versions in 10 hours
-- 2025: 🔮 🎱 🥠 Twists, turns, and a big reveal… Stick around. 🙏
+---
 
+### 2013 launch<!-- .element: class="hide" -->
 
+2013: Initial launch on a custom-built platform
 
-------
+---
+
+### 2015 relaunch <!-- .element: class="hide" -->
+
+2015: Relaunch on Open edX
+
+Notes: We were featured in an Open edX Conference talk entitled "Building the Plane While Flying it"
+
+---
 
 ### Building the Plane While Flying It
 
@@ -196,4 +184,33 @@ What started as a custom-built platform grew into something much bigger and bett
 
 <!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/5DiJ_2Bz2hM?si=7oauqxnLKzUk8317" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> -->
 
-Notes: (Roman) This talk is a continuation of the previous presentation. All civilization is built on the shoulders of giants.
+Notes: Our talk today is somewhat a continuation of the previous presentation, a decade later. All civilization is built on the shoulders of giants.
+
+---
+
+### 2018: migration <!-- .element: class="hide" -->
+
+2018: Migration to Hawthorn
+
+Notes: (and time stood still)
+no pop quizzes, just exceptional performance
+
+---
+
+### 2024 Redwood <!-- .element: class="hide" -->
+
+2024: Migration from Hawthorn to Redwood 
+
+Notes:
+10 versions in 10 hours (with a lot planning)
+
+---
+
+### 2025: stick around <!-- .element: class="hide" -->
+
+2025: 🔮 🎱 🥠 Twists, turns, and a big reveal… 
+
+Stick around. 🙏
+
+Notes: Next up, Justin will talk about design.
+

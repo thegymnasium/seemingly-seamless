@@ -84,7 +84,7 @@ Vanilla Open edX vs Gymnasium's Open edX
 - "Stuck" on Hawthorn since 2020
 - adding new pages required intervention of hosting provider
 
-Notes:
+Notes: 
 What ensued was a crash course not just into Open edX, but also into how the Gymnasium team had customized the platform.
 
 ---
@@ -116,7 +116,6 @@ Notes:
 We realized the relationship with our hosting provider was not what it used to be. Our hosting provider had changed hands and it became apparent that they were no longer able to meet our needs.
 
 ---
-
 
 ## Change is Inevitable
 
@@ -470,7 +469,7 @@ The unified site footer - this looks the same across the eleventy static site an
 
 <!-- .slide: data-background="black" class="" -->
 
-## Site Banner
+## Site banner
 
 Notes:
 Used for sitewide notifications, we handle this similar to the footer - by embedding the entirety of it within the JSON.
@@ -479,7 +478,7 @@ Used for sitewide notifications, we handle this similar to the footer - by embed
 
 <!-- .slide: data-auto-animate -->
 
-<h2 data-id="code-title">Site Banner YAML</h2>
+<h2 data-id="code-title">Site banner YAML</h2>
 <pre class="code-wrapper" data-id="code-animation">
   <code class="language-yml"
     data-line-numbers=""
@@ -495,7 +494,7 @@ Notes:
 
 <!-- .slide: data-auto-animate -->
 
-<h2 data-id="code-title">Site Banner HTML</h2>
+<h2 data-id="code-title">Site banner HTML</h2>
 <pre class="code-wrapper" data-id="code-animation">
   <code class="language-html"
     data-line-numbers=""
@@ -511,7 +510,7 @@ Notes:
 
 <!-- .slide: data-background="black" class="" -->
 
-### Site Banner
+### Site banner
 
 ![Screenshot of site banner](img/banner-01.png)<!-- .element: class="r-fit-text" data-id="screencap" -->
 
