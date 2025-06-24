@@ -1,9 +1,9 @@
 ## Roman Edirisinghe
 Director of Technology
 
-- working with the web since 1996
-- background in art
-- largely self-taught
+- working with the web since 1996<!-- .element: class="fragment" data-fragment-index="1" -->
+- background in art<!-- .element: class="fragment" data-fragment-index="2" -->
+- largely self-taught<!-- .element: class="fragment" data-fragment-index="3" -->
 
 
 Notes:
@@ -68,7 +68,6 @@ We realized the relationship with our hosting provider was not what it used to b
 Notes:
 
 
-
 ---
 
 
@@ -102,8 +101,6 @@ For the sake of simplicity, we are going to skip talking about login awareness a
 ---
 
 ## 🍪 <!-- .element: style="font-size: 12rem;" -->
-
-
 
 ---
 
@@ -163,7 +160,7 @@ To achieve a consistent aesthetic, and to take advantage of our static site's 2 
 Notes:
 The next slide shows how many versions Amir needed to process.
 
----
+------
 
 ## Versions
 
@@ -181,7 +178,7 @@ The next slide shows how many versions Amir needed to process.
 Notes:
 Could you imagine going through these manually? We will leave you a QR code to contact Amir should you need his consulting expertise.
 
----
+------
 
 ## Pain = Healing
 
