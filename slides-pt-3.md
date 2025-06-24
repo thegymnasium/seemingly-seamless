@@ -1,13 +1,36 @@
 ## Hi, I'm Roman
 
-Director of Technology
-
-- working with the web since 1996<!-- .element: class="fragment" data-fragment-index="1" -->
-- background in art<!-- .element: class="fragment" data-fragment-index="2" -->
-- largely self-taught<!-- .element: class="fragment" data-fragment-index="3" -->
+Director of Technology <!-- .element: class="fragment" data-fragment-index="1" -->
 
 Notes:
 I'm Roman Edirisinghe, and I'm Gymnasium’s director of technology. I joined Gymnasium in 2021, and had no prior experience with Open edX.
+
+------
+
+### since '96 <!-- .element: class="hide" -->
+
+working with the web since 1996
+
+Notes:
+I started working on the web in 1996
+
+------
+
+### art background <!-- .element: class="hide" -->
+
+background in art
+
+Notes:
+I have a background in art, not computer science
+
+------
+
+### self-taught <!-- .element: class="hide" -->
+
+largely self-taught
+
+Notes:
+Perhaps it's not unusual these days, but I'm largely self taught with regard to the web.
 
 ---
 
@@ -60,7 +83,6 @@ Vanilla Open edX vs Gymnasium's Open edX
 - Upgrading became a challenge
 - "Stuck" on Hawthorn since 2020
 - adding new pages required intervention of hosting provider
-
 
 Notes:
 What ensued was a crash course not just into Open edX, but also into how the Gymnasium team had customized the platform.
