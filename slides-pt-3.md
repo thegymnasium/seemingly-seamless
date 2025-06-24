@@ -5,10 +5,54 @@ Director of Technology
 - background in art<!-- .element: class="fragment" data-fragment-index="2" -->
 - largely self-taught<!-- .element: class="fragment" data-fragment-index="3" -->
 
-
 Notes:
 I'm Roman Edirisinghe, and I'm Gymnasium’s director of technology. I joined Gymnasium in 2021, and had no prior experience with Open edX.
 
+---
+
+<!-- .slide: data-background="darkslategray" class="r-stack" -->
+
+## Core Curriculum
+
+
+- CSS<span>: Cascading Style Sheets</span><!-- .element: class="fragment" data-fragment-index="1" -->
+
+- HTML<span>: Hypertext Markup Language</span><!-- .element: class="fragment" data-fragment-index="1" -->
+
+- JS<span>: JavaScript</span> <!-- .element: class="fragment" data-fragment-index="1" -->
+
+Notes: (Roman)
+If you're not familiar with these terms, these are the building blocks of the web. [reveal acronyms]
+- CSS paints the web
+- HTML provides the framework/skeleton.
+- JavaScript creates interactivity.
+
+---
+
+<!-- .slide: data-background="darkslategray" class="r-stack" -->
+
+## Vocabulary
+
+- CMS<span>: Content Management System</span><!-- .element: class="fragment" data-fragment-index="1" -->
+
+- JSON<span>: JavaScript Object Notation</span> <!-- .element: class="fragment" data-fragment-index="1" -->
+
+- LMS<span>: Learning Management System</span> <!-- .element: class="fragment" data-fragment-index="1" -->
+
+- MFE<span>: Micro Front-End</span><!-- .element: class="fragment" data-fragment-index="1" -->
+
+- SSG<span>: Static Site Generator</span><!-- .element: class="fragment" data-fragment-index="1" -->
+
+- YAML<span>: Yet Another Markup Language</span><!-- .element: class="fragment" data-fragment-index="1" -->
+
+
+<!--- WTF<span>: Welcome to France</span> -->
+
+
+Notes: (Justin)
+Before we go any further, we need to introduce you to some additional acronyms used throughout this presentation. There will be a pop quiz at the end.
+
+[optional]: Also known as YAML Ain't Markup Language
 
 ---
 
