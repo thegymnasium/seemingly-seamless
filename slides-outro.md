@@ -3,7 +3,7 @@
 - After 10 years of working with Open edX, the platform has become became much easier to customize *(thank you)* <!-- .element: class="fragment" data-fragment-index="1" -->
 - We've solved (our version of) the seamless experience <!-- .element: class="fragment" data-fragment-index="2" -->
 
-Notes:
+Notes: (Justin)
 
 ---
 
@@ -18,6 +18,8 @@ Revisit our implentation by:
 - testing our customizations with the next versions of open edx<!-- .element: class="fragment" data-fragment-index="3" -->
 - creating additional MFEs to account for parts of the UI we decided to hide<!-- .element: class="fragment" data-fragment-index="4" -->
 
+Notes: (Roman)
+
 ------
 
 <!-- .slide: data-auto-animate -->
@@ -31,7 +33,7 @@ Revisit our implentation by:
 - ~~testing our customizations with the next versions of open edx~~
 - ~~creating additional MFEs to account for parts of the UI we decided to hide~~
 
-
+Notes: (Roman)
 
 ---
 
@@ -42,11 +44,16 @@ Anything that can go wrong will go wrong.<!-- .element: class="fragment" data-fr
 
 You can anticipate and plan for all sort of outcomes, but the one you don't account for is…<!-- .element: class="fragment" data-fragment-index="2" -->
 
+Notes: (Justin)
+
 ------
 
 <!-- .slide: data-background="black" -->
 
 ## Free Costs Money<!-- .element: class="" -->
+
+Notes: (Justin)
+Everything comes at a cost.
 
 ------
 
@@ -58,6 +65,9 @@ You can anticipate and plan for all sort of outcomes, but the one you don't acco
 - Budget Cuts <!-- .element: class="fragment" data-fragment-index="1" -->
 - Department Closed <!-- .element: class="fragment" data-fragment-index="2" -->
 
+Notes: (Roman)
+A company re-org led to budget cuts, and the Gymnasium department was closed permanently.
+
 ------
 
 ## Post Sh*t <!-- .element: class="hide" -->
@@ -66,7 +76,8 @@ Despite hardships, we’re able to see our mission through by now turning all of
 
 And that was something our parent company didn’t have to do.<!-- .element: class="fragment" data-fragment-index="1" -->
 
-Notes:
+Notes: (Justin)
+
 
 
 ------
@@ -76,11 +87,10 @@ Notes:
 <!-- .slide: data-background-image="https://i.dailymail.co.uk/i/pix/2010/02/23/article-1253068-086DC3C1000005DC-407_964x584.jpg" class="" -->
 
 
-Notes:
+Notes: (Roman)
 - We built the plane, but we had to land it and retire it to the Great American Airplane Graveyard.
 - Didn't spend more than a few months flying our new jet.
-- But it flew... nay, it soared and it was seamless.
-
+- But it flew... nay, it soared and it was seamless (after launch, we received zero support tickets on the platform upgrade)
 
 ---
 
@@ -88,7 +98,7 @@ Notes:
 
 - Post Gymnasium: core team members helped transition the site to archived, publicly available content
 
-Notes:
+Notes: (Roman)
 Exit aisle left.
 Exeunt omnes.
 
@@ -97,6 +107,8 @@ Exeunt omnes.
 ## Hindenburg <!-- .element: class="hide" -->
 
 <!-- .slide: data-background-image="https://upload.wikimedia.org/wikipedia/commons/1/1c/Hindenburg_disaster.jpg" class="" -->
+
+Notes: (show slide briefly)
 
 ------
 
@@ -118,6 +130,8 @@ Notes:
 
 - Aquent’s mission to provide free education continues, sans certificates.
 
+Notes: (improv)
+
 ---
 
 ### Made Possible By
@@ -129,6 +143,8 @@ Notes:
 - Appsembler
 - OpenCraft
 
+Notes: (improvise)
+
 ---
 
 <!-- .slide: data-background="black" -->
@@ -137,6 +153,8 @@ Notes:
 
 - We love doing this type of work
 - We’re available to help – and to hire
+
+Notes: (improvise)
 
 ---
 
@@ -156,4 +174,4 @@ Merci beaucoup
 
 Questions?
 
-Notes:
+Notes: (improvise)
