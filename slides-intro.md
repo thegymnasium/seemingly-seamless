@@ -10,9 +10,31 @@ Notes:
 
 Thank you for joining us for our case study talk, Seemingly Seamless: How We Improved the Learner Experience and Made Our Lives Easier.
 
-I’m Roman Edirisinghe, Director of Technology. And I’m Justin Gagne, Design Lead.
 
-------
+
+---
+
+### Introduce Roman <!-- .element: class="hide" -->
+
+Roman Edirisinghe, Director of Technology
+
+![Image of Roman](img/roman.png)
+
+Notes:
+I’m Roman Edirisinghe, Director of Technology
+
+
+---
+
+### Introduce Justin<!-- .element: class="hide" -->
+
+Justin Gagne, Design Lead
+
+![Image of Justin](img/justin.png)
+
+Notes: And I’m Justin Gagne, Design Lead
+
+---
 
 ## Why Are We Here?
 
@@ -104,7 +126,7 @@ When we lauched on open edx in 2015, we started with 5 full courses and three sh
 
 ------
 
-## Screencap: March 2016<!-- .element: class="hide" -->
+### Screencap: March 2016<!-- .element: class="hide" -->
 
 ![Gymnasium catalog, March 2016.](img/gym-catalog-detail-2016-1920w.png)
 
@@ -127,7 +149,7 @@ Since 2015, Gymnasium’s course catalog has expanded, not just in quantity, but
 
 ------
 
-## Screencap: June 2025<!-- .element: class="hide" -->
+### Screencap: June 2025<!-- .element: class="hide" -->
 
 ![Gymnasium catalog, June 2025.](img/gym-courses-detail-2025-1920w.png)
 
