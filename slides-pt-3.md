@@ -1,4 +1,5 @@
-## Roman Edirisinghe
+## Hi, I'm Roman
+
 Director of Technology
 
 - working with the web since 1996<!-- .element: class="fragment" data-fragment-index="1" -->
@@ -12,8 +13,7 @@ I'm Roman Edirisinghe, and I'm Gymnasium’s director of technology. I joined Gy
 
 <!-- .slide: data-background="darkslategray" class="r-stack" -->
 
-## Core Curriculum
-
+## Core curriculum
 
 - CSS<span>: Cascading Style Sheets</span><!-- .element: class="fragment" data-fragment-index="1" -->
 
@@ -45,11 +45,7 @@ If you're not familiar with these terms, these are the building blocks of the we
 
 - YAML<span>: Yet Another Markup Language</span><!-- .element: class="fragment" data-fragment-index="1" -->
 
-
-<!--- WTF<span>: Welcome to France</span> -->
-
-
-Notes: (Justin)
+Notes:
 Before we go any further, we need to introduce you to some additional acronyms used throughout this presentation. There will be a pop quiz at the end.
 
 [optional]: Also known as YAML Ain't Markup Language
@@ -108,12 +104,9 @@ We realized the relationship with our hosting provider was not what it used to b
 - Urgency was paramount
 - Change the overall architecture (frontend + LMS)
 
-
 Notes:
 
-
 ---
-
 
 ## Research Phase
 
@@ -123,10 +116,8 @@ Post Hawthorn Open edX (Olive...Palm)
 - Noticed MFEs weren't built consistently
 - Confusing implementation - some parts of LMS were the theme, others were MFEs.
 
-
 Notes:
 Started learning the MFEs in 2023/2024 etc.
-
 
 ---
 
@@ -509,10 +500,10 @@ Notes:
 
 <!-- .slide: data-background="black" class="" -->
 
-## 404 Error
+## Errors
 
 Notes:
-
+Here's how we approach handling customized error messaging.
 
 ------
 
@@ -544,7 +535,6 @@ Notes:
 
 Notes:
 
-
 ------
 
 <!-- .slide: data-background="black" class="" -->
@@ -560,9 +550,9 @@ Notes:
 
 <!-- .slide: data-background="black" class="" -->
 
-## Meta Data
+## Meta data
 
-Notes:
+Notes: 
 
 
 ------
@@ -604,8 +594,7 @@ Next, the JSON
 
 ------
 
-
-## META JSON
+### META JSON
 
 <pre class="code-wrapper" data-id="code-animation">
   <code class="language-json"
@@ -621,7 +610,7 @@ The JSON gets generated from the YAML.
 
 ------
 
-## Meta HTML
+### Meta HTML
 
 <pre class="code-wrapper" data-id="code-animation">
   <code class="language-html"
@@ -636,16 +625,63 @@ And the resulting rendered HTML.
 
 ---
 
-## MFEs: Gymnasium Frontend Components
-
-`gym-frontend-components` serves up the following react components:
-
-- header
-- footer
-- custom 404 page
-- banner
-- overrides to core MFE behaviors
+## Custom react components
 
 Notes:
 Rather than serve our header, footer, and overrides from different repositories, we created one repo to meet our needs. One repo to rule them all.
 
+------
+
+### One "library"
+
+`gym-frontend-components`
+
+Notes:
+One react library handles delivery of...
+
+------
+
+### react header <!-- .element: class="hide" -->
+
+header
+
+Notes: the header...
+
+------
+
+### react footer <!-- .element: class="hide" -->
+
+footer
+
+Notes: the footer...
+
+------
+
+### react 404 <!-- .element: class="hide" -->
+
+404 errors, etc.
+
+Notes: the error pages...
+
+------
+
+### react banner <!-- .element: class="hide" -->
+
+banner
+
+Notes: the site banner...
+
+------
+
+### react overrides <!-- .element: class="hide" -->
+
+overrides to core MFE behaviors
+
+Notes: ...and last but not least, the individual customizations we made to MFEs.
+All by consuming our custom JSON at build time.
+
+---
+
+## And that's how we did it.
+
+Notes: 
