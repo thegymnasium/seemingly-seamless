@@ -16,10 +16,8 @@ I’m Roman Edirisinghe, Director of Technology. And I’m Justin Gagne, Design 
 
 ## Why Are We Here?
 
-- We're here to talk about customizing Open edX.
-
+- We’re here to talk about customizing Open edX.
 - We will take you through our history with the platform, and show you where we ended up.
-
 - Along the way, we ran into many pitfalls, least of which was our desire for maximum customization.
 
 Notes:
@@ -28,13 +26,13 @@ Notes:
 ------
 
 ## What We'll Cover
-*(Not necessarily in order of appearance)*
+*(Not necessarily in order of appearance.)*
 
 - We customized Open edX for a unified, branded experience.
 - Our design shaped our technical choices.
 - We improved the student experience.
 - We overcame styling, asset, and content challenges.
-- We'll demonstrate our approach to customization.
+- We’ll demonstrate our approach to customization.
 
 
 Notes:
@@ -144,7 +142,7 @@ Notes:
 
 <!-- .slide: data-background="black" data-background-image="https://www.publicdomainpictures.net/pictures/80000/velka/giant-redwood-trees-in-california-1392245948kXD.jpg" class="has-dark-background" -->
 
-Notes: 
+Notes:
 Our Open edX Journey: Enough about us, let’s talk about Open edX.
 
 ---
