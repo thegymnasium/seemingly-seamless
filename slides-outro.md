@@ -1,96 +1,180 @@
-## Conclusion
+# Conclusion<!-- .element: class="hide" -->
 
-- After 10 years of working with Open edX, the platform has become became much easier to customize *(thank you)* <!-- .element: class="fragment" data-fragment-index="1" -->
-- We've solved (our version of) the seamless experience <!-- .element: class="fragment" data-fragment-index="2" -->
+## 10 years later, Open edX is much easier to customize
 
-Notes: (Justin)
+### *(thank you)* <!-- .element: class="fragment" data-fragment-index="1" -->
+
+Notes:
+- After 10 years of working with Open edX, the platform has become became much easier to customize *(thank you)*
+- We solved (our version of) the seamless experience
 
 ---
 
-<!-- .slide: data-auto-animate -->
+## Post launch
 
-## Next Steps?
+Notes:
 
-Revisit our implentation by:
+---
 
-- using (the visual parts of) the Paragon design system<!-- .element: class="fragment" data-fragment-index="1" -->
-- contributing code improvements to the MFEs<!-- .element: class="fragment" data-fragment-index="2" -->
-- testing our customizations with the next versions of open edx<!-- .element: class="fragment" data-fragment-index="3" -->
-- creating additional MFEs to account for parts of the UI we decided to hide<!-- .element: class="fragment" data-fragment-index="4" -->
+### down time minimal<!-- .element: class="hide" -->
 
-Notes: (Roman)
+minimum down time
 
-------
+Notes:
 
-<!-- .slide: data-auto-animate -->
+---
 
-## Next Steps?
+### clear skies <!-- .element: class="hide" -->
 
-Revisit our implentation by:
+site ran successfully for 3 months
 
-- ~~using (the visual parts of) the Paragon design system~~
-- ~~contributing code improvements to the MFEs~~
-- ~~testing our customizations with the next versions of open edx~~
-- ~~creating additional MFEs to account for parts of the UI we decided to hide~~
+Notes:
 
-Notes: (Roman)
+---
+
+### 0 tickets <!-- .element: class="hide" -->
+
+zero support tickets
+
+Notes:
+
+---
+
+### no issues <!-- .element: class="hide" -->
+
+no visual or technical problems
+
+Notes:
+
+---
+
+## Reaching altitude 🛫
+
+Notes:
+
+---
+
+### next: eleventy upgrade <!-- .element: class="hide" -->
+
+upgrade to next version of eleventy
+
+Notes:
+
+---
+
+### next: open edx upgrade <!-- .element: class="hide" -->
+
+update from redwood to sumac and beyond
+
+Notes:
+
+---
+
+### next: new courses <!-- .element: class="hide" -->
+
+new course development
+
+Notes:
 
 ---
 
 <!-- .slide: data-background="black" -->
 
-## Plot Twist
-Anything that can go wrong will go wrong.<!-- .element: class="fragment" data-fragment-index="1" -->
+## ⚡ Fasten your seat belts
 
-You can anticipate and plan for all sort of outcomes, but the one you don't account for is…<!-- .element: class="fragment" data-fragment-index="2" -->
+Notes:
 
-Notes: (Justin)
+---
 
-------
+### things go wrong <!-- .element: class="hide" -->
+
+anything that can go wrong will go wrong
+
+Notes:
+
+---
+
+### can't plan for everything <!-- .element: class="hide" -->
+
+you can anticipate and plan for all sort of outcomes, but the one you don't account for is…
+
+Notes:
+
+---
 
 <!-- .slide: data-background="black" -->
 
-## Free Costs Money<!-- .element: class="" -->
+## Free costs money <!-- .element: class="" -->
 
-Notes: (Justin)
+Notes:
 Everything comes at a cost.
 
-------
+---
 
-## Sh*t Happens <!-- .element: class="hide" -->
+### budget cuts <!-- .element: class="hide" -->
 
-<!-- .slide: data-background="black" -->
+budget cuts
 
-- Company Reorganization
-- Budget Cuts <!-- .element: class="fragment" data-fragment-index="1" -->
-- Department Closed <!-- .element: class="fragment" data-fragment-index="2" -->
+---
 
-Notes: (Roman)
-A company re-org led to budget cuts, and the Gymnasium department was closed permanently.
+### reorg <!-- .element: class="hide" -->
 
-------
+a surprise company reorganization
 
-## Post Sh*t <!-- .element: class="hide" -->
+Notes:
 
-Despite hardships, we’re able to see our mission through by now turning all of our content public.
+---
 
-And that was something our parent company didn’t have to do.<!-- .element: class="fragment" data-fragment-index="1" -->
+### department closed <!-- .element: class="hide" -->
 
-Notes: (Justin)
+and our department was retired
 
+Notes:
 
+---
 
-------
+## 🍋 When life hands you lemons
 
-## Airplane Graveyard<!-- .element: class="hide" -->
+Notes:
 
-<!-- .slide: data-background-image="https://i.dailymail.co.uk/i/pix/2010/02/23/article-1253068-086DC3C1000005DC-407_964x584.jpg" class="" -->
+---
 
+## 🍹 Make lemonade
 
-Notes: (Roman)
-- We built the plane, but we had to land it and retire it to the Great American Airplane Graveyard.
-- Didn't spend more than a few months flying our new jet.
-- But it flew... nay, it soared and it was seamless (after launch, we received zero support tickets on the platform upgrade)
+Notes:
+
+---
+
+## No more LMS?
+
+Notes:
+
+---
+
+## No credentials
+
+Notes:
+
+---
+
+## Content goes public
+
+Notes:
+
+---
+
+## Still free online learning 💯
+
+Notes:
+(via YouTube)
+
+---
+
+### Aquent's mission <!-- .element: class="hide" -->
+
+And that was something our parent company didn’t have to do
+
+Notes:
 
 ---
 
@@ -98,19 +182,9 @@ Notes: (Roman)
 
 - Post Gymnasium: core team members helped transition the site to archived, publicly available content
 
-Notes: (Roman)
-Exit aisle left.
-Exeunt omnes.
+Notes: 
 
-------
-
-## Hindenburg <!-- .element: class="hide" -->
-
-<!-- .slide: data-background-image="https://upload.wikimedia.org/wikipedia/commons/1/1c/Hindenburg_disaster.jpg" class="" -->
-
-Notes: (show slide briefly)
-
-------
+---
 
 ## Emergency Landing
 
@@ -160,7 +234,11 @@ Notes: (improvise)
 
 ## Fin
 
-Merci beaucoup
+Merci beaucoup <!-- .element: class="fragment" data-fragment-index="2" -->
+
+---
+
+### Questions?
 
 - [Justin Gagne](https://www.linkedin.com/in/justingagne/)[QR]
     - linkedin.com/in/justingagne/
@@ -172,6 +250,6 @@ Merci beaucoup
     - github.com/thegymnasium/seemingly-seamless
 
 
-Questions?
+
 
 Notes: (improvise)
