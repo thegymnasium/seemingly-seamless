@@ -149,3 +149,132 @@ Post Hawthorn Open edX (Olive...Palm)
 
 Notes:
 Started learning the MFEs in 2023/2024 etc.
+
+---
+
+<!-- .slide: data-background="black" class="" -->
+
+## Errors
+
+Notes:
+Here's how we approach handling customized error messaging.
+
+------
+
+<!-- .slide: data-auto-animate -->
+
+<h2 data-id="code-title">404 YAML</h2>
+<pre class="code-wrapper" data-id="code-animation">
+  <code class="language-yml"
+    data-line-numbers=""
+    data-trim
+    data-url="code-samples/error-404.yaml"
+    ></code>
+</pre>
+
+Notes:
+
+------
+
+<!-- .slide: data-auto-animate -->
+
+<h2 data-id="code-title">404 HTML</h2>
+<pre class="code-wrapper" data-id="code-animation">
+  <code class="language-html"
+    data-line-numbers=""
+    data-trim
+    data-url="code-samples/error-404.html"
+    ></code>
+</pre>
+
+Notes:
+
+------
+
+<!-- .slide: data-background="black" class="" -->
+
+### 404 Page
+
+![Screenshot of 404 error page](img/error-404.png)<!-- .element: class="r-fit-text" data-id="screencap" -->
+
+Notes:
+
+
+---
+
+<!-- .slide: data-background="black" class="" -->
+
+## Meta data
+
+Notes: 
+
+
+------
+
+<!-- .slide: data-auto-animate -->
+
+<h2 data-id="code-title">Meta YAML</h2>
+<pre class="code-wrapper" data-id="code-animation">
+  <code class="language-yml"
+    data-line-numbers="|8"
+    data-trim
+    data-url="code-samples/meta.yaml"
+    ></code>
+</pre>
+
+Notes:
+Here's an example of how we handle the site meta - those unseen elements that are so useful for SEO and web crawling spiders sent by search engines such as Google, Yahoo, Bing, etc, ad nauseam
+
+Oh wait, what's Twitter doing there?
+
+Let's cancel that.
+
+------
+
+<!-- .slide: data-auto-animate -->
+
+<h2 data-id="code-title">Meta YAML</h2>
+<pre class="code-wrapper" data-id="code-animation">
+  <code class="language-yml"
+    data-line-numbers
+    data-trim
+    data-url="code-samples/meta.yaml"
+    data-line-end="7"
+    ></code>
+</pre>
+
+Notes:
+Next, the JSON
+
+------
+
+### META JSON
+
+<pre class="code-wrapper" data-id="code-animation">
+  <code class="language-json"
+    data-line-numbers
+    data-trim
+    data-url="code-samples/meta.json"
+    ></code>
+</pre>
+
+
+Notes:
+The JSON gets generated from the YAML.
+
+------
+
+### Meta HTML
+
+<pre class="code-wrapper" data-id="code-animation">
+  <code class="language-html"
+    data-line-numbers="6,10,11,12,13,14"
+    data-trim
+    data-url="code-samples/meta.html"
+    ></code>
+</pre>
+
+Notes:
+And the resulting rendered HTML.
+
+---
