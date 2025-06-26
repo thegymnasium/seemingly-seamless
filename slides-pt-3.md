@@ -167,130 +167,18 @@ Notes:
 open edx version upgrade
 
 Notes:
+Implied in the upgrade or upgrades is the data migration required
 
 ------
 
-### consistent experience <!-- .element: class="hide" -->
+### seamless experience <!-- .element: class="hide" -->
 
-achieving a consistent experience
+achieving a seamless experience
 
 Notes:
 - YAML + JSON
 - custom react components
 - CSS served from static site
-
----
-
-## 🍪 <!-- .element: style="font-size: 12rem;" -->
-
-Notes:
-For the sake of simplicity, we will us this image to descibe our solution to login awareness on the static site.
-
----
-
-## Steps/Process
-
-Why? Updating styles from one source is much easier/faster than updating it in 8 different places.
-
-1. disable built-in MFE CSS
-    - cleanup
-2. disable theme CSS
-3. use eleventy to deliver CSS to MFEs + theme 
-
-Notes:
-Among other thinbgs, our goal was to take advantage of our static site's 2 minute build time. Compare that to 35-45 minutes on average for deploying open edx changes.
-
----
-
-## Why not use Paragon?
-
-(for the uninitiated, Paragon is Open edX's design system)
-
-- Well, we are (sort of)
-    - we still use Paragon's interactivity (the interactive react components)
-    - copied core bits of MFE CSS and customized that
-    - in some cases, we eliminated it altogether and wrote our own rules
-- Path of least resistance
-- we already have our own design language
-- easier to push ours forward instead of using the styles built into paragon
-
----
-
-
-## Achieving Consistency
-
-- CSS being served from SSG (eleventy)
-- Required disabling default CSS of MFEs. 
-- Pitfalls: discovery that some development of MFEs resulted in CSS rules declared 8-10x (link to the issue)
-
-Notes:
-Let's talk talk about the steps involved in achieving a consistent visual design.
-
----
-
-### Disable default CSS
-
-Notes:
-To achieve a consistent aesthetic, and to take advantage of our static site's 2 minute build time, we decided to serve all the CSS from the static site.
-
----
-
-
-## Redwood upgrade
-
-- Upgrade from Hawthorn (2018) to Redwood (2024)
-- Our very talented collaborator Amir Tadrisi wrote some fancy scripts to automatically migrate data from version to version.
-
-Notes:
-The next slide shows how many versions Amir needed to process.
-
-------
-
-## Versions
-
-**Hawthorn >** <!-- .element: class="fragment" data-fragment-index="1" --> 
-**Ironwood >** <!-- .element: class="fragment" data-fragment-index="2" --> 
-**Juniper >** <!-- .element: class="fragment" data-fragment-index="3" --> 
-**Koa >** <!-- .element: class="fragment" data-fragment-index="4" --> 
-**Lilac >** <!-- .element: class="fragment" data-fragment-index="5" --> 
-**Maple >** <!-- .element: class="fragment" data-fragment-index="6" --> 
-**Olive >** <!-- .element: class="fragment" data-fragment-index="7" --> 
-**Palm >** <!-- .element: class="fragment" data-fragment-index="8" --> 
-**Quince >** <!-- .element: class="fragment" data-fragment-index="9" --> 
-**Redwood** <!-- .element: class="fragment" data-fragment-index="10" -->
-
-Notes:
-Could you imagine going through these manually? We will leave you a QR code to contact Amir should you need his consulting expertise.
-
-------
-
-## Pain = Healing
-
-10 versions in 10 hours, with 10 days of prep & planning.
-
-Notes:
-The upgrade was huge pain point, but Amir's help made this step so much easier.
-
----
-
-## Architectural Goal Flowchart
-
-![Screenshot of Flowchart](img/gymnasium-flowchart.png)
-
-
-Notes:
-
----
-
-
-## Deployment Process Overview
-
-- Process is streamlined and reduces the dependency/intervention from the hosting provider. 
-- We make changes in the SSG, deploy that (2-5 minutes)
-- Trigger a rebuild of the open edx systems (35-45 minutes)
-
-Notes:
-We are the ideal client for hosting providers - the only intervention hosting providers needed was to handle emergencies.
 
 ---
 

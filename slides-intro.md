@@ -1,5 +1,3 @@
-<!-- .slide: data-background="black" -->
-
 ## Seemingly Seamless
 ### How We Improved the Learner Experience and Made Our Lives Easier
 
@@ -227,7 +225,7 @@ Our talk today is somewhat a continuation of the previous presentation, a decade
 
 ### 2018 → hawthorn <!-- .element: class="hide" -->
 
-2018 → migration to hawthorn
+2018 → upgrade to hawthorn
 
 Notes: (and time stood still)
 no pop quizzes, just exceptional performance
@@ -236,7 +234,7 @@ no pop quizzes, just exceptional performance
 
 ### 2024 → redwood <!-- .element: class="hide" -->
 
-2024 → migration to redwood
+2024 → upgrade to redwood
 
 Notes:
 10 versions in 10 hours (with a lot planning)
