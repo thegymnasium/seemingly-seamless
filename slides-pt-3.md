@@ -1,9 +1,9 @@
-## Hi, I'm Roman
+## Hi, I'm Roman 🇱🇰 🇷🇺 🇺🇸
 
 Director of Technology <!-- .element: class="fragment" data-fragment-index="1" -->
 
 Notes:
-I'm Roman Edirisinghe, and I'm Gymnasium’s director of technology. I joined Gymnasium in 2021, and had no prior experience with Open edX.
+I'm Roman Edirisinghe, and I'm Gymnasium’s director of technology.
 
 ------
 
@@ -30,133 +30,161 @@ I have a background in art, not computer science
 largely self-taught
 
 Notes:
-Perhaps it's not unusual these days, but I'm largely self taught with regard to the web.
+- Perhaps it's not unusual these days, but I'm largely self taught with regard to the web.
 
----
+------
 
-<!-- .slide: data-background="darkslategray" class="r-stack" -->
+### joined team in 2021 <!-- .element: class="hide" -->
 
-## Core curriculum
-
-- CSS<span>: Cascading Style Sheets</span><!-- .element: class="fragment" data-fragment-index="1" -->
-
-- HTML<span>: Hypertext Markup Language</span><!-- .element: class="fragment" data-fragment-index="1" -->
-
-- JS<span>: JavaScript</span> <!-- .element: class="fragment" data-fragment-index="1" -->
-
-Notes: (Roman)
-If you're not familiar with these terms, these are the building blocks of the web. [reveal acronyms]
-- CSS paints the web
-- HTML provides the framework/skeleton.
-- JavaScript creates interactivity.
-
----
-
-<!-- .slide: data-background="darkslategray" class="r-stack" -->
-
-## Vocabulary
-
-- CMS<span>: Content Management System</span><!-- .element: class="fragment" data-fragment-index="1" -->
-
-- JSON<span>: JavaScript Object Notation</span> <!-- .element: class="fragment" data-fragment-index="1" -->
-
-- LMS<span>: Learning Management System</span> <!-- .element: class="fragment" data-fragment-index="1" -->
-
-- MFE<span>: Micro Front-End</span><!-- .element: class="fragment" data-fragment-index="1" -->
-
-- SSG<span>: Static Site Generator</span><!-- .element: class="fragment" data-fragment-index="1" -->
-
-- YAML<span>: Yet Another Markup Language</span><!-- .element: class="fragment" data-fragment-index="1" -->
+joined Gymnasium in 2021
 
 Notes:
-Before we go any further, we need to introduce you to some additional acronyms used throughout this presentation. There will be a pop quiz at the end.
+- no prior experience with Open edX before 2021, only a little bit of Python
+- What ensued was a crash course not just into Open edX, but also into how the Gymnasium team had customized the platform
 
-[optional]: Also known as YAML Ain't Markup Language
+------
 
----
+### always a better way <!-- .element: class="hide" -->
 
-## Beginnings
+there is always a better way
 
-Vanilla Open edX vs Gymnasium's Open edX
-
-- Gymnasium's Hawthorn theme was heavily customized
-- Upgrading became a challenge
-- "Stuck" on Hawthorn since 2020
-- adding new pages required intervention of hosting provider
-
-Notes: 
-What ensued was a crash course not just into Open edX, but also into how the Gymnasium team had customized the platform.
+Notes:
+- with these things in mind, this could mean there are better ways to do what we did, and we welcome any feedback
 
 ---
 
-## Recap
+## Pre-upgrade recap
 
-Gymnasium's Hawthorn-based custom theme:
+------
+
+### theme customized <!-- .element: class="hide" -->
+
+theme was heavily customized
+
+Notes:
+- Gymnasium's Hawthorn based theme was very customized
 - Used a SSG (Jekyll) to include pre-generated HTML fragments within the LMS
 - Our marketing site and LMS were effectively one and the same.
-- But we still **needed** our hosting provider to generate new pages.
+
+------
+
+### pages = extra steps <!-- .element: class="hide" -->
+
+new pages = extra steps
+
+Notes:
+
+- we **needed** our hosting provider to generate new pages
+
+------
+
+### upgrade = challenge <!-- .element: class="hide" -->
+
+upgrading code became a challenge
+
+Notes:
+- "Stuck" on Hawthorn since 2020
 - We were hampered by the limitations of Open edX. [REVISE]
-
-Notes:
-
-If we bored you at the beginning, here's more stuff to help you fall asleep.
+- [revise] do we use a word other than upgrade/migration to encompass both?
 
 ---
 
-## Sea Change Woes
-
-Sometimes, partnerships have to change. <!-- .element: class="fragment" data-fragment-index="0" -->
-
-- loveless marriage <!-- .element: class="fragment" data-fragment-index="1" -->
-- it's not you, it's me <!-- .element: class="fragment" data-fragment-index="2" -->
-- (but it's actually you) <!-- .element: class="fragment" data-fragment-index="3" -->
-
+## A change of hands 🤝
 
 Notes:
-We realized the relationship with our hosting provider was not what it used to be. Our hosting provider had changed hands and it became apparent that they were no longer able to meet our needs.
+- the relationship with our hosting provider had changed
+- they were no longer able to meet our needs.
 
----
+------
 
-## Change is Inevitable
+### it's not you, it's me <!-- .element: class="hide" -->
 
-- Research new hosting providers
-- Discovery that an upgrade is necessary
-- We knew we were on a sinking ship
-- Urgency was paramount
-- Change the overall architecture (frontend + LMS)
+it's not you, it's me
+
+Notes:
+
+------
+
+### but it's actually you <!-- .element: class="hide" -->
+
+<span>(but it's actually you)</span>
 
 Notes:
 
 ---
 
-## Research Phase
-
-Post Hawthorn Open edX (Olive...Palm)
-
-- MFEs
-- Noticed MFEs weren't built consistently
-- Confusing implementation - some parts of LMS were the theme, others were MFEs.
+### Core requirements
 
 Notes:
-Started learning the MFEs in 2023/2024 etc.
+- design leads development
+  - eleventy
+- rapid deployment
+  - eleventy
+- login "awareness" on static site
+- open edx version upgrade/migration
+- achieving a consistent experience (UX/UI)
+  - new catalog
+    - using static site instead of LMS
+    - reference "overloading" hawthorn to customize the catalog
+    - choosing to use eleventy to serve course catalog and course about pages instead of LMS
+    - user research and prototyped development of a revised catalog
+    - using SSG made it easier to develop new features
+  - new courseware
+    - adding the "how it works" section instead of "overloaded" course updates section serving as syllabus [maybe not necessary]
+    - ...
+  - header
+    - show comparison of original nav vs new
+    - show code samples - yaml to json
+    - introduce header states (currrent page state, etc)
+  - footer
+    - design/development worked together
+      - hawthorn footer
+      - new footer
+    - "dumb" footer - no states to the buttons
+      - no MFE needed active state of any footer links
+  - banner (last thing we show)
 
----
+------
 
-### Plan Overview
+### rapid deployment <!-- .element: class="hide" -->
 
-1. login "awareness" on static site
-1. open edx version upgrade
-1. achieving a consistent experience
-    - YAML + JSON
-    - custom react components
-    - CSS served from static site
+rapid deployment
 
 Notes:
-For the sake of simplicity, we are going to skip talking about login awareness and focus on the 
+
+------
+
+### login "awareness" <!-- .element: class="hide" -->
+
+login "awareness" on static site
+
+Notes:
+
+------
+
+### version upgrade <!-- .element: class="hide" -->
+
+open edx version upgrade
+
+Notes:
+
+------
+
+### consistent experience <!-- .element: class="hide" -->
+
+achieving a consistent experience
+
+Notes:
+- YAML + JSON
+- custom react components
+- CSS served from static site
 
 ---
 
 ## 🍪 <!-- .element: style="font-size: 12rem;" -->
+
+Notes:
+For the sake of simplicity, we will us this image to descibe our solution to login awareness on the static site.
 
 ---
 
@@ -174,7 +202,7 @@ Among other thinbgs, our goal was to take advantage of our static site's 2 minut
 
 ---
 
-## Why not use Paragon
+## Why not use Paragon?
 
 (for the uninitiated, Paragon is Open edX's design system)
 
@@ -208,7 +236,7 @@ To achieve a consistent aesthetic, and to take advantage of our static site's 2 
 ---
 
 
-## Redwood Upgrade
+## Redwood upgrade
 
 - Upgrade from Hawthorn (2018) to Redwood (2024)
 - Our very talented collaborator Amir Tadrisi wrote some fancy scripts to automatically migrate data from version to version.
@@ -706,3 +734,4 @@ All by consuming our custom JSON at build time.
 ## And that's how we did it.
 
 Notes: 
+(maybe show banner next). oh wait, I meant to show you the banner.
