@@ -26,7 +26,7 @@ Notes:
 
 ### clear skies <!-- .element: class="hide" -->
 
-site running successfully for months
+running seamlessly since launch
 
 Notes:
 
@@ -206,6 +206,7 @@ We made an incredibly flexible, agile environment - scaling up & scaling down/ba
 
 Notes:
 [optional]: say something about "graceful degradation"
+Designing for crisis: all the work we did made it so much easier to transition to a non-LMS site.
 
 
 ---
@@ -248,7 +249,7 @@ Merci beaucoup <!-- .element: class="fragment" data-fragment-index="2" -->
 
 ---
 
-### Questions? 🤨❓
+## For hire. Questions 🤨❓
 
 - [Justin Gagne](https://www.linkedin.com/in/justingagne/)[QR]
     - linkedin.com/in/justingagne/
@@ -260,4 +261,5 @@ Merci beaucoup <!-- .element: class="fragment" data-fragment-index="2" -->
     - github.com/thegymnasium/seemingly-seamless
 
 
-Notes: (improvise)
+Notes:
+- revisit slide title
