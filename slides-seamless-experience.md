@@ -142,9 +142,3 @@ overrides to core MFE behaviors
 Notes: ...and last but not least, the individual customizations we made to MFEs.
 All by consuming our custom JSON at build time.
 
----
-
-## And that's how we did it.
-
-Notes: 
-(maybe show banner next). oh wait, I meant to show you the banner.

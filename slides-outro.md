@@ -51,6 +51,7 @@ Notes:
 ## Reaching altitude 🛫
 
 Notes:
+As far as next steps...
 
 ---
 
@@ -144,6 +145,7 @@ Notes:
 ## 🍋 When life hands you lemons
 
 Notes:
+To coin an oft quoted phrase
 
 ---
 
