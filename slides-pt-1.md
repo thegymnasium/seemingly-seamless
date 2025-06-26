@@ -31,40 +31,15 @@ I started working with the web circa 1998 while at art school.
 Note:
 Montserrat College of Art’s website circa 1996 designed by John McVey.
 
-
 ---
 
-<!-- .slide: data-background="black" -->
-## Design-Development Philosophy
-
-- The journey to a seamless learner experience began in summer 2015.
-- Transitioning to Open edX brought design and development in-house.
-- I led design while prototyping in HTML/CSS to streamline collaboration.
-- Our small, five-person team worked collaboratively across roles.
-- My role focused on the visual front end, enabling developers to concentrate on core platform work.
-
-Note:
-The journey toward a seemingly seamless learner experience started in the summer of 2015.
-
-Originally, I had ghostwritten a course and worked as a teaching assistant.
-
-When we migrated from a custom LMS to Open edX, the design and development process became in-house, with Mike Bifulco as “The Engineering Team” and myself as “The Design Team.” I prototyped directly in HTML and CSS, helping make the design and development workflow more seamless.
-
-It was a small team of five: each doing distinct work, rarely siloed, and often collaborative.
-
-Before I joined as design lead, the visual design was created by a previous team member in Photoshop, producing incredible comps that were later developed into functional code by another teammate.
-
-My involvement freed up the development team to focus on theming and core Open edX development, allowing me to concentrate on the visual, display layer, specifically the front end of the marketing website and Open edX. The result was a more harmonious design and development process with closer collaboration.
-
-
----
-
-<!-- .slide: data-background="black" -->
 ## Easy to Read, Easy to Build, Easy to Learn
+
+---
 
 > Good design and good markup provide structure to content. Good markup is a fundamental part of good design: beautiful on the inside, beautiful on the outside.
 >
-> — [Frank Chimero](https://frankchimero.com), from [Designers vs Coding](https://web.archive.org/web/20111201205345/http://blog.frankchimero.com/post/9594863189)
+> <small>— [Frank Chimero](https://frankchimero.com), from [Designers vs Coding](https://web.archive.org/web/20111201205345/http://blog.frankchimero.com/post/9594863189)</small>
 
 
 ---
@@ -76,8 +51,7 @@ My involvement freed up the development team to focus on theming and core Open e
 - We chose a front-end tool that was accessible and extensible
 
 Note:
-TK
-
+[collab slide?]
 
 ---
 
@@ -101,7 +75,6 @@ It means championing core web technologies like HTML, CSS, and JavaScript, not f
 
 
 ---
-
 
 ![Before (full page): LMS learning experience.](img/lms-enroll-now-before-designing-accessible-and-resonsibe-websites-crop-1920w.png)
 
