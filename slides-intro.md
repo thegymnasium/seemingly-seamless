@@ -195,7 +195,7 @@ Enough about us, let’s talk about Open edX.
 
 ---
 
-## Our Open edX Journey
+## Our Open edX journey
 
 Notes:
 What started as a custom-built platform grew into something much bigger and better, thanks to Open edX. This brief timeline highlights the key migrations and milestones that shaped Gymnasium — and our approach to design and development along the way.
