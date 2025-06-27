@@ -1,13 +1,30 @@
 ## Login awareness
 
 Notes:
-Login awareness on a static site?
-We won't spend too much time talking about this.
-It can be summed up in one word.
+- Login awareness on a static site?
+- We won't spend too much time talking about this.
+- It can be summed up in one word.
 
----
+------
 
 ## 🍪 <!-- .element: style="font-size: 12rem;" -->
 
 Notes:
-For the sake of simplicity, we will us this image to descibe our solution to login awareness on the static site.
+- this is a cookie (i think some of you might a biscuit)
+- we used cookies and added our static site domain & URL to the approved CORS headers in open edx
+
+------
+
+### Code snippet  <!-- .element: class="hide" -->
+
+```python
+# example of convincing open edx to hug a marketing site
+CROSS_DOMAIN_CSRF_COOKIE_DOMAIN: "{{ ROOT_DOMAIN }}"
+SHARED_COOKIE_DOMAIN: "{{ ROOT_DOMAIN }}"
+CSRF_TRUSTED_ORIGINS.append("{{ MARKETING_SITE_BASE_URL }}")
+CORS_ORIGIN_WHITELIST.append("{{ ROOT_URL }}")
+```
+
+Notes:
+- `ROOT_DOMAIN` = `thegymnasium.com`
+- `ROOT_URL` and `MARKETING_SITE_BASE_URL` = `https://thegymnasium.com`

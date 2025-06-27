@@ -10,9 +10,11 @@ Notes:
 ## Site banner
 
 Notes:
-Used for sitewide notifications, we handle this similar to the footer - by embedding the entirety of it within the JSON.
+- Used for sitewide notifications, we handle this similar to the footer - by embedding the entirety of it within the JSON.
+- this is updated in real time without redeploying the LMS
+- 
 
-------
+---
 
 <!-- .slide: data-auto-animate -->
 
@@ -28,7 +30,7 @@ Used for sitewide notifications, we handle this similar to the footer - by embed
 Notes:
 (note to self: this is another potential teaser about the conclusion)
 
-------
+---
 
 <!-- .slide: data-auto-animate -->
 
@@ -44,7 +46,7 @@ Notes:
 Notes:
 (note to self: this is another potential teaser about the conclusion)
 
-------
+---
 
 <!-- .slide: data-background="black" class="" -->
 
@@ -54,3 +56,14 @@ Notes:
 
 Notes:
 (note to self: this is another potential teaser about the conclusion)
+
+---
+
+[show detailed close up]
+
+---
+
+[show detail of a mobile banner]
+
+Notes:
+- read banner out loud

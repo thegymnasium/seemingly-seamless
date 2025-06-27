@@ -278,3 +278,56 @@ Notes:
 And the resulting rendered HTML.
 
 ---
+
+
+- The original design and development philosophy still guides our work nearly a decade later.
+- Open edX—and our approach—has matured over time.
+- My philosophy centers on the learner, with design leading development.
+- We build with a content-first mindset and human-readable structure.
+- I advocate for using core web technologies over frameworks by default.
+
+Note:
+Almost 10 years later, that design and development philosophy persisted, in some ways becoming ubiquitous to how we, and I, work.
+
+Open edX has matured, and so have we.
+
+My design and development philosophy is centered around the student, the learner, if you will. With visual and experience design coming before development. Designing a better learner experience is intentional, yes, but it’s also a natural byproduct of the way we build.
+
+That way of building combines a content-first mindset with human-readable data and structure, for people, for robots, and for the tools we rely on.
+
+It means championing core web technologies like HTML, CSS, and JavaScript, not frameworks by default. Frameworks have their place, but the foundation should be written in plain, readable code. Not markup soup.
+
+
+---
+
+## Deployment Process Overview
+
+- Process is streamlined and reduces the dependency/intervention from the hosting provider. 
+- We make changes in the SSG, deploy that (2-5 minutes)
+- Trigger a rebuild of the open edx systems (35-45 minutes)
+
+Notes:
+We are the ideal client for hosting providers - the only intervention hosting providers needed was to handle emergencies.
+
+---
+
+## Pain = Healing
+
+10 versions in 10 hours, with 10 days of prep & planning.
+
+Notes:
+The upgrade was huge pain point, but Amir's help made this step so much easier.
+
+---
+
+## Why not use Paragon?
+
+(for the uninitiated, Paragon is Open edX's design system)
+
+- Well, we are (sort of)
+    - we still use Paragon's interactivity (the interactive react components)
+    - copied core bits of MFE CSS and customized that
+    - in some cases, we eliminated it altogether and wrote our own rules
+- Path of least resistance
+- we already have our own design language
+- easier to push ours forward instead of using the styles built into paragon

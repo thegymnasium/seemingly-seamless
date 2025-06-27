@@ -109,6 +109,8 @@ Notes:
 
 Together, we built Gymnasium — its marketing site and Open edX learner experience.
 
+[optional]: if we have time, do a gif animation of all the take 5's
+
 ---
 
 ## About Gymnasium
@@ -193,6 +195,8 @@ Congrats to Salma!
 Notes:
 Enough about us, let’s talk about Open edX.
 
+[to do]: local version of gif
+
 ---
 
 ## Our Open edX journey
@@ -255,9 +259,3 @@ Notes: revise? (do we change this?)
 ### stick around <!-- .element: class="hide" -->
 
 stick around 🙏 (it’ll be worth it)
-
----
-
-## Let’s talk design
-
-Notes: Next up, Justin will talk about design.

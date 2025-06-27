@@ -1,6 +1,7 @@
 ## A change of hands 🤝
 
 Notes:
+[to do: do we need this slide section?]
 - the relationship with our hosting provider had changed
 - they were no longer able to meet our needs.
 

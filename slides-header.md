@@ -4,7 +4,11 @@
 
 Notes: Here's an example of the YAML that governs our navigation.
 
-------
+---
+
+screencap detail of main navigation
+
+---
 
 <!-- .slide: data-auto-animate -->
 

@@ -4,7 +4,11 @@
 
 Notes: This is the YAML for our site footer
 
-------
+---
+
+screencap detail of footer
+
+---
 
 <!-- .slide: data-auto-animate -->
 
@@ -60,6 +64,10 @@ Notes: Here is the escaped HTML embedded in the JSON
 
 ![Screenshot of main navigation](img/footer-01.png)<!-- .element: class="r-fit-text" data-id="screencap" -->
 
+[also show the hawthorn footer]
+
 
 Notes:
-The unified site footer - this looks the same across the eleventy static site and the MFEs. The only difference is the links in the MFE/theme version point back to the static site.
+- also show the hawthorn footer
+- The unified site footer - this looks the same across the eleventy static site and the MFEs.
+- The only difference is the links in the MFE/theme version point back to the static site.

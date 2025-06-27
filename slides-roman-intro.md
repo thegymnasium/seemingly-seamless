@@ -1,6 +1,8 @@
-## Hi, I'm Roman 🇱🇰 🇷🇺 🇺🇸
+## Hi, I'm Roman
 
-Director of Technology <!-- .element: class="fragment" data-fragment-index="1" -->
+🇷🇺 🇱🇰 🇩🇪 🇺🇸
+
+Director of Technology
 
 Notes:
 I'm Roman Edirisinghe, and I'm Gymnasium’s director of technology.

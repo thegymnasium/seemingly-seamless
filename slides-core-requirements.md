@@ -1,6 +1,8 @@
 ### Core requirements
 
 Notes:
+[to do]: revise title? Talk overview?
+
 - design leads development
   - eleventy
 - rapid deployment
