@@ -33,7 +33,7 @@ Montserrat College of Art’s website circa 1996 designed by John McVey.
 
 - Designer-developer hybrid with an emphasis on inclusion and accessibility <!-- .element: class="fragment" data-fragment-index="1" -->
 - Over 20 years of teaching design in higher ed <!-- .element: class="fragment" data-fragment-index="2" -->
-- Currently a lecturer at the University of Creative Communication in Prague <!-- .element: class="fragment" data-fragment-index="13" -->
+- Currently a lecturer at the University of Creative Communication in Prague <!-- .element: class="fragment" data-fragment-index="3" -->
 
 
 Note:
