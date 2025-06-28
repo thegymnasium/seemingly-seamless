@@ -1,3 +1,43 @@
+
+## Post launch recap
+
+Notes:
+
+---
+
+### down time minimal<!-- .element: class="hide" -->
+
+minimum down time
+
+Notes:
+
+---
+
+### clear skies <!-- .element: class="hide" -->
+
+running seamlessly since launch
+
+Notes:
+
+---
+
+### 0 tickets <!-- .element: class="hide" -->
+
+zero support tickets
+
+Notes:
+
+---
+
+### no issues <!-- .element: class="hide" -->
+
+no visual or technical problems
+
+Notes:
+
+---
+
+
 ## And that's how we did it.
 
 Notes: 
@@ -52,18 +92,11 @@ Notes:
 
 ### Site banner
 
+[to do: show detail of a mobile banner]
+
+
 ![Screenshot of site banner](img/banner-01.png)<!-- .element: class="r-fit-text" data-id="screencap" -->
 
 Notes:
-(note to self: this is another potential teaser about the conclusion)
-
----
-
-[show detailed close up]
-
----
-
-[show detail of a mobile banner]
-
-Notes:
 - read banner out loud
+- some of you may be wondering why this messaging is up on our site

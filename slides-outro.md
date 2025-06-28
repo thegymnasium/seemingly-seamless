@@ -1,116 +1,3 @@
-# Conclusion<!-- .element: class="hide" -->
-
-## 10 years later, Open edX is much easier to customize
-
-### *(thank you)* <!-- .element: class="fragment" data-fragment-index="1" -->
-
-Notes:
-- After 10 years of working with Open edX, the platform has become became much easier to customize *(thank you)*
-- We solved (our version of) the seamless experience
-
----
-
-## Post launch
-
-Notes:
-
----
-
-### down time minimal<!-- .element: class="hide" -->
-
-minimum down time
-
-Notes:
-
----
-
-### clear skies <!-- .element: class="hide" -->
-
-running seamlessly since launch
-
-Notes:
-
----
-
-### 0 tickets <!-- .element: class="hide" -->
-
-zero support tickets
-
-Notes:
-
----
-
-### no issues <!-- .element: class="hide" -->
-
-no visual or technical problems
-
-Notes:
-
----
-
-## Reaching altitude 🛫
-
-Notes:
-As far as next steps...
-
----
-
-### next: eleventy upgrade <!-- .element: class="hide" -->
-
-upgrade to next version of eleventy
-
-Notes:
-
----
-
-### next: open edx upgrade <!-- .element: class="hide" -->
-
-update from redwood to sumac and beyond
-
-Notes:
-
----
-
-### next: new courses <!-- .element: class="hide" -->
-
-new course development
-
-Notes:
-
----
-
-<!-- .slide: data-background="black" -->
-
-## ⚡ Fasten your seat belts
-
-Notes:
-
----
-
-### unexpected turbulence <!-- .element: class="hide" -->
-
-unexpected turbulence!
-
-Notes:
-
----
-
-### things go wrong <!-- .element: class="hide" -->
-
-anything that can go wrong will go wrong
-
-Notes:
-
----
-
-### can't plan for everything <!-- .element: class="hide" -->
-
-you can anticipate and plan for all sort of outcomes, but the one you don't account for is…
-
-Notes:
-
----
-
 <!-- .slide: data-background="black" -->
 
 ## Free costs money 💸<!-- .element: class="" -->
@@ -120,11 +7,15 @@ Everything comes at a cost.
 
 ---
 
+<!-- .slide: data-background="black" -->
+
 ### budget cuts <!-- .element: class="hide" -->
 
 budget cuts 📉
 
 ---
+
+<!-- .slide: data-background="black" -->
 
 ### reorg <!-- .element: class="hide" -->
 
@@ -133,6 +24,8 @@ a surprise company reorganization 🙈
 Notes:
 
 ---
+
+<!-- .slide: data-background="black" -->
 
 ### department closed <!-- .element: class="hide" -->
 
@@ -155,15 +48,17 @@ Notes:
 
 ---
 
-## No more LMS? 📚
+## No more LMS 👋
 
 Notes:
+- farewell open edx?
 
 ---
 
-## No credentials? 🏆📜🎓
+## No credentials 🏆
 
 Notes:
+- creds ain't free bruh
 
 ---
 
@@ -173,85 +68,98 @@ Notes:
 
 ---
 
-## Still free online learning 💯🆓
+## Still free online learning 💯
 
 Notes:
-(via YouTube)
+- (via YouTube)
 
 ---
 
-### Aquent's mission <!-- .element: class="hide" -->
-
-And that was something our parent company didn’t have to do
+Aquent’s mission to provide <br>free online education continues...
 
 Notes:
+- improv
+- (sans certificates)
 
 ---
 
-## 🛬 Exit row seats only
+## A covert op
 
 ---
 
 core team members helped transition the site to archived, publicly available content
 
 Notes: 
+-
 
 ---
 
-## 🛬 Emergency Landing
-
-The end of Gymnasium: in a moment of crisis, design & development was incredibly easy for us.
-
-Shut down LMS rapidly and rerouted.<!-- .element: class="fragment" data-fragment-index="1" -->
-
-We made an incredibly flexible, agile environment - scaling up & scaling down/back<!-- .element: class="fragment" data-fragment-index="2" -->
+## Seamless transition
 
 Notes:
-[optional]: say something about "graceful degradation"
-Designing for crisis: all the work we did made it so much easier to transition to a non-LMS site.
-
+- all the work we did made designing and building for crisis a seamless experience
 
 ---
 
-## Mission Accomplished 💪
+## Easy to scale
 
-- Aquent’s mission to provide free education continues, sans certificates.
-
-Notes: (improv)
-
----
-
-### 🙏 Made Possible By 🤝
-
-- Gymnasium Team
-- Amir
-- Aquent
-- Open edX
-- Appsembler
-- OpenCraft
-
-Notes: (improvise)
+Notes:
+- built an environment that was incredibly easy to scale up or down as as our needs changed
+- we shut the LMS down rapidly and rerouted everything to the static site
 
 ---
 
-<!-- .slide: data-background="black" -->
+### Design for the win
+
+Notes:
+- our design decisions (whether visual or architectural) made all the difference for us
+
+---
+
+
+## 10 years later, Open edX is much easier to customize
+
+### *(thank you)* <!-- .element: class="fragment" data-fragment-index="1" -->
+
+Notes:
+- After 10 years of working with Open edX, the platform has become became much easier to customize *(thank you)*
+- We solved (our version of) the seamless experience
+
+---
+
+### Made possible by
+
+- 🙏 Gymnasium past and present: Andrew Miller, Jeremy Osborn, Keir Cullen Janey, Peter Brislawn, Mike Bifulco
+- 🤝 Aquent, Open edX, Appsembler, OpenCraft
+
+Notes:
+- (improvise)
+
+---
 
 ## More than a job 💼
 
 - We love doing this type of work
 - We’re available to help – and to hire
 
-Notes: (improvise)
+Notes:
+- (improvise)
 
 ---
 
-## Fin 🔚
+<!-- .slide: data-background="black" -->
 
-Merci beaucoup <!-- .element: class="fragment" data-fragment-index="2" -->
+## Fin
+
+🔚
+
+Merci beaucoup <!-- .element: class="fragment" data-fragment-index="1" -->
+
+Notes: thank you
 
 ---
 
-## For hire. Questions 🤨❓
+## Questions 🤨❓
 
 - [Justin Gagne](https://www.linkedin.com/in/justingagne/)[QR]
     - linkedin.com/in/justingagne/
@@ -264,4 +172,4 @@ Merci beaucoup <!-- .element: class="fragment" data-fragment-index="2" -->
 
 
 Notes:
-- revisit slide title
+-

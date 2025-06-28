@@ -331,3 +331,83 @@ The upgrade was huge pain point, but Amir's help made this step so much easier.
 - Path of least resistance
 - we already have our own design language
 - easier to push ours forward instead of using the styles built into paragon
+
+---
+
+# Conclusion<!-- .element: class="hide" -->
+
+<!-- .slide: data-background="black" -->
+
+## ⚡ Fasten your seat belts
+
+Notes:
+
+---
+
+### unexpected turbulence <!-- .element: class="hide" -->
+
+unexpected turbulence!
+
+Notes:
+
+---
+
+### things go wrong <!-- .element: class="hide" -->
+
+anything that can go wrong will go wrong
+
+Notes:
+
+---
+
+### can't plan for everything <!-- .element: class="hide" -->
+
+you can anticipate and plan for all sort of outcomes, but the one you don't account for is…
+
+Notes:
+
+---
+
+## Reaching altitude 🛫
+
+Notes:
+As far as next steps...
+
+---
+
+### next: eleventy upgrade <!-- .element: class="hide" -->
+
+upgrade to next version of eleventy
+
+Notes:
+
+---
+
+### next: open edx upgrade <!-- .element: class="hide" -->
+
+update from redwood to sumac and beyond
+
+Notes:
+
+---
+
+### next: new courses <!-- .element: class="hide" -->
+
+new course development
+
+Notes:
+
+
+---
+
+The end of Gymnasium: in a moment of crisis, design & development was incredibly easy for us.
+
+
+
+We made an incredibly flexible, agile environment - scaling up & scaling down/back
+
+Notes:
+[optional]: say something about "graceful degradation"
+Designing for crisis: all the work we did made it so much easier to transition to a non-LMS site.
+
+---
