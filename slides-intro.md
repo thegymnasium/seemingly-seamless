@@ -38,6 +38,104 @@ Notes: And I’m Justin Gagne, Design Lead.
 
 ---
 
+## Hi, I'm Roman
+
+🇷🇺 🇱🇰 🇩🇪 🇺🇸
+
+Director of Technology
+
+Notes:
+I'm Roman Edirisinghe, and I'm Gymnasium’s director of technology.
+
+------
+
+### since '96 <!-- .element: class="hide" -->
+
+working with the web since 1996
+
+Notes:
+I started working on the web in 1996
+
+------
+
+### art background <!-- .element: class="hide" -->
+
+background in art
+
+Notes:
+I have a background in art, not computer science
+
+------
+
+### self-taught <!-- .element: class="hide" -->
+
+largely self-taught
+
+Notes:
+- Perhaps it's not unusual these days, but I'm largely self taught with regard to the web.
+
+------
+
+### joined team in 2021 <!-- .element: class="hide" -->
+
+joined Gymnasium in 2021
+
+Notes:
+- no prior experience with Open edX before 2021, only a little bit of Python
+- What ensued was a crash course not just into Open edX, but also into how the Gymnasium team had customized the platform
+
+------
+
+### always a better way <!-- .element: class="hide" -->
+
+there is always a better way
+
+Notes:
+- with these things in mind, this could mean there are better ways to do what we did, and we welcome any feedback
+
+---
+
+## Hi, I’m Justin Gagne
+
+Design Lead 🎨 👨‍💻 ✍️
+
+Note:
+I’m Justin Gagne, and I’m Gymnasium’s design lead. I joined Gymnasium in 2015, and started my journey with Open edX.
+
+
+------
+
+### Artist <!-- .element: class="hide" -->
+
+![A young Justin in pajamas, sporting a self-made newspaper hat, is busy drawing at the kitchen table.](https://justingagne.design/img/about/justin-at-work.jpg)
+
+------
+
+### Art School <!-- .element: class="hide" -->
+
+![Montserrat College of Art’s website circa 1996 designed by John McVey.](img/montserrat-website-1996-1920w.png)
+
+Note:
+Montserrat College of Art’s website circa 1996 designed by John McVey.
+
+------
+
+I started working with the web circa 1998 while at art school.
+
+------
+
+Designer-developer hybrid with an emphasis on inclusion and accessibility
+
+------
+
+Over 20 years of teaching design in higher ed
+
+------
+
+Currently a lecturer at the University of Creative Communication in Prague
+
+------
+
 ## Why we’re here
 
 Notes:
