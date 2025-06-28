@@ -6,7 +6,9 @@ Notes: This is the YAML for our site footer
 
 ---
 
-screencap detail of footer
+
+![Screenshot of pre-Eleventy footer (detail) design.](img/gymnasium-footer-eleventy-detail-1920w.png) <!-- .element: class="r-fit-text" data-id="screencap" -->
+
 
 ---
 
@@ -14,7 +16,7 @@ screencap detail of footer
 
 <h2 data-id="code-title">Footer YAML</h2>
 <pre class="code-wrapper" data-id="code-animation">
-  <code class="language-yml" 
+  <code class="language-yml"
     data-disable- line-numbers="|2-22|23-38|39-57|58-114|115-136|138-151|152-159|160-191"
     data-trim
     data-url="code-samples/footer.yaml"
@@ -62,9 +64,11 @@ Notes: Here is the escaped HTML embedded in the JSON
 
 ### Footer
 
-![Screenshot of main navigation](img/footer-01.png)<!-- .element: class="r-fit-text" data-id="screencap" -->
+![Screenshot of pre-Eleventy footer design.](img/gymansium-footer-pre-eleventy-1920w.png) <!-- .element: class="r-fit-text" data-id="screencap" -->
 
-[also show the hawthorn footer]
+![Screenshot of Eleventy footer design.](img/gymansium-footer-eleventy-1920w.png) <!-- .element: class="r-fit-text" data-id="screencap" -->
+
+
 
 
 Notes:
