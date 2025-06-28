@@ -1,18 +1,20 @@
-<!-- .slide: data-background="black" class="" -->
 
 ## Navigation
 
-Notes: Here's an example of the YAML that governs our navigation.
+Notes: 
 
 ---
 
 screencap detail of main navigation
 
+Notes:
+- here's a zoomed in view of our main nav
+
 ---
 
 <!-- .slide: data-auto-animate -->
 
-<h2 data-id="code-title">Navigation YAML</h2>
+## Navigation YAML<!-- .element: data-id="code-title" -->
 <pre class="code-wrapper" data-id="code-animation">
   <code class="language-yml" 
     data-line-numbers="|3-9|11-16|17-21|22-30" 
@@ -22,6 +24,8 @@ screencap detail of main navigation
 </pre>
 
 Notes:
+[to do:simplify notes]
+Here's an example of the YAML that governs our navigation.
 In this example, I'll step through the various sections of YAML, each of which will get processed and transformed.
 
 ------
@@ -39,10 +43,10 @@ In this example, I'll step through the various sections of YAML, each of which w
 </pre>
 
 Notes:
+[to do:simplify notes]
 The YAML gets processed by eleventy, which spits out the JSON. Take note that the GYM_ROOT_URL and GYM_LMS_URL text strings have been replaced by the actual URL. We did this to support our development, staging, and production environments.
 
 This JSON is consumed by the MFEs + LMS at build time.
-
 
 ------
 

@@ -18,7 +18,7 @@ Notes:
 ### Code snippet  <!-- .element: class="hide" -->
 
 ```python
-# example of convincing open edx to hug a marketing site
+# convincing open edx to 💕 a marketing site
 CROSS_DOMAIN_CSRF_COOKIE_DOMAIN: "{{ ROOT_DOMAIN }}"
 SHARED_COOKIE_DOMAIN: "{{ ROOT_DOMAIN }}"
 CSRF_TRUSTED_ORIGINS.append("{{ MARKETING_SITE_BASE_URL }}")

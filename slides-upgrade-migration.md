@@ -1,5 +1,8 @@
 ## Hawthorn to Redwood
 
+Notes:
+- Let's talk about transitioning from Hawthorn to Redwood
+
 ---
 
 ### Upgrade and migration <!-- .element: class="hide" -->
@@ -7,7 +10,7 @@
 Upgrade and migration
 
 Notes:
-Implied in an upgrade is a data migration
+- Implied in an upgrade is a data migration
 
 ---
 
@@ -17,9 +20,7 @@ Amir Tadrisi to the rescue
 
 
 Notes:
-Our very talented collaborator Amir Tadrisi wrote some fancy scripts to automatically migrate data from version to version.
-
-The next slide shows how many versions Amir needed to process.
+- Our very talented collaborator Amir Tadrisi wrote some fancy scripts to automatically migrate data from version to version.
 
 ---
 
@@ -28,6 +29,7 @@ The next slide shows how many versions Amir needed to process.
 Notes:
 - that's with a lot of planning
 - in the end, the data migration took about 6 hours
+- The next slide shows how many versions Amir needed to process.
 
 ---
 
@@ -45,6 +47,5 @@ Notes:
 <span>Redwood</span> <!-- .element: class="fragment" data-fragment-index="10" -->
 
 Notes:
-[to do]: maybe a plugin to only show the animation once?
 - Could you imagine going through these manually and checking to ensure the data is correct?
 - We will leave you a QR code to contact Amir should you need his consulting expertise.

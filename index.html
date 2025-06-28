@@ -173,6 +173,7 @@
     </div>
 
     <script src="dist/reveal.js"></script>
+    <script src="plugin/onetimer/onetimer.js"></script>
     <!-- <script src="plugin/verticator/verticator.js"></script> -->
     <script src="plugin/embed-code/embed-code.js"></script>
     <script src="plugin/notes/notes.js"></script>
@@ -209,6 +210,10 @@
         minScale: 0.2,
         maxScale: 2.0,
 
+        oneTimer: {
+          immediateMode: false
+        },
+
         // Learn about plugins: https://revealjs.com/plugins/
         plugins: [
           RevealMarkdown,
@@ -217,6 +222,7 @@
           // RevealMath,
           RevealNotes,
           // RevealSearch,
+          OneTimer,
           RevealZoom,
           RevealMenu,
           // Verticator,

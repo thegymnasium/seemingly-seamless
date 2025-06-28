@@ -1,14 +1,14 @@
-<!-- .slide: data-background="black" class="" -->
-
 ## Footer
 
-Notes: This is the YAML for our site footer
+Notes:
+- let's showcase our site footer
 
 ---
 
-
 ![Screenshot of pre-Eleventy footer (detail) design.](img/gymnasium-footer-eleventy-detail-1920w.png) <!-- .element: class="r-fit-text" data-id="screencap" -->
 
+Notes:
+- here's a screencap of our cute footer
 
 ---
 
@@ -24,7 +24,8 @@ Notes: This is the YAML for our site footer
 </pre>
 
 Notes:
-Our footer YAML is processed a little differently - we generate all the HTML for the footer first, then embed the entirety of the HTML inside the JSON. This escaped HTML gets included in the MFEs + theme at build time.
+- the YAML for our site footer.
+- Our footer YAML is processed a little differently - we generate all the HTML for the footer first, then embed the entirety of the HTML inside the JSON. This escaped HTML gets included in the MFEs + theme at build time.
 
 ------
 
@@ -62,16 +63,22 @@ Notes: Here is the escaped HTML embedded in the JSON
 
 <!-- .slide:  -->
 
-### Footer
+### Before
 
 ![Screenshot of pre-Eleventy footer design.](img/gymansium-footer-pre-eleventy-1920w.png) <!-- .element: class="r-fit-text" data-id="screencap" -->
+
+Notes:
+- the hawthorn footer
+- did a "soft" redesign
+
+------
+
+### After
 
 ![Screenshot of Eleventy footer design.](img/gymansium-footer-eleventy-1920w.png) <!-- .element: class="r-fit-text" data-id="screencap" -->
 
 
-
-
 Notes:
-- also show the hawthorn footer
-- The unified site footer - this looks the same across the eleventy static site and the MFEs.
-- The only difference is the links in the MFE/theme version point back to the static site.
+- The unified site footer - this looks the same across the eleventy static site and the MFEs
+- The only difference is the links in the MFE/theme version point back to the static site
+- no need for "state" awareness (rephrasing)

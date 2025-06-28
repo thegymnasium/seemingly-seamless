@@ -9,6 +9,7 @@ Speakers: Roman Edirisinghe and Justin Gagne
 ![](img/openedx-conference-logo-2025-720w.png) <!-- .element: class="openedx-logo" -->
 
 Notes:
+Bonjour, Ahoj, Hello!
 Thank you for joining us for our case study talk, Seemingly Seamless: How We Improved the Learner Experience and Made Our Lives Easier.
 
 ---
@@ -134,68 +135,12 @@ Over 20 years of teaching design in higher ed
 
 Currently a lecturer at the University of Creative Communication in Prague
 
-------
-
-## Why we’re here
-
-Notes:
-
-Revise: We’re here to share how our drive for deep Open edX customization led to a seamless platform launch with zero support tickets and plenty of lessons along the way.
-
-[talk about front end?]
-
----
-
-### seamless open edx customization <!-- .element: class="hide" -->
-
-seamless open edx customization 🛠️
-
-Notes:
-We’ll demonstrate our approach to customizing Open edX for a seamless branded experience.
-
----
-
-### improved student experience <!-- .element: class="hide" -->
-
-improved student experience 🧑‍💻
-
-Notes:
-
-
----
-
-### design shaping development <!-- .element: class="hide" -->
-
-design shaping development 🖼️
-
-Notes:
-Our design shaped our technical choices
-
----
-
-### zero support tickets <!-- .element: class="hide" -->
-
-zero support tickets 🥳
-
-Notes:
-successful outcome: zero support tickets post launch
-
----
-
-### lessons learned <!-- .element: class="hide" -->
-
-lessons learned 📝
-
-Notes:
-We overcame styling, asset, and content challenges.
-
 ---
 
 ## 👋 We’re Gymnasium
 
 Notes:
-
-Bonjour, Ahoj, Hello — we’re Gymnasium — Aquent’s free learning platform.
+- We’re Gymnasium — Aquent’s free online learning platform.
 
 ---
 
@@ -204,17 +149,10 @@ Bonjour, Ahoj, Hello — we’re Gymnasium — Aquent’s free learning platform
 ![Gymnasium homepage, June 2025.](img/gym-homepage-06-2025-1920w.png)
 
 Notes:
-
-Together, we built Gymnasium — its marketing site and Open edX learner experience.
+- Together, we built Gymnasium — its marketing site and Open edX learner experience.
+- example of the current home page
 
 [optional]: if we have time, do a gif animation of all the take 5's
-
----
-
-## About Gymnasium
-
-Notes:
-A little bit more about Gymnasium...
 
 ---
 
@@ -224,7 +162,6 @@ free online courses and tutorials
 
 Notes:
 
-
 ---
 
 ### on design... <!-- .element: class="hide" -->
@@ -233,10 +170,9 @@ topics: design, development, UX, prototyping, accessibility, and career skills
 
 Notes:
 
-
 ---
 
-## Impact since 2013
+## Since 2013
 
 ---
 
@@ -244,11 +180,14 @@ Notes:
 
 reached over 160,000 students
 
+Notes:
+- one hundred and sixty thousand students
+
 ---
 
 ### 200+ countries and regions <!-- .element: class="hide" -->
 
-in more than 200 countries and regions
+more than 200 countries and regions
 
 ---
 
@@ -256,13 +195,16 @@ in more than 200 countries and regions
 
 issued over 20,000 credentials
 
+Notes:
+- over twenty thousand credentials
+
 ---
 
 ## Empowerment
 
 Notes:
-- our students share achievements on LinkedIn
-- they showcase skills learned through Gymnasium online
+- preaching to the choir but...
+- new skills often lead to empowerment
 
 ---
 
@@ -271,9 +213,8 @@ Notes:
 ![LinkedIn Gymnasium course certificate completion show-off.](img/student-certificate-1920w.png)
 
 Notes:
-- New skills often lead to empowerment
-- Salma in Egypt showing off her achievement
-- thanks to Gymnasium and our parent company, Aquent
+- student example
+- Salma in Egypt showing off her achievement on LinkedIn
 
 ---
 
@@ -283,6 +224,60 @@ Notes:
 
 Notes:
 Congrats to Salma!
+
+---
+
+## Why we’re here
+
+Notes:
+- Enough... let's talk about the case study
+
+---
+
+### seamless open edx customization <!-- .element: class="hide" -->
+
+seamless open edx customization 🛠️
+
+Notes:
+- demonstrate our approach to customizing Open edX
+- seamless branded experience
+
+---
+
+### improved student experience <!-- .element: class="hide" -->
+
+improved student experience 🧑‍💻
+
+Notes:
+- work had minimal student down-time
+- enhanced, customized catalog
+
+---
+
+### design shaping development <!-- .element: class="hide" -->
+
+design shaping development 🖼️
+
+Notes:
+- Our design shaped our technical choices
+
+---
+
+### zero support tickets <!-- .element: class="hide" -->
+
+zero support tickets 🥳
+
+Notes:
+- successful outcome: zero support tickets post launch
+
+---
+
+### lessons learned <!-- .element: class="hide" -->
+
+lessons learned 📝
+
+Notes:
+- We overcame styling, asset, and content challenges.
 
 ---
 

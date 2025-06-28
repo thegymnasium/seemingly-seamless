@@ -18,32 +18,53 @@ Notes:
 single source of truth
 
 Notes:
-- updating styles in one place is much easier/faster than updating it in 8 different places.
-- use eleventy's 2 minute build time vs 35-45 minutes on average for deploying open edx changes.
+- served from SSG
+  - visual layer/styles served from SSG
+  - YAML for content
+
+
+
+---
+
+### Visual layer <!-- .element: class="hide" -->
+
+disable default CSS
+
+Notes:
+- Why?
+  - updating styles in one place is much easier/faster than updating it in 8 different places.
+  - use eleventy's 2 minute build time vs 35-45 minutes on average for deploying open edx changes.
+
+Steps to achieving this:
 
 1. disable built-in MFE CSS
     - cleanup
 2. disable theme CSS
 3. use eleventy to deliver CSS to MFEs + theme 
 
-
----
-
-### Disable default CSS <!-- .element: class="hide" -->
-
-disable default CSS
-
-Notes:
 - Pitfalls: discovery that some development of MFEs resulted in CSS rules declared 8-10x (link to the issue)
 
 ---
 
-embed this slide or a screencap
-https://github.com/openedx/frontend-app-learner-dashboard/issues/325
+<!-- .slide: data-background="black" class="" -->
+
+![image of crazy scss](img/10-copies-scss.png)
+
+Notes:
+- it's not just us noticing issues
+- github issue logged by CTO of OpenCraft, Braden Macdonald
+- CSS for the learner dashboard declared 10x
+- choosing simplicity was a no-brainer for us
+
+Github link https://github.com/openedx/frontend-app-learner-dashboard/issues/325
+
 
 ---
 
 ## Content
+
+Notes:
+- YAML as the source of truth for content
 
 ---
 
