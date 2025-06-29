@@ -40,7 +40,7 @@ Notes:
 
 ## And that’s how we did it.
 
-Notes: 
+Notes:
 (maybe show banner next). oh wait, I meant to show you the banner.
 
 ---
@@ -52,7 +52,7 @@ Notes:
 Notes:
 - Used for sitewide notifications, we handle this similar to the footer - by embedding the entirety of it within the JSON.
 - this is updated in real time without redeploying the LMS
-- 
+-
 
 ---
 
@@ -92,7 +92,7 @@ Notes:
 
 ### Site banner
 
-![Screenshot of site banner](img/banner-02.png)<!-- .element: class="r-fit-text" data-id="screencap" -->
+![Screenshot of site banner detail.](img/banner-02.png)<!-- .element: class="r-fit-text" data-id="screencap" -->
 
 Notes:
 - read banner out loud
