@@ -108,7 +108,7 @@ I’m Justin Gagne, and I’m Gymnasium’s design lead. I joined Gymnasium in 2
 
 ### Artist<!-- .element: class="hide" -->
 
-![A young Justin in pajamas, sporting a self-made newspaper hat, is busy drawing at the kitchen table.](https://justingagne.design/img/about/justin-at-work.jpg)
+![A young Justin in pajamas, sporting a self-made newspaper hat, is busy drawing at the kitchen table.](img/justin-at-work.jpg)
 
 ------
 
@@ -121,11 +121,15 @@ Montserrat College of Art’s website circa 1996 designed by John McVey.
 
 ------
 
-I started working with the web circa 1998 while at art school.
+Start working with the web circa 1998 while at art school
 
 ------
 
 Designer-developer hybrid with an emphasis on inclusion and accessibility
+
+------
+
+10 years as a design lead
 
 ------
 
