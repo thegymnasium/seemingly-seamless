@@ -46,7 +46,7 @@ Since 2015, Gymnasium’s course catalog has expanded, not just in quantity, but
 
 Notes:
 - Here is what our course catalog looks like now.
-- Our design language hasn't changed much, but it has simplified and aged into a fine wine.
+- Our design language hasn’t changed much, but it has simplified and aged into a fine wine.
 
 ---
 
@@ -92,7 +92,7 @@ Notes:
 Post Hawthorn Open edX (Olive...Palm)
 
 - MFEs
-- Noticed MFEs weren't built consistently
+- Noticed MFEs weren’t built consistently
 - Confusing implementation - some parts of LMS were the theme, others were MFEs.
 
 Notes:
@@ -105,7 +105,7 @@ Started learning the MFEs in 2023/2024 etc.
 ## Errors
 
 Notes:
-Here's how we approach handling customized error messaging.
+Here’s how we approach handling customized error messaging.
 
 ------
 
@@ -154,7 +154,7 @@ Notes:
 
 ## Meta data
 
-Notes: 
+Notes:
 
 
 ------
@@ -171,11 +171,11 @@ Notes:
 </pre>
 
 Notes:
-Here's an example of how we handle the site meta - those unseen elements that are so useful for SEO and web crawling spiders sent by search engines such as Google, Yahoo, Bing, etc, ad nauseam
+Here’s an example of how we handle the site meta - those unseen elements that are so useful for SEO and web crawling spiders sent by search engines such as Google, Yahoo, Bing, etc, ad nauseam
 
-Oh wait, what's Twitter doing there?
+Oh wait, what’s Twitter doing there?
 
-Let's cancel that.
+Let’s cancel that.
 
 ------
 
@@ -250,7 +250,7 @@ It means championing core web technologies like HTML, CSS, and JavaScript, not f
 
 ## Deployment Process Overview
 
-- Process is streamlined and reduces the dependency/intervention from the hosting provider. 
+- Process is streamlined and reduces the dependency/intervention from the hosting provider.
 - We make changes in the SSG, deploy that (2-5 minutes)
 - Trigger a rebuild of the open edx systems (35-45 minutes)
 
@@ -264,16 +264,16 @@ We are the ideal client for hosting providers - the only intervention hosting pr
 10 versions in 10 hours, with 10 days of prep & planning.
 
 Notes:
-The upgrade was huge pain point, but Amir's help made this step so much easier.
+The upgrade was huge pain point, but Amir’s help made this step so much easier.
 
 ---
 
 ## Why not use Paragon?
 
-(for the uninitiated, Paragon is Open edX's design system)
+(for the uninitiated, Paragon is Open edX’s design system)
 
 - Well, we are (sort of)
-    - we still use Paragon's interactivity (the interactive react components)
+    - we still use Paragon’s interactivity (the interactive react components)
     - copied core bits of MFE CSS and customized that
     - in some cases, we eliminated it altogether and wrote our own rules
 - Path of least resistance
@@ -292,7 +292,7 @@ Notes:
 
 ---
 
-### unexpected turbulence <!-- .element: class="hide" -->
+### unexpected turbulence<!-- .element: class="hide" -->
 
 unexpected turbulence!
 
@@ -300,7 +300,7 @@ Notes:
 
 ---
 
-### things go wrong <!-- .element: class="hide" -->
+### things go wrong<!-- .element: class="hide" -->
 
 anything that can go wrong will go wrong
 
@@ -308,9 +308,9 @@ Notes:
 
 ---
 
-### can't plan for everything <!-- .element: class="hide" -->
+### can’t plan for everything<!-- .element: class="hide" -->
 
-you can anticipate and plan for all sort of outcomes, but the one you don't account for is…
+you can anticipate and plan for all sort of outcomes, but the one you don’t account for is…
 
 Notes:
 
@@ -323,7 +323,7 @@ As far as next steps...
 
 ---
 
-### next: eleventy upgrade <!-- .element: class="hide" -->
+### next: eleventy upgrade<!-- .element: class="hide" -->
 
 upgrade to next version of eleventy
 
@@ -331,7 +331,7 @@ Notes:
 
 ---
 
-### next: open edx upgrade <!-- .element: class="hide" -->
+### next: open edx upgrade<!-- .element: class="hide" -->
 
 update from redwood to sumac and beyond
 
@@ -339,7 +339,7 @@ Notes:
 
 ---
 
-### next: new courses <!-- .element: class="hide" -->
+### next: new courses<!-- .element: class="hide" -->
 
 new course development
 
