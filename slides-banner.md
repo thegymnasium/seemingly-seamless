@@ -92,10 +92,7 @@ Notes:
 
 ### Site banner
 
-[to do: show detail of a mobile banner]
-
-
-![Screenshot of site banner](img/banner-01.png)<!-- .element: class="r-fit-text" data-id="screencap" -->
+![Screenshot of site banner](img/banner-02.png)<!-- .element: class="r-fit-text" data-id="screencap" -->
 
 Notes:
 - read banner out loud
