@@ -4,9 +4,9 @@
 
 **How We Improved the Learner Experience and Made Our Lives Easier**
 
-Speakers: Roman Edirisinghe and Justin Gagne
+with Roman Edirisinghe and Justin Gagne
 
-![](img/openedx-conference-logo-2025-720w.png) <!-- .element: class="openedx-logo" -->
+![](img/openedx-conference-logo-2025-720w.png)<!-- .element: class="openedx-logo" -->
 
 Notes:
 Bonjour, Ahoj, Hello!
@@ -14,7 +14,7 @@ Thank you for joining us for our case study talk, Seemingly Seamless: How We Imp
 
 ---
 
-### Introduce Roman <!-- .element: class="hide" -->
+### Introduce Roman<!-- .element: class="hide" -->
 
 ![Image of Roman](img/roman.png)
 
@@ -39,18 +39,18 @@ Notes: And I’m Justin Gagne, Design Lead.
 
 ---
 
-## Hi, I'm Roman
+## Hi, I’m Roman
 
 🇷🇺 🇱🇰 🇩🇪 🇺🇸
 
 Director of Technology
 
 Notes:
-I'm Roman Edirisinghe, and I'm Gymnasium’s director of technology.
+I’m Roman Edirisinghe, and I’m Gymnasium’s director of technology.
 
 ------
 
-### since '96 <!-- .element: class="hide" -->
+### since ’96<!-- .element: class="hide" -->
 
 working with the web since 1996
 
@@ -59,7 +59,7 @@ I started working on the web in 1996
 
 ------
 
-### art background <!-- .element: class="hide" -->
+### art background<!-- .element: class="hide" -->
 
 background in art
 
@@ -68,16 +68,16 @@ I have a background in art, not computer science
 
 ------
 
-### self-taught <!-- .element: class="hide" -->
+### self-taught<!-- .element: class="hide" -->
 
 largely self-taught
 
 Notes:
-- Perhaps it's not unusual these days, but I'm largely self taught with regard to the web.
+- Perhaps it’s not unusual these days, but I’m largely self taught with regard to the web.
 
 ------
 
-### joined team in 2021 <!-- .element: class="hide" -->
+### joined team in 2021<!-- .element: class="hide" -->
 
 joined Gymnasium in 2021
 
@@ -87,7 +87,7 @@ Notes:
 
 ------
 
-### always a better way <!-- .element: class="hide" -->
+### always a better way<!-- .element: class="hide" -->
 
 there is always a better way
 
@@ -106,13 +106,13 @@ I’m Justin Gagne, and I’m Gymnasium’s design lead. I joined Gymnasium in 2
 
 ------
 
-### Artist <!-- .element: class="hide" -->
+### Artist<!-- .element: class="hide" -->
 
 ![A young Justin in pajamas, sporting a self-made newspaper hat, is busy drawing at the kitchen table.](https://justingagne.design/img/about/justin-at-work.jpg)
 
 ------
 
-### Art School <!-- .element: class="hide" -->
+### Art School<!-- .element: class="hide" -->
 
 ![Montserrat College of Art’s website circa 1996 designed by John McVey.](img/montserrat-website-1996-1920w.png)
 
@@ -144,7 +144,7 @@ Notes:
 
 ---
 
-### Gymnasium homepage <!-- .element: class="hide" -->
+### Gymnasium homepage<!-- .element: class="hide" -->
 
 ![Gymnasium homepage, June 2025.](img/gym-homepage-06-2025-1920w.png)
 
@@ -152,11 +152,11 @@ Notes:
 - Together, we built Gymnasium — its marketing site and Open edX learner experience.
 - example of the current home page
 
-[optional]: if we have time, do a gif animation of all the take 5's
+[optional]: if we have time, do a gif animation of all the take 5’s
 
 ---
 
-### free online courses and tutorials <!-- .element: class="hide" -->
+### free online courses and tutorials<!-- .element: class="hide" -->
 
 free online courses and tutorials
 
@@ -164,7 +164,7 @@ Notes:
 
 ---
 
-### on design... <!-- .element: class="hide" -->
+### on design...<!-- .element: class="hide" -->
 
 topics: design, development, UX, prototyping, accessibility, and career skills
 
@@ -176,7 +176,7 @@ Notes:
 
 ---
 
-### 160,000 students <!-- .element: class="hide" -->
+### 160,000 students<!-- .element: class="hide" -->
 
 reached over 160,000 students
 
@@ -185,13 +185,13 @@ Notes:
 
 ---
 
-### 200+ countries and regions <!-- .element: class="hide" -->
+### 200+ countries and regions<!-- .element: class="hide" -->
 
 more than 200 countries and regions
 
 ---
 
-### 20,000 credentials <!-- .element: class="hide" -->
+### 20,000 credentials<!-- .element: class="hide" -->
 
 issued over 20,000 credentials
 
@@ -208,7 +208,7 @@ Notes:
 
 ---
 
-### LinkedIn Cert <!-- .element: class="hide" -->
+### LinkedIn Cert<!-- .element: class="hide" -->
 
 ![LinkedIn Gymnasium course certificate completion show-off.](img/student-certificate-1920w.png)
 
@@ -218,7 +218,7 @@ Notes:
 
 ---
 
-### LinkedIn Cert Zoom <!-- .element: class="hide" -->
+### LinkedIn Cert Zoom<!-- .element: class="hide" -->
 
 ![Intern empowerment through Gymnasium.](img/student-certificate-detail-1920w.png)
 
@@ -230,11 +230,11 @@ Congrats to Salma!
 ## Why we’re here
 
 Notes:
-- Enough... let's talk about the case study
+- Enough... let’s talk about the case study
 
 ---
 
-### seamless open edx customization <!-- .element: class="hide" -->
+### seamless open edx customization<!-- .element: class="hide" -->
 
 seamless open edx customization 🛠️
 
@@ -244,7 +244,7 @@ Notes:
 
 ---
 
-### improved student experience <!-- .element: class="hide" -->
+### improved student experience<!-- .element: class="hide" -->
 
 improved student experience 🧑‍💻
 
@@ -254,7 +254,7 @@ Notes:
 
 ---
 
-### design shaping development <!-- .element: class="hide" -->
+### design shaping development<!-- .element: class="hide" -->
 
 design shaping development 🖼️
 
@@ -263,7 +263,7 @@ Notes:
 
 ---
 
-### zero support tickets <!-- .element: class="hide" -->
+### zero support tickets<!-- .element: class="hide" -->
 
 zero support tickets 🥳
 
@@ -272,7 +272,7 @@ Notes:
 
 ---
 
-### lessons learned <!-- .element: class="hide" -->
+### lessons learned<!-- .element: class="hide" -->
 
 lessons learned 📝
 
@@ -297,13 +297,13 @@ What started as a custom-built platform grew into something much bigger and bett
 
 ---
 
-### 2013 → launch <!-- .element: class="hide" -->
+### 2013 → launch<!-- .element: class="hide" -->
 
 2013 → initial launch on a custom-built platform
 
 ---
 
-### 2015 → relaunch <!-- .element: class="hide" -->
+### 2015 → relaunch<!-- .element: class="hide" -->
 
 2015 → relaunch on Open edX 😲
 
@@ -311,7 +311,7 @@ Notes: We were featured in an Open edX Conference talk entitled "Building the Pl
 
 ---
 
-### Building the Plane Slide <!-- .element: class="hide" -->
+### Building the Plane Slide<!-- .element: class="hide" -->
 
 ![Screencap of building the plane while flying it video.](img/building-the-plane-talk.png)
 
@@ -320,7 +320,7 @@ Our talk today is somewhat a continuation of the previous presentation, a decade
 
 ---
 
-### 2018 → hawthorn <!-- .element: class="hide" -->
+### 2018 → hawthorn<!-- .element: class="hide" -->
 
 2018 → upgrade to Hawthorn
 
@@ -329,7 +329,7 @@ no pop quizzes, just exceptional performance
 
 ---
 
-### 2024 → redwood <!-- .element: class="hide" -->
+### 2024 → redwood<!-- .element: class="hide" -->
 
 2024 → upgrade to Redwood
 
@@ -338,7 +338,7 @@ Notes:
 
 ---
 
-### 2025 stuff <!-- .element: class="hide" -->
+### 2025 stuff<!-- .element: class="hide" -->
 
 2025 → 🔮 🎱 🥠 twists, turns, and…
 
@@ -347,6 +347,6 @@ Notes: revise? (do we change this?)
 
 ---
 
-### stick around <!-- .element: class="hide" -->
+### stick around<!-- .element: class="hide" -->
 
 stick around 🙏 (it’ll be worth it)
