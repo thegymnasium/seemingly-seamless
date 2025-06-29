@@ -5,7 +5,7 @@ Notes:
 
 ---
 
-screencap detail of main navigation
+![Screencap detail of main navigation.](img/gym-nav-detail-1.png)
 
 Notes:
 - here’s a zoomed in view of our main nav
