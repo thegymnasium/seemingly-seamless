@@ -109,7 +109,7 @@ Notes:
 
 ---
 
-### Design for the win
+## Design for the win
 
 Notes:
 - our design decisions (whether visual or architectural) made all the difference for us
@@ -119,7 +119,7 @@ Notes:
 
 ## 10 years later, Open edX is much easier to customize
 
-### *(thank you)*<!-- .element: class="fragment" data-fragment-index="1" -->
+### *Thank you!*<!-- .element: class="fragment" data-fragment-index="1" -->
 
 Notes:
 - After 10 years of working with Open edX, the platform has become became much easier to customize *(thank you)*
@@ -129,8 +129,9 @@ Notes:
 
 ### Made possible by
 
-- 🙏 Gymnasium past and present: Andrew Miller, Jeremy Osborn, Keir Cullen Janey, Peter Brislawn, Mike Bifulco
-- 🤝 Aquent, Open edX, Appsembler, OpenCraft
+🙏 Gymnasium team: Andrew Miller, Jeremy Osborn, Keir Cullen Janey, Peter Brislawn, and Mike Bifulco
+
+🤝 Aquent, Open edX, Appsembler, OpenCraft
 
 Notes:
 - (improvise)
@@ -139,8 +140,9 @@ Notes:
 
 ## More than a job 💼
 
-- We love doing this type of work
-- We’re available to help – and to hire
+We love doing this type of work
+
+We’re available to help – and to hire
 
 Notes:
 - (improvise)
