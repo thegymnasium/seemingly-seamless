@@ -1,6 +1,6 @@
 <!-- .slide: data-background="black" -->
 
-## Free costs money 💸<!-- .element: class="" -->
+## Free costs money 💸 <!-- .element: class="" -->
 
 Notes:
 Everything comes at a cost.
@@ -89,7 +89,7 @@ Notes:
 
 core team members helped transition the site to archived, publicly available content
 
-Notes: 
+Notes:
 -
 
 ---
@@ -159,17 +159,16 @@ Notes: thank you
 
 ---
 
-## Questions 🤨❓
+## Connect & Questions 🤨❓
 
-- [Justin Gagne](https://www.linkedin.com/in/justingagne/)[QR]
-    - linkedin.com/in/justingagne/
+[**Justin Gagne**](https://www.linkedin.com/in/justingagne/) ![Connect on LinkedIn](img/qr-code-justin.svg) <!-- .element: class="connect" --><br>
+`linkedin.com/in/justingagne/`
 
-- [Roman Edirisinghe](https://www.linkedin.com/in/romanedirisinghe/) [QR]
-    - linkedin.com/in/romanedirisinghe/
+[**Roman Edirisinghe**](https://www.linkedin.com/in/romanedirisinghe/) ![Connect on LinkedIn](img/qr-code-roman.svg) <!-- .element: class="connect" --><br>
+`linkedin.com/in/romanedirisinghe/`
 
-- [Seemingly Seamless](https://github.com/thegymnasium/seemingly-seamless) [QR]
-    - github.com/thegymnasium/seemingly-seamless
-
+[**Seemingly Seamless**](https://github.com/thegymnasium/seemingly-seamless) ![View source on GitHub](img/qr-code-seemingly-seamless.svg) <!-- .element: class="connect" --><br>
+`github.com/thegymnasium/seemingly-seamless`
 
 Notes:
 -
