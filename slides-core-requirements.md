@@ -43,7 +43,7 @@ Notes:
 
 ### login "awareness"<!-- .element: class="hide" -->
 
-login "awareness" on static site
+login “awareness” on static site
 
 Notes:
 
