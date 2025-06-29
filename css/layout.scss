@@ -80,7 +80,8 @@
 }
 
 .reveal h2,
-.reveal h3 {
+.reveal h3,
+.reveal p:not(:only-child) {
   text-align: center;
 }
 
