@@ -248,12 +248,12 @@ Anyone integrating Open edX with a brand, marketing site, or CMS
 
 ---
 
-### 🛠️ What we did
+### 🔍 What we did
 
 - Upgraded and migrated from Hawthorn to Redwood
-- Unified the marketing site and learner experience
-- Built a seamless, login-aware platform
-- Soft-redesigned the course catalog and key components
+- Separated marketing site and learning platform
+- Unified the UX with a seamless, login-aware experience
+- Refreshed the course catalog and core components
 - Customized MFEs using YAML and JSON for flexibility
 
 ---
