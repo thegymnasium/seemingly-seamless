@@ -8,15 +8,15 @@ Notes:
 ### Course YAML
 
 <pre class="code-wrapper" data-id="code-animation">
-  <code class="language-yml" 
-    data-line-numbers="" 
+  <code class="language-yml"
+    data-line-numbers=""
     data-trim
     data-url="code-samples/GYM-5017.yml"
   ></code>
 </pre>
 
 Notes:
-- we used individual YAML for each course to generate a our course catalog
+- we used individual YAML for each course to generate our course catalog
 
 ---
 
