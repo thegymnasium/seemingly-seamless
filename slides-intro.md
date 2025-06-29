@@ -283,7 +283,7 @@ Notes:
 
 ## Enough about us<!-- .element: class="hide" -->
 
-![Image](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2Npa2FpZjVobmhoeDc4Nnl0OW5mcDV4aWxndjV3NzEzd3o5YTQ5OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ohs7KViF6rA4aan5u/giphy.gif)
+![Animated gif of Homer Simpson retreating into a bush](img/homer-bushes.gif)
 
 Notes:
 Enough about us, let’s talk about Open edX.
