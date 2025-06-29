@@ -112,6 +112,10 @@ I’m Justin Gagne, and I’m Gymnasium’s design lead. I joined Gymnasium in 2
 
 ------
 
+Start working with the web circa 1998 while at art school
+
+------
+
 ### Art School<!-- .element: class="hide" -->
 
 ![Montserrat College of Art’s website circa 1996 designed by John McVey.](img/montserrat-website-1996-1920w.png)
@@ -121,11 +125,11 @@ Montserrat College of Art’s website circa 1996 designed by John McVey.
 
 ------
 
-Start working with the web circa 1998 while at art school
+Designer-developer hybrid with an emphasis on inclusion and accessibility
 
 ------
 
-Designer-developer hybrid with an emphasis on inclusion and accessibility
+Joined Gymnasium in 2015, and started my journey with Open edX
 
 ------
 
@@ -238,11 +242,32 @@ Notes:
 
 ---
 
+### 🎯 Who this is for
+
+- For anyone integrating Open edX with a brand, marketing site, or CMS<!-- .element: class="fragment" data-fragment-index="1" -->
+- A real-world example of extending Open edX creatively<!-- .element: class="fragment" data-fragment-index="2" -->
+- Covers customization, UX, and architectural insights<!-- .element: class="fragment" data-fragment-index="3" -->
+- Branded experience across both site and courseware<!-- .element: class="fragment" data-fragment-index="4" -->
+- Challenges included MFE styling, asset management, and unified content<!-- .element: class="fragment" data-fragment-index="5" -->
+
+---
+
+### 🛠️ What we did
+
+- Walkthrough of key design and technical decisions<!-- .element: class="fragment" data-fragment-index="1" -->
+- Used Eleventy for static site generation and content management<!-- .element: class="fragment" data-fragment-index="2" -->
+- Built a unified course catalog and login-aware experience<!-- .element: class="fragment" data-fragment-index="3" -->
+- Faced issues with MFEs, documentation, and integration<!-- .element: class="fragment" data-fragment-index="4" -->
+- Customized components, YAML configs, and JSON-powered flexibility<!-- .element: class="fragment" data-fragment-index="5" -->
+
+---
+
 ### seamless open edx customization<!-- .element: class="hide" -->
 
 seamless open edx customization 🛠️
 
 Notes:
+- Todo: Remove this?
 - demonstrate our approach to customizing Open edX
 - seamless branded experience
 
@@ -253,6 +278,7 @@ Notes:
 improved student experience 🧑‍💻
 
 Notes:
+- Todo: Remove this?
 - work had minimal student down-time
 - enhanced, customized catalog
 
@@ -272,6 +298,7 @@ Notes:
 zero support tickets 🥳
 
 Notes:
+- Todo: Remove this?
 - successful outcome: zero support tickets post launch
 
 ---
@@ -281,6 +308,7 @@ Notes:
 lessons learned 📝
 
 Notes:
+- Todo: Remove this?
 - We overcame styling, asset, and content challenges.
 
 ---
@@ -290,11 +318,11 @@ Notes:
 ![Animated gif of Homer Simpson retreating into a bush](img/homer-bushes.gif)
 
 Notes:
-Enough about us, let’s talk about Open edX.
+Enough about us — time to get lost in the Open edX forest (and maybe into the weeds later).
 
 ---
 
-## Our Open edX journey
+## Rooted in customization
 
 Notes:
 What started as a custom-built platform grew into something much bigger and better, thanks to Open edX. This brief timeline highlights the key migrations and milestones that shaped Gymnasium — and our approach to design and development along the way.
