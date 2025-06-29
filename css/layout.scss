@@ -71,6 +71,32 @@
 
 // Custom
 
+.reveal .present *:not(h2):not(h2 ~ *):not(h3):not(h3[class] ~ p):not(p:only-of-type):not(* + p:last-child) {
+  text-align: left;
+}
+
+.reveal .present h1 {
+  font-weight: 900;
+}
+
+.reveal h2,
+.reveal h3,
+.reveal p:not(:only-child) {
+  text-align: center;
+}
+
+.reveal p {
+  text-wrap: balance;
+}
+
+.reveal code {
+  font-size: 80%;
+}
+
 .reveal .openedx-logo {
-  max-width: 16rem;
+  max-width: 12rem;
+}
+
+.reveal .connect {
+  float: right;
 }
