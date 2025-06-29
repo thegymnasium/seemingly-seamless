@@ -1,7 +1,7 @@
 ## Achieving seamlessness
 
 Notes:
-Let's talk talk about the steps involved in achieving a consistent visual design.
+Let’s talk talk about the steps involved in achieving a consistent visual design.
 
 ---
 
@@ -26,14 +26,14 @@ Notes:
 
 ---
 
-### Visual layer <!-- .element: class="hide" -->
+### Visual layer<!-- .element: class="hide" -->
 
 disable default CSS
 
 Notes:
 - Why?
   - updating styles in one place is much easier/faster than updating it in 8 different places.
-  - use eleventy's 2 minute build time vs 35-45 minutes on average for deploying open edx changes.
+  - use eleventy’s 2 minute build time vs 35-45 minutes on average for deploying open edx changes.
 
 Steps to achieving this:
 
@@ -51,7 +51,7 @@ Steps to achieving this:
 ![image of crazy scss](img/10-copies-scss.png)
 
 Notes:
-- it's not just us noticing issues
+- it’s not just us noticing issues
 - github issue logged by CTO of OpenCraft, Braden Macdonald
 - CSS for the learner dashboard declared 10x
 - choosing simplicity was a no-brainer for us
@@ -70,12 +70,12 @@ Notes:
 
 <!-- .slide: data-background="black" class="" -->
 
-## Truth = YAML + JSON <!-- .element: class="r-fit-text" -->
+## Truth = YAML + JSON<!-- .element: class="r-fit-text" -->
 
 Notes:
 YAML/JSON as a source of truth - showing stages of “the truth”.
 
-Some may ask, why not just write your truth in JSON - the answer:  YAML is much easier to read and write, doesn't require curly braces and quotes everywhere.
+Some may ask, why not just write your truth in JSON - the answer:  YAML is much easier to read and write, doesn’t require curly braces and quotes everywhere.
 
 The second reason, is the JSON is consumed exclusively by the LMS portion of our setup - the MFEs + the theme
 
@@ -83,13 +83,13 @@ The second reason, is the JSON is consumed exclusively by the LMS portion of our
 
 ## YAML
 
-YAML is the maintainer's source of truth.
+YAML is the maintainer’s source of truth.
 
 <pre class="code-wrapper" data-id="code-animation">
   <code class="language-yml" data-line-numbers data-trim> 
 %YAML 1.2
 ---
-YAML: YAML Ain't Markup Language™
+YAML: YAML Ain’t Markup Language™
 
 What It Is:
   YAML is a human-friendly data serialization
@@ -125,7 +125,7 @@ One react library handles delivery of...
 
 ------
 
-### react header <!-- .element: class="hide" -->
+### react header<!-- .element: class="hide" -->
 
 header
 
@@ -133,7 +133,7 @@ Notes: the header...
 
 ------
 
-### react footer <!-- .element: class="hide" -->
+### react footer<!-- .element: class="hide" -->
 
 footer
 
@@ -141,7 +141,7 @@ Notes: the footer...
 
 ------
 
-### react 404 <!-- .element: class="hide" -->
+### react 404<!-- .element: class="hide" -->
 
 404 errors, etc.
 
@@ -149,7 +149,7 @@ Notes: the error pages...
 
 ------
 
-### react banner <!-- .element: class="hide" -->
+### react banner<!-- .element: class="hide" -->
 
 banner
 
@@ -157,7 +157,7 @@ Notes: the site banner...
 
 ------
 
-### react overrides <!-- .element: class="hide" -->
+### react overrides<!-- .element: class="hide" -->
 
 overrides to core MFE behaviors
 

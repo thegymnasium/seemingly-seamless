@@ -7,7 +7,7 @@ Why we chose a SSG for our marketing site, and why we chose eleventy
 
 ---
 
-### Hawthorn architecture <!-- .element: class="hide" -->
+### Hawthorn architecture<!-- .element: class="hide" -->
 
 ![screenshot of our hawthorn platform architecture](img/arch-hawthorn.svg)
 
@@ -22,7 +22,7 @@ Notes:
 ## Performance ⏱️
 
 Notes:
-- let's talk numbers
+- let’s talk numbers
 
 ---
 

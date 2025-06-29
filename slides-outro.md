@@ -1,6 +1,6 @@
 <!-- .slide: data-background="black" -->
 
-## Free costs money 💸 <!-- .element: class="" -->
+## Free costs money 💸<!-- .element: class="" -->
 
 Notes:
 Everything comes at a cost.
@@ -9,7 +9,7 @@ Everything comes at a cost.
 
 <!-- .slide: data-background="black" -->
 
-### budget cuts <!-- .element: class="hide" -->
+### budget cuts<!-- .element: class="hide" -->
 
 budget cuts 📉
 
@@ -17,7 +17,7 @@ budget cuts 📉
 
 <!-- .slide: data-background="black" -->
 
-### reorg <!-- .element: class="hide" -->
+### reorg<!-- .element: class="hide" -->
 
 a surprise company reorganization 🙈
 
@@ -27,7 +27,7 @@ Notes:
 
 <!-- .slide: data-background="black" -->
 
-### department closed <!-- .element: class="hide" -->
+### department closed<!-- .element: class="hide" -->
 
 and our department was retired 😱
 
@@ -58,7 +58,7 @@ Notes:
 ## No credentials 🏆
 
 Notes:
-- creds ain't free bruh
+- creds ain’t free bruh
 
 ---
 
@@ -119,7 +119,7 @@ Notes:
 
 ## 10 years later, Open edX is much easier to customize
 
-### *(thank you)* <!-- .element: class="fragment" data-fragment-index="1" -->
+### *(thank you)*<!-- .element: class="fragment" data-fragment-index="1" -->
 
 Notes:
 - After 10 years of working with Open edX, the platform has become became much easier to customize *(thank you)*
@@ -153,21 +153,21 @@ Notes:
 
 🔚
 
-Merci beaucoup <!-- .element: class="fragment" data-fragment-index="1" -->
+Merci beaucoup<!-- .element: class="fragment" data-fragment-index="1" -->
 
 Notes: thank you
 
 ---
 
-## Connect & Questions 🤨❓
+### Connect & Questions 🤨❓
 
-[**Justin Gagne**](https://www.linkedin.com/in/justingagne/) ![Connect on LinkedIn](img/qr-code-justin.svg) <!-- .element: class="connect" --><br>
+[**Justin Gagne**](https://www.linkedin.com/in/justingagne/) ![Connect on LinkedIn](img/qr-code-justin.svg)<!-- .element: class="connect" --><br>
 `linkedin.com/in/justingagne/`
 
-[**Roman Edirisinghe**](https://www.linkedin.com/in/romanedirisinghe/) ![Connect on LinkedIn](img/qr-code-roman.svg) <!-- .element: class="connect" --><br>
+[**Roman Edirisinghe**](https://www.linkedin.com/in/romanedirisinghe/) ![Connect on LinkedIn](img/qr-code-roman.svg)<!-- .element: class="connect" --><br>
 `linkedin.com/in/romanedirisinghe/`
 
-[**Seemingly Seamless**](https://github.com/thegymnasium/seemingly-seamless) ![View source on GitHub](img/qr-code-seemingly-seamless.svg) <!-- .element: class="connect" --><br>
+[**Seemingly Seamless**](https://github.com/thegymnasium/seemingly-seamless) ![View source on GitHub](img/qr-code-seemingly-seamless.svg)<!-- .element: class="connect" --><br>
 `github.com/thegymnasium/seemingly-seamless`
 
 Notes:

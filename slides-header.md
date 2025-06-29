@@ -1,23 +1,24 @@
 
-## Navigation
+### Navigation
 
-Notes: 
+Notes:
 
 ---
 
 screencap detail of main navigation
 
 Notes:
-- here's a zoomed in view of our main nav
+- here’s a zoomed in view of our main nav
 
 ---
 
 <!-- .slide: data-auto-animate -->
 
-## Navigation YAML<!-- .element: data-id="code-title" -->
+### Navigation YAML<!-- .element: data-id="code-title" -->
+
 <pre class="code-wrapper" data-id="code-animation">
-  <code class="language-yml" 
-    data-line-numbers="|3-9|11-16|17-21|22-30" 
+  <code class="language-yml"
+    data-line-numbers="|3-9|11-16|17-21|22-30"
     data-trim
     data-url="code-samples/nav.yaml"
   ></code>
@@ -25,14 +26,14 @@ Notes:
 
 Notes:
 [to do:simplify notes]
-Here's an example of the YAML that governs our navigation.
-In this example, I'll step through the various sections of YAML, each of which will get processed and transformed.
+Here’s an example of the YAML that governs our navigation.
+In this example, I’ll step through the various sections of YAML, each of which will get processed and transformed.
 
 ------
 
 <!-- .slide: data-auto-animate -->
 
-## Navigation JSON
+### Navigation JSON<!-- .element: data-id="code-title" -->
 
 <pre class="code-wrapper" data-id="code-animation">
   <code class="language-json"

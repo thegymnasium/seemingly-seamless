@@ -13,7 +13,7 @@ Notes:
 
 ---
 
-### clear skies <!-- .element: class="hide" -->
+### clear skies<!-- .element: class="hide" -->
 
 running seamlessly since launch
 
@@ -21,7 +21,7 @@ Notes:
 
 ---
 
-### 0 tickets <!-- .element: class="hide" -->
+### 0 tickets<!-- .element: class="hide" -->
 
 zero support tickets
 
@@ -29,7 +29,7 @@ Notes:
 
 ---
 
-### no issues <!-- .element: class="hide" -->
+### no issues<!-- .element: class="hide" -->
 
 no visual or technical problems
 
@@ -38,7 +38,7 @@ Notes:
 ---
 
 
-## And that's how we did it.
+## And that’s how we did it.
 
 Notes: 
 (maybe show banner next). oh wait, I meant to show you the banner.

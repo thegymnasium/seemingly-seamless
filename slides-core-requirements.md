@@ -33,7 +33,7 @@ Notes:
 
 ------
 
-### rapid deployment <!-- .element: class="hide" -->
+### rapid deployment<!-- .element: class="hide" -->
 
 rapid deployment
 
@@ -41,7 +41,7 @@ Notes:
 
 ------
 
-### login "awareness" <!-- .element: class="hide" -->
+### login "awareness"<!-- .element: class="hide" -->
 
 login "awareness" on static site
 
@@ -49,7 +49,7 @@ Notes:
 
 ------
 
-### version upgrade <!-- .element: class="hide" -->
+### version upgrade<!-- .element: class="hide" -->
 
 open edx version upgrade
 
@@ -58,7 +58,7 @@ Implied in the upgrade or upgrades is the data migration required
 
 ------
 
-### seamless experience <!-- .element: class="hide" -->
+### seamless experience<!-- .element: class="hide" -->
 
 achieving a seamless experience
 

@@ -2,12 +2,12 @@
 
 Notes:
 - Login awareness on a static site?
-- We won't spend too much time talking about this.
+- We won’t spend too much time talking about this.
 - It can be summed up in one word.
 
 ------
 
-## 🍪 <!-- .element: style="font-size: 12rem;" -->
+## 🍪<!-- .element: style="font-size: 12rem;" -->
 
 Notes:
 - this is a cookie (i think some of you might a biscuit)
@@ -15,7 +15,7 @@ Notes:
 
 ------
 
-### Code snippet  <!-- .element: class="hide" -->
+### Code snippet <!-- .element: class="hide" -->
 
 ```python
 # convincing open edx to 💕 a marketing site

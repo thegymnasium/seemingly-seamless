@@ -31,7 +31,7 @@ Notes:
 
 ---
 
-### Tutorials detail <!-- .element: class="hide" -->
+### Tutorials detail<!-- .element: class="hide" -->
 
 ![Tutorials detail.](img/gymnasium-courses-tutorials-detail-1920w.png)
 
@@ -41,7 +41,7 @@ Notes:
 
 ---
 
-### Course catalog <!-- .element: class="hide" -->
+### Course catalog<!-- .element: class="hide" -->
 
 ![Course catalog showing Take 5 tutorials.](img/gymnasium-courses-tutorials-1920w.png)
 

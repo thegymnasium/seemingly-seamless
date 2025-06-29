@@ -1,20 +1,21 @@
-## Footer
+### Footer
 
 Notes:
-- let's showcase our site footer
+- let’s showcase our site footer
 
 ---
 
-![Screenshot of pre-Eleventy footer (detail) design.](img/gymnasium-footer-eleventy-detail-1920w.png) <!-- .element: class="r-fit-text" data-id="screencap" -->
+![Screenshot of pre-Eleventy footer (detail) design.](img/gymnasium-footer-eleventy-detail-1920w.png)<!-- .element: class="r-fit-text" data-id="screencap" -->
 
 Notes:
-- here's a screencap of our cute footer
+- here’s a screencap of our cute footer
 
 ---
 
 <!-- .slide: data-auto-animate -->
 
-<h2 data-id="code-title">Footer YAML</h2>
+### Footer YAML<!-- .element: data-id="code-title" -->
+
 <pre class="code-wrapper" data-id="code-animation">
   <code class="language-yml"
     data-disable- line-numbers="|2-22|23-38|39-57|58-114|115-136|138-151|152-159|160-191"
@@ -29,7 +30,7 @@ Notes:
 
 ------
 
-## Footer HTML
+### Footer HTML<!-- .element: data-id="code-title" -->
 
 <pre class="code-wrapper" data-id="code-animation">
   <code class="language-html"
@@ -46,7 +47,7 @@ Notes:
 
 <!-- .slide: data-auto-animate -->
 
-## Footer JSON
+### Footer JSON
 
 <pre class="code-wrapper" data-id="code-animation">
   <code class="language-json"
@@ -65,7 +66,7 @@ Notes: Here is the escaped HTML embedded in the JSON
 
 ### Before
 
-![Screenshot of pre-Eleventy footer design.](img/gymansium-footer-pre-eleventy-1920w.png) <!-- .element: class="r-fit-text" data-id="screencap" -->
+![Screenshot of pre-Eleventy footer design.](img/gymansium-footer-pre-eleventy-1920w.png)<!-- .element: class="r-fit-text" data-id="screencap" -->
 
 Notes:
 - the hawthorn footer
@@ -75,7 +76,7 @@ Notes:
 
 ### After
 
-![Screenshot of Eleventy footer design.](img/gymansium-footer-eleventy-1920w.png) <!-- .element: class="r-fit-text" data-id="screencap" -->
+![Screenshot of Eleventy footer design.](img/gymansium-footer-eleventy-1920w.png)<!-- .element: class="r-fit-text" data-id="screencap" -->
 
 
 Notes:

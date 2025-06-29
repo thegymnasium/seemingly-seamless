@@ -7,16 +7,16 @@ Notes:
 
 ------
 
-### it's not you, it's me <!-- .element: class="hide" -->
+### it’s not you, it’s me<!-- .element: class="hide" -->
 
-it's not you, it's me
+it’s not you, it’s me
 
 Notes:
 
 ------
 
-### but it's actually you <!-- .element: class="hide" -->
+### but it’s actually you<!-- .element: class="hide" -->
 
-<span>(but it's actually you)</span>
+<span>(but it’s actually you)</span>
 
 Notes:

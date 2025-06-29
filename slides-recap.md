@@ -2,18 +2,18 @@
 
 ------
 
-### theme customized <!-- .element: class="hide" -->
+### theme customized<!-- .element: class="hide" -->
 
 theme was heavily customized
 
 Notes:
-- Gymnasium's Hawthorn based theme was very customized
+- Gymnasium’s Hawthorn based theme was very customized
 - Used a SSG (Jekyll) to include pre-generated HTML fragments within the LMS
 - Our marketing site and LMS were effectively one and the same.
 
 ------
 
-### pages = extra steps <!-- .element: class="hide" -->
+### pages = extra steps<!-- .element: class="hide" -->
 
 new pages = extra steps
 
@@ -23,7 +23,7 @@ Notes:
 
 ------
 
-### upgrade = challenge <!-- .element: class="hide" -->
+### upgrade = challenge<!-- .element: class="hide" -->
 
 upgrading code became a challenge
 
