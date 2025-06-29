@@ -85,8 +85,15 @@
   text-align: center;
 }
 
+.reveal h2,
+.reveal h3,
 .reveal p {
   text-wrap: balance;
+}
+
+.reveal li {
+  font-size: 90%;
+  margin-top: 1rem;
 }
 
 .reveal code {
