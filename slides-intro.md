@@ -160,7 +160,7 @@ Notes:
 - Together, we built Gymnasium — its marketing site and Open edX learner experience.
 - example of the current home page
 
-[optional]: if we have time, do a gif animation of all the take 5’s
+Optional: if we have time, do a gif animation of all the take 5’s
 
 ---
 
@@ -242,23 +242,19 @@ Notes:
 
 ---
 
-### 🎯 Who this is for
+### 👀 This talk is for…
 
-- For anyone integrating Open edX with a brand, marketing site, or CMS<!-- .element: class="fragment" data-fragment-index="1" -->
-- A real-world example of extending Open edX creatively<!-- .element: class="fragment" data-fragment-index="2" -->
-- Covers customization, UX, and architectural insights<!-- .element: class="fragment" data-fragment-index="3" -->
-- Branded experience across both site and courseware<!-- .element: class="fragment" data-fragment-index="4" -->
-- Challenges included MFE styling, asset management, and unified content<!-- .element: class="fragment" data-fragment-index="5" -->
+Anyone integrating Open edX with a brand, marketing site, or CMS
 
 ---
 
 ### 🛠️ What we did
 
-- Walkthrough of key design and technical decisions<!-- .element: class="fragment" data-fragment-index="1" -->
-- Used Eleventy for static site generation and content management<!-- .element: class="fragment" data-fragment-index="2" -->
-- Built a unified course catalog and login-aware experience<!-- .element: class="fragment" data-fragment-index="3" -->
-- Faced issues with MFEs, documentation, and integration<!-- .element: class="fragment" data-fragment-index="4" -->
-- Customized components, YAML configs, and JSON-powered flexibility<!-- .element: class="fragment" data-fragment-index="5" -->
+- Upgraded and migrated from Hawthorn to Redwood
+- Unified the marketing site and learner experience
+- Built a seamless, login-aware platform
+- Soft-redesigned the course catalog and key components
+- Customized MFEs using YAML and JSON for flexibility
 
 ---
 
@@ -267,7 +263,6 @@ Notes:
 seamless open edx customization 🛠️
 
 Notes:
-- Todo: Remove this?
 - demonstrate our approach to customizing Open edX
 - seamless branded experience
 
@@ -278,7 +273,6 @@ Notes:
 improved student experience 🧑‍💻
 
 Notes:
-- Todo: Remove this?
 - work had minimal student down-time
 - enhanced, customized catalog
 
@@ -298,7 +292,6 @@ Notes:
 zero support tickets 🥳
 
 Notes:
-- Todo: Remove this?
 - successful outcome: zero support tickets post launch
 
 ---
@@ -308,7 +301,6 @@ Notes:
 lessons learned 📝
 
 Notes:
-- Todo: Remove this?
 - We overcame styling, asset, and content challenges.
 
 ---
