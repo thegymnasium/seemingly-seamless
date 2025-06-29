@@ -19,7 +19,7 @@ Notes:
 
 ---
 
-## Performance ⏱️
+## ⏱️ Performance
 
 Notes:
 - let’s talk numbers
@@ -48,7 +48,7 @@ Notes:
 
 ---
 
-### Choosing eleventy
+### Choosing Eleventy
 
 Notes:
 - our shiny new object
