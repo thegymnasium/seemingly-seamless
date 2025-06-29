@@ -24,7 +24,10 @@ Notes:
 
 ## courseware for syllabus
 
-to do: show detail of how it works
+---
+
+
+![Courseware How It Works section.](img/gym-lms-courseware-how-it-works.png)
 
 
 ---
