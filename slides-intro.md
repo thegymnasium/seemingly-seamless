@@ -288,8 +288,6 @@ Notes:
 Notes:
 Enough about us, let’s talk about Open edX.
 
-[to do]: local version of gif
-
 ---
 
 ## Our Open edX journey
