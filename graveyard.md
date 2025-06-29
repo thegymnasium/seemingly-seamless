@@ -102,6 +102,13 @@ Started learning the MFEs in 2023/2024 etc.
 
 <!-- .slide: data-background="black" class="" -->
 
+---
+
+![After (full page): LMS learning experience.](img/lms-enroll-now-designing-accessible-and-resonsibe-websites-crop-1920w.png)
+
+
+---
+
 ## Errors
 
 Notes:
