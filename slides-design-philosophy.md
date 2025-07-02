@@ -17,7 +17,7 @@ Notes:
 
 ---
 
-## Easy to read, build, and use
+### Easy to read, build, and use
 
 Notes:
 This translates to...
@@ -29,16 +29,19 @@ This translates to...
 learners first
 
 Notes:
-- learners, students, people, humans first
-- (and machines)
+- UX first: 
+- learners of all sorts: students, people, humans (and machines)
 
 ---
 
-### design leads development<!-- .element: class="hide" -->
+### design and development as a conversation<!-- .element: class="hide" -->
 
-design leads development
+design and development as a conversation
 
 Notes:
+- there's this idea of "T" shaped people/skills in the scrum/agile ethos
+- cross funtional teams
+- multidisciplinary teams members who have multiple skill sets
 
 ---
 

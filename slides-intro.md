@@ -14,66 +14,16 @@ Thank you for joining us for our case study talk, Seemingly Seamless: How We Imp
 
 ---
 
-### Introduce Roman<!-- .element: class="hide" -->
+### Hi, I’m Roman<!-- .element: class="hide" -->
 
 ![Image of Roman](img/roman.png)
 
 Roman Edirisinghe, Director of Technology
 
-Notes:
-I’m Roman Edirisinghe, Director of Technology.
-
-[optional]: fade to actual photo?
-
----
-
-### Introduce Justin<!-- .element: class="hide" -->
-
-![Image of Justin](img/justin.png)
-
-Justin Gagne, Design Lead
-
-Notes: And I’m Justin Gagne, Design Lead.
-
-[optional]: fade to actual photo?
-
----
-
-## Hi, I’m Roman
-
 🇷🇺 🇱🇰 🇩🇪 🇺🇸
 
-Director of Technology
-
 Notes:
-I’m Roman Edirisinghe, and I’m Gymnasium’s director of technology.
-
-------
-
-### since ’96<!-- .element: class="hide" -->
-
-working with the web since 1996
-
-Notes:
-I started working on the web in 1996
-
-------
-
-### art background<!-- .element: class="hide" -->
-
-background in art
-
-Notes:
-I have a background in art, not computer science
-
-------
-
-### self-taught<!-- .element: class="hide" -->
-
-largely self-taught
-
-Notes:
-- Perhaps it’s not unusual these days, but I’m largely self taught with regard to the web.
+- I’m Roman Edirisinghe, Director of Technology which is essentially a full stack developer
 
 ------
 
@@ -87,61 +37,94 @@ Notes:
 
 ------
 
-### always a better way<!-- .element: class="hide" -->
+### since ’96<!-- .element: class="hide" -->
 
-there is always a better way
+working with the web since 1996
 
 Notes:
-- with these things in mind, this could mean there are better ways to do what we did, and we welcome any feedback
+- I started working on the web in 1996
+
+------
+
+### art background<!-- .element: class="hide" -->
+
+background in art
+
+Notes:
+- I have a background in art, not computer science
+
+------
+
+### self-taught<!-- .element: class="hide" -->
+
+largely self-taught
+
+Notes:
+- Perhaps it’s not unusual these days, but I’m largely self taught with regard to the web.
 
 ---
 
-## Hi, I’m Justin Gagne
+### Hi, I’m Justin Gagne<!-- .element: class="hide" -->
 
-Design Lead 🎨 👨‍💻 ✍️
+![Image of Justin](img/justin.png)
 
-Note:
-I’m Justin Gagne, and I’m Gymnasium’s design lead. I joined Gymnasium in 2015, and started my journey with Open edX.
+Justin Gagne, Design Lead
 
+🎨 👨‍💻 ✍️
 
-------
-
-### Artist<!-- .element: class="hide" -->
-
-![A young Justin in pajamas, sporting a self-made newspaper hat, is busy drawing at the kitchen table.](img/justin-at-work.jpg)
+Notes:
+- I’m Justin Gagne, and I’m Gymnasium’s design lead. I joined Gymnasium in 2015, and started my journey with Open edX.
 
 ------
 
-Start working with the web circa 1998 while at art school
+### circa 2015 <!-- .element: class="hide" -->
+
+joined Gymnasium in 2015
+
+Notes:
+- brought in to migrate to open to Open edX and stayed on after
 
 ------
 
-### Art School<!-- .element: class="hide" -->
+### circa 1998 <!-- .element: class="hide" -->
 
-![Montserrat College of Art’s website circa 1996 designed by John McVey.](img/montserrat-website-1996-1920w.png)
+working with the web circa 1998 
 
-Note:
-Montserrat College of Art’s website circa 1996 designed by John McVey.
-
-------
-
-Designer-developer hybrid with an emphasis on inclusion and accessibility
+Notes:
+- while at art school
 
 ------
 
-Joined Gymnasium in 2015, and started my journey with Open edX
+### hybrid <!-- .element: class="hide" -->
+
+designer-developer hybrid
+
+Notes:
+- with an emphasis on inclusion and accessibility
 
 ------
+
+### 10 years <!-- .element: class="hide" -->
 
 10 years as a design lead
 
+Notes:
+- 
+
 ------
 
-Over 20 years of teaching design in higher ed
+### 20 years <!-- .element: class="hide" -->
+
+over 20 years of teaching design in higher ed
+
+Notes:
+- 
 
 ------
 
-Currently a lecturer at the University of Creative Communication in Prague
+### lecturer <!-- .element: class="hide" -->
+
+currently a lecturer at the University of Creative Communication in Prague
 
 ---
 
@@ -157,26 +140,13 @@ Notes:
 ![Gymnasium homepage, June 2025.](img/gym-homepage-06-2025-1920w.png)
 
 Notes:
-- Together, we built Gymnasium — its marketing site and Open edX learner experience.
-- example of the current home page
+- Together, we built Gymnasium — its marketing site and Open edX learner experience
+- example of the current home page above the fold
+- design language, clean simple, etc
 
-Optional: if we have time, do a gif animation of all the take 5’s
-
----
-
-### free online courses and tutorials<!-- .element: class="hide" -->
-
-free online courses and tutorials
-
-Notes:
-
----
-
-### on design...<!-- .element: class="hide" -->
-
-topics: design, development, UX, prototyping, accessibility, and career skills
-
-Notes:
+Read from screen? Or use the following:
+- as you can see, we offer free online courses and tutorials
+- topics: design, development, UX, prototyping, accessibility, and career skills
 
 ---
 
@@ -221,8 +191,8 @@ Notes:
 ![LinkedIn Gymnasium course certificate completion show-off.](img/student-certificate-1920w.png)
 
 Notes:
-- student example
-- Salma in Egypt showing off her achievement on LinkedIn
+- student example:
+- Salma, intern in Egypt showing off her achievement on LinkedIn
 
 ---
 
@@ -238,70 +208,42 @@ Congrats to Salma!
 ## Why we’re here
 
 Notes:
-- Enough... let’s talk about the case study
+- 
 
 ---
 
 ### 👀 This talk is for…
 
-Anyone integrating Open edX with a brand, marketing site, or CMS
+anyone integrating Open edX with a separate marketing site
 
 ---
 
 ### 🔍 What we did
 
-- Upgraded and migrated from Hawthorn to Redwood
+- Upgraded from Hawthorn to Redwood
 - Separated marketing site and learning platform
 - Unified the UX with a seamless, login-aware experience
 - Refreshed the course catalog and core components
 - Customized MFEs using YAML and JSON for flexibility
 
+Notes:
+- and these resulted in...
+
 ---
 
-### seamless open edx customization<!-- .element: class="hide" -->
+### 🥳 What happened? 
 
-seamless open edx customization 🛠️
+- Seamless Open edX customization
+- Redesign of marketing site and LMS
+- Zero support tickets 
 
 Notes:
-- demonstrate our approach to customizing Open edX
+- Design and development as a conversation
 - seamless branded experience
-
----
-
-### improved student experience<!-- .element: class="hide" -->
-
-improved student experience 🧑‍💻
-
-Notes:
 - work had minimal student down-time
 - enhanced, customized catalog
-
----
-
-### design shaping development<!-- .element: class="hide" -->
-
-design shaping development 🖼️
-
-Notes:
-- Our design shaped our technical choices
-
----
-
-### zero support tickets<!-- .element: class="hide" -->
-
-zero support tickets 🥳
-
-Notes:
+- Our design shaped our technical choices and vice versa
 - successful outcome: zero support tickets post launch
-
----
-
-### lessons learned<!-- .element: class="hide" -->
-
-lessons learned 📝
-
-Notes:
-- We overcame styling, asset, and content challenges.
 
 ---
 

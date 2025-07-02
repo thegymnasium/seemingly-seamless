@@ -366,3 +366,65 @@ Notes:
 Designing for crisis: all the work we did made it so much easier to transition to a non-LMS site.
 
 ---
+
+### always a better way<!-- .element: class="hide" -->
+
+there is always a better way
+
+---
+
+Notes:
+- with these things in mind, this could mean there are better ways to do what we did, and we welcome any feedback
+
+### Artist<!-- .element: class="hide" -->
+
+![A young Justin in pajamas, sporting a self-made newspaper hat, is busy drawing at the kitchen table.](img/justin-at-work.jpg)
+
+------
+
+### Art School<!-- .element: class="hide" -->
+
+![Montserrat College of Art’s website circa 1996 designed by John McVey.](img/montserrat-website-1996-1920w.png)
+
+Note:
+Montserrat College of Art’s website circa 1996 designed by John McVey.
+
+------
+
+### free online courses and tutorials<!-- .element: class="hide" -->
+
+
+
+Notes:
+- 
+
+---
+
+### on design...<!-- .element: class="hide" -->
+
+
+
+Notes:
+
+---
+
+
+### lessons learned<!-- .element: class="hide" -->
+
+lessons learned 📝
+
+Notes:
+- We overcame styling, asset, and content challenges.
+
+---
+
+## Why we’re here
+
+Notes:
+- Enough... let’s talk about the case study
+
+---
+
+### 👀 This talk is for…
+
+Anyone integrating Open edX with a brand, marketing site, or CMS

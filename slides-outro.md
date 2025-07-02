@@ -124,6 +124,8 @@ Notes:
 Notes:
 - After 10 years of working with Open edX, the platform has become became much easier to customize *(thank you)*
 - We solved (our version of) the seamless experience
+Addendum:
+- refer to Mike's early react-based PR that never got merged
 
 ---
 
