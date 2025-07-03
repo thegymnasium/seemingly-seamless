@@ -19,6 +19,7 @@ Finally, we’ll demonstrate our YAML config and JSON data integration and show 
 
 
 ## Gymnasium Team
+
 - Andrew Miller
 - Jeremy Osborn
 - Keir Janey
@@ -31,10 +32,12 @@ Finally, we’ll demonstrate our YAML config and JSON data integration and show 
 - [OpenCraft](https://opencraft.com)
 
 ## Links
+
 - [Aquent](https://aquent.com)
 - [Gymnasium](https://thegymnasium.com)
 
 ## Resources
+
 - [YAML](https://yaml.org/)
 - [JSON](https://www.json.org/)
 - [Markdown Guide](https://www.markdownguide.org/basic-syntax/)
