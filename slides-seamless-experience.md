@@ -15,17 +15,6 @@ Notes:
 
 ------
 
-#### single source of truth <!-- .element: class="hide" -->
-
-single source of truth
-
-Notes:
-- served from SSG
-  - visual layer/styles served from SSG
-  - YAML for content
-
-------
-
 #### Visual layer<!-- .element: class="hide" -->
 
 disable default CSS
@@ -62,16 +51,17 @@ Github link https://github.com/openedx/frontend-app-learner-dashboard/issues/325
 
 ---
 
-## Content
+## Single source of truth
 
 Notes:
+- CSS from the 11ty
 - YAML as the source of truth for content
 
 ------
 
 <!-- .slide: data-background="black" class="" -->
 
-## Truth = YAML + JSON<!-- .element: class="r-fit-text" -->
+### Truth = YAML + JSON<!-- .element: class="r-fit-text" -->
 
 Notes:
 YAML/JSON as a source of truth - showing stages of “the truth”.
@@ -114,6 +104,7 @@ Notes:
 ## Custom React components
 
 Notes:
+
 Rather than serve our header, footer, and overrides from different repositories, we created one repo to meet our needs. One repo to rule them all.
 
 ------
@@ -152,4 +143,6 @@ overrides to core MFE behaviors
 Notes: 
 - ...and last but not least, the individual customizations we made to MFEs.
 All by consuming our custom JSON at build time.
-
+- MFEs and where they might go...
+- Adolfo's cool talk on development on `frontend-base`
+- less is more

@@ -36,43 +36,23 @@ Notes:
 
 ---
 
-## 🍋 When life hands you lemons
-
-Notes:
-To coin an oft quoted phrase
-
----
-
-## 🍹 Make lemonade
-
-Notes:
-
----
-
-## No more LMS 👋
+### No more LMS 👋
 
 Notes:
 - farewell open edx?
 
 ---
 
-## No credentials 🏆
+### No credentials 🏆
 
 Notes:
 - creds ain’t free bruh
 
 ---
 
-## Make everything public 🌍
+### Make everything public 🌍
 
 Notes:
-
----
-
-## Still free online learning 💯
-
-Notes:
-- (via YouTube)
 
 ---
 
@@ -84,39 +64,12 @@ Notes:
 
 ---
 
-## A covert op
-
----
-
-core team members helped transition the site to archived, publicly available content
+### Still free online learning 💯
 
 Notes:
--
+- (via YouTube)
 
 ---
-
-## Seamless transition
-
-Notes:
-- all the work we did made designing and building for crisis a seamless experience
-
----
-
-## Easy to scale
-
-Notes:
-- built an environment that was incredibly easy to scale up or down as as our needs changed
-- we shut the LMS down rapidly and rerouted everything to the static site
-
----
-
-## Design for the win
-
-Notes:
-- our design decisions (whether visual or architectural) made all the difference for us
-
----
-
 
 ## 10 years later, Open edX is much easier to customize
 
@@ -132,7 +85,7 @@ Addendum:
 
 ### Made possible by
 
-🙏 Gymnasium team: Andrew Miller, Jeremy Osborn, Keir Cullen Janey, Peter Brislawn, and Mike Bifulco
+🙏 The Gymnasium team: <br>Andrew Miller, Jeremy Osborn, Keir Cullen Janey, Peter Brislawn, Amir Tadrisi, and Mike Bifulco
 
 🤝 Aquent, Open edX, Appsembler, OpenCraft
 
@@ -177,4 +130,4 @@ Notes: thank you
 `github.com/thegymnasium/seemingly-seamless`
 
 Notes:
--
+- scan the QR code for additional information, including how to reach us and how we built this talk.

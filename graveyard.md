@@ -483,3 +483,97 @@ Notes:
 
 ![Connect on LinkedIn](img/qr-code-justin.svg)<!-- .element: class="connect" --><br>
 `linkedin.com/in/justingagne/`
+
+
+------
+
+
+
+------
+
+#### simplicity <!-- .element: class="hide" -->
+
+simplicity
+
+Notes:
+- aligned with our design principles
+
+------
+
+#### ⚡<!-- .element: class="hide" -->
+
+speed ⚡
+
+Notes:
+- flexible and really fast
+
+------
+
+#### ease of use <!-- .element: class="hide" -->
+
+ease of use
+
+Notes:
+- easy to integrate with other tools
+- Built using the basics: HTML, CSS, JavaScript
+- very extensible with plugins
+
+------
+
+## A brave new world
+
+Notes:
+
+
+---
+
+
+#### catalog prototype <!-- .element: class="hide" -->
+
+![Courses prototype showing tutorials.](img/gymnasium-courses-tutorials-prototype-1920w.png)
+
+Notes:
+- Soft-redesign presented the opportunity to take our previous UX research
+- Took findings and rolled them out
+- Faster iteration
+
+------
+
+### UX research
+
+
+------
+
+
+#### using courseware for syllabus <!-- .element: class="hide" -->
+
+![Courseware How It Works section.](img/gym-lms-courseware-how-it-works.png)
+
+Notes:
+- decided to use a course section as the course syllabus
+
+---
+
+## 🍋 When life hands you lemons
+
+Notes:
+To coin an oft quoted phrase
+
+---
+
+## 🍹 Make lemonade
+
+Notes:
+
+---
+
+---
+
+## A covert op
+
+---
+
+core team members helped transition the site to archived, publicly available content
+
+Notes:
+-

@@ -28,16 +28,7 @@ Notes:
 
 ------
 
-#### using courseware for syllabus <!-- .element: class="hide" -->
-
-![Courseware How It Works section.](img/gym-lms-courseware-how-it-works.png)
-
-Notes:
-- 
-
-------
-
-#### before <!-- .element: class="hide" -->
+#### Before
 
 ![Before (detail): LMS learning experience.](img/lms-enroll-now-before-designing-accessible-and-resonsibe-websites-detail-1920w.png)
 
@@ -46,6 +37,7 @@ Notes:
 
 ------
 
+#### After
 
 ![After (detail): LMS learning experience.](img/lms-enroll-now-designing-accessible-and-resonsibe-websites-detail-1920w.png)
 

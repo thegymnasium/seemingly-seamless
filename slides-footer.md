@@ -5,15 +5,6 @@ Notes:
 
 ------
 
-#### screencap <!-- .element: class="hide" -->
-
-![Screenshot of pre-Eleventy footer (detail) design.](img/gymnasium-footer-eleventy-detail-1920w.png)<!-- .element: class="r-fit-text" data-id="screencap" -->
-
-Notes:
-- here’s a screencap of our cute footer
-
-------
-
 <!-- .slide: data-auto-animate -->
 
 #### Footer YAML <!-- .element: data-id="code-title" -->
@@ -64,9 +55,18 @@ Notes: Here is the escaped HTML embedded in the JSON
 
 ------
 
+#### screencap <!-- .element: class="hide" -->
+
+![Screenshot of pre-Eleventy footer (detail) design.](img/gymnasium-footer-eleventy-detail-1920w.png)<!-- .element: class="r-fit-text" data-id="screencap" -->
+
+Notes:
+- here’s a screencap of our cute footer
+
+------
+
 <!-- .slide:  -->
 
-#### Before
+#### Before (Hawthorn)
 
 ![Screenshot of pre-Eleventy footer design.](img/gymansium-footer-pre-eleventy-1920w.png)<!-- .element: class="r-fit-text" data-id="screencap" -->
 
@@ -76,7 +76,7 @@ Notes:
 
 ------
 
-#### After
+#### After (Redwood)
 
 ![Screenshot of Eleventy footer design.](img/gymansium-footer-eleventy-1920w.png)<!-- .element: class="r-fit-text" data-id="screencap" -->
 

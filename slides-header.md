@@ -2,6 +2,7 @@
 ### Navigation
 
 Notes:
+- let's talk about how we did a consistent header nav
 
 ------
 

@@ -5,7 +5,7 @@ Notes:
 
 ------
 
-### down time minimal<!-- .element: class="hide" -->
+#### down time minimal<!-- .element: class="hide" -->
 
 minimum down time
 
@@ -13,7 +13,7 @@ Notes:
 
 ------
 
-### clear skies<!-- .element: class="hide" -->
+#### clear skies<!-- .element: class="hide" -->
 
 running seamlessly since launch
 
@@ -21,7 +21,7 @@ Notes:
 
 ------
 
-### 0 tickets<!-- .element: class="hide" -->
+#### 0 tickets<!-- .element: class="hide" -->
 
 zero support tickets
 
@@ -29,7 +29,7 @@ Notes:
 
 ------
 
-### no issues<!-- .element: class="hide" -->
+#### no issues<!-- .element: class="hide" -->
 
 no visual or technical problems
 
@@ -38,7 +38,7 @@ Notes:
 ---
 
 
-## And that’s how we did it.
+### And that’s how we did it.
 
 Notes:
 (maybe show banner next). oh wait, I meant to show you the banner.
@@ -58,7 +58,7 @@ Notes:
 
 <!-- .slide: data-auto-animate -->
 
-<h2 data-id="code-title">Site banner YAML</h2>
+#### Site banner YAML
 <pre class="code-wrapper" data-id="code-animation">
   <code class="language-yml"
     data-line-numbers=""
@@ -74,7 +74,7 @@ Notes:
 
 <!-- .slide: data-auto-animate -->
 
-<h2 data-id="code-title">Site banner HTML</h2>
+#### Site banner HTML
 <pre class="code-wrapper" data-id="code-animation">
   <code class="language-html"
     data-line-numbers=""
@@ -90,7 +90,7 @@ Notes:
 
 <!-- .slide: data-background="black" class="" -->
 
-### Site banner
+#### Site banner
 
 ![Screenshot of site banner detail.](img/banner-02.png)<!-- .element: class="r-fit-text" data-id="screencap" -->
 

@@ -2,11 +2,11 @@
 
 # Seemingly Seamless
 
-**How We Improved the Learner Experience and Made Our Lives Easier**
+**How We Improved the Learner Experience <br>and Made Our Lives Easier**
 
 with Roman Edirisinghe and Justin Gagne
 
-![](img/openedx-conference-logo-2025-720w.png)<!-- .element: class="openedx-logo" -->
+![open edx logo](img/openedx-conference-logo-2025-720w.png)<!-- .element: class="openedx-logo" -->
 
 Notes:
 Bonjour, Ahoj, Hello!
@@ -228,7 +228,7 @@ YAML? JSON?
 ### 🥳 What happened? 
 
 - Seamless Open edX customization
-- Redesign of marketing site and LMS
+- Design refresh of marketing site and LMS
 - Zero support tickets 
 
 Notes:

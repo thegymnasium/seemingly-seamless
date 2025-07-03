@@ -14,16 +14,6 @@ Notes:
 
 ------
 
-### Amir to the rescue<!-- .element: class="hide" -->
-
-Amir Tadrisi to the rescue
-
-
-Notes:
-- Our very talented collaborator Amir Tadrisi wrote some fancy scripts to automatically migrate data from version to version.
-
-------
-
 ### versions stepthrough<!-- .element: class="hide" -->
 
 <span>Hawthorn →</span> 
@@ -39,4 +29,13 @@ Notes:
 
 Notes:
 - Could you imagine going through these manually and checking to ensure the data is correct?
-- Thanks Amir
+
+------
+
+### Thanks Amir <!-- .element: class="hide" -->
+
+Thank you, Amir Tadrisi!
+
+
+Notes:
+- Our very talented collaborator Amir Tadrisi wrote some fancy scripts to automatically migrate data from version to version.

@@ -1,6 +1,9 @@
 ## Our design approach
 
-Notes: Next up, Justin will talk about design.
+Notes: 
+- before we talk technical, let's talk design
+- a manifesto
+
 
 ------
 
@@ -24,9 +27,9 @@ Notes:
 
 ------
 
-### learners first<!-- .element: class="hide" -->
+### people first<!-- .element: class="hide" -->
 
-learners first
+people first
 
 Notes:
 - UX first
@@ -39,9 +42,10 @@ Notes:
 design and development as a conversation
 
 Notes:
+- no silos, passing things over the fence
 - there's this idea of "T" shaped people/skills in the scrum/agile ethos
 - cross funtional teams
-- multidisciplinary teams members who have multiple skill sets
+- multidisciplinary team members who have multiple skill sets
 
 ------
 
@@ -76,5 +80,4 @@ Notes:
 keep it simple by default
 
 Notes:
-- MFEs and where they might go...
-- Adolfo's cool talk on development on `frontend-base`
+

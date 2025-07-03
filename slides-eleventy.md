@@ -1,4 +1,5 @@
-## A brave new world
+
+### Choosing Eleventy
 
 Notes:
 Why we chose a SSG for our marketing site, and why we chose eleventy
@@ -43,38 +44,3 @@ Notes:
 Notes:
 - After, using eleventy, deploying by ourselves
 
----
-
-### Choosing Eleventy
-
-Notes:
-- our shiny new object
-
-------
-
-#### simplicity <!-- .element: class="hide" -->
-
-simplicity
-
-Notes:
-- aligned with our design principles
-
-------
-
-#### ⚡<!-- .element: class="hide" -->
-
-speed ⚡
-
-Notes:
-- flexible and really fast
-
-------
-
-#### ease of use <!-- .element: class="hide" -->
-
-ease of use
-
-Notes:
-- easy to integrate with other tools
-- Built using the basics: HTML, CSS, JavaScript
-- very extensible with plugins
