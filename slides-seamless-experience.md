@@ -5,7 +5,7 @@ Let’s talk talk about the steps involved in achieving a consistent visual desi
 
 ------
 
-## 
+#### flowchart <!-- .element: class="hide" -->
 
 ![Screenshot of Flowchart](img/gymnasium-flowchart.png)
 
@@ -15,6 +15,8 @@ Notes:
 
 ------
 
+#### single source of truth <!-- .element: class="hide" -->
+
 single source of truth
 
 Notes:
@@ -22,11 +24,9 @@ Notes:
   - visual layer/styles served from SSG
   - YAML for content
 
-
-
 ------
 
-### Visual layer<!-- .element: class="hide" -->
+#### Visual layer<!-- .element: class="hide" -->
 
 disable default CSS
 
@@ -46,6 +46,8 @@ Steps to achieving this:
 
 ------
 
+#### 10 copies of CSS <!-- .element: class="hide" -->
+
 <!-- .slide: data-background="black" class="" -->
 
 ![image of crazy scss](img/10-copies-scss.png)
@@ -57,7 +59,6 @@ Notes:
 - choosing simplicity was a no-brainer for us
 
 Github link https://github.com/openedx/frontend-app-learner-dashboard/issues/325
-
 
 ---
 

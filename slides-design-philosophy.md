@@ -11,7 +11,6 @@ Notes: Next up, Justin will talk about design.
 > <small>— [Frank Chimero](https://frankchimero.com), from [Designers vs Coding](https://web.archive.org/web/20111201205345/http://blog.frankchimero.com/post/9594863189)</small>
 
 Notes:
-[maybe read quote out loud, then paraphrase]
 - its about craftmanship
 - making beautiful work
 - we preach what we teach
@@ -21,7 +20,7 @@ Notes:
 ### Easy to read, build, and use
 
 Notes:
-This translates to...
+- translates to...
 
 ------
 
@@ -30,7 +29,7 @@ This translates to...
 learners first
 
 Notes:
-- UX first:
+- UX first
 - learners of all sorts: students, people, humans (and machines)
 
 ------

@@ -11,10 +11,8 @@ Why we chose a SSG for our marketing site, and why we chose eleventy
 ![screenshot of our hawthorn platform architecture](img/arch-hawthorn.svg)
 
 Notes:
-- before, this is what we were dealing with
 - a simplified view of where we started
 - hawthorn based architecture
-- not many moving parts, but still quite customized
 
 ------
 
@@ -25,7 +23,7 @@ Notes:
 
 ------
 
-<!-- .element: class="hide" -->
+#### long deploy <!-- .element: class="hide" -->
 
 30–45 minutes to deploy a new page
 
@@ -37,7 +35,7 @@ Notes:
 
 ------
 
-<!-- .element: class="hide" -->
+#### fast deploy <!-- .element: class="hide" -->
 
 ~~30–45 minutes to deploy a new page~~<br>
 2–3 minutes to deploy a new page
@@ -45,7 +43,7 @@ Notes:
 Notes:
 - After, using eleventy, deploying by ourselves
 
-------
+---
 
 ### Choosing Eleventy
 
@@ -54,7 +52,7 @@ Notes:
 
 ------
 
-#### simplicity<!-- .element: class="hide" -->
+#### simplicity <!-- .element: class="hide" -->
 
 simplicity
 
@@ -72,7 +70,7 @@ Notes:
 
 ------
 
-#### ease of use<!-- .element: class="hide" -->
+#### ease of use <!-- .element: class="hide" -->
 
 ease of use
 

@@ -32,6 +32,7 @@ Notes:
 and our department was retired 😱
 
 Notes:
+- if it's not clear what we mean by this, it means we are no longer affiliated with Aquent Gymnasium, and we're here as free agents demonstrating what we did
 
 ---
 
@@ -144,10 +145,10 @@ Notes:
 
 We love doing this type of work
 
-We’re available to help – and to hire
+We’re available
 
 Notes:
-- (improvise)
+- and consult
 
 ---
 
@@ -157,7 +158,7 @@ Notes:
 
 🔚
 
-Merci<!-- .element: class="fragment" data-fragment-index="1" -->
+Merci <!-- .element: class="fragment" data-fragment-index="1" -->
 
 Notes: thank you
 
@@ -165,13 +166,14 @@ Notes: thank you
 
 ### Questions & Comments 🤨❓
 
-[**Justin Gagne**](https://www.linkedin.com/in/justingagne/) ![Connect on LinkedIn](img/qr-code-justin.svg)<!-- .element: class="connect" --><br>
-`linkedin.com/in/justingagne/`
-
-[**Roman Edirisinghe**](https://www.linkedin.com/in/romanedirisinghe/) ![Connect on LinkedIn](img/qr-code-roman.svg)<!-- .element: class="connect" --><br>
+[**Roman Edirisinghe**](https://www.linkedin.com/in/romanedirisinghe/)<br>
 `linkedin.com/in/romanedirisinghe/`
 
-[**Seemingly Seamless**](https://github.com/thegymnasium/seemingly-seamless) ![View source on GitHub](img/qr-code-seemingly-seamless.svg)<!-- .element: class="connect" --><br>
+[**Justin Gagne**](https://www.linkedin.com/in/justingagne/)<br>
+`linkedin.com/in/justingagne/`
+
+[**Seemingly Seamless**](https://github.com/thegymnasium/seemingly-seamless)
+![View source on GitHub](img/qr-code-seemingly-seamless.svg)<!-- .element: class="connect" --><br>
 `github.com/thegymnasium/seemingly-seamless`
 
 Notes:

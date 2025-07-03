@@ -3,9 +3,9 @@
 Notes:
 - talk about our customized course catalog
 
----
+------
 
-### Course YAML
+#### Course YAML
 
 <pre class="code-wrapper" data-id="code-animation">
   <code class="language-yml"
@@ -18,9 +18,9 @@ Notes:
 Notes:
 - we used individual YAML for each course to generate our course catalog
 
----
+------
 
-### catalog prototype<!-- .element: class="hide" -->
+#### catalog prototype <!-- .element: class="hide" -->
 
 ![Courses prototype showing tutorials.](img/gymnasium-courses-tutorials-prototype-1920w.png)
 
@@ -29,9 +29,9 @@ Notes:
 - Took findings and rolled them out
 - Faster iteration
 
----
+------
 
-### Catalog UX research<!-- .element: class="hide" -->
+#### Catalog UX research <!-- .element: class="hide" -->
 
 ![Courses prototype UX research session.](img/gymnasium-courses-prototype-ux-research-1920w.png)
 
@@ -40,9 +40,9 @@ Notes:
 - Took findings and rolled them out
 - Faster iteration
 
----
+------
 
-### Tutorials detail<!-- .element: class="hide" -->
+#### Tutorials detail <!-- .element: class="hide" -->
 
 ![Tutorials detail.](img/gymnasium-courses-tutorials-detail-1920w.png)
 
@@ -50,26 +50,29 @@ Notes:
 - Faster iteration
 - what we put into production
 
----
+------
 
-### Course catalog: Tutorials<!-- .element: class="hide" -->
+#### Course catalog: Tutorials <!-- .element: class="hide" -->
 
 ![Course catalog showing Take 5 tutorials.](img/gym-courses-tutorials-1920w.png)
 
 Notes:
 - putting it together
 
-### Course catalog: Gym Shorts<!-- .element: class="hide" -->
+------
+
+#### Course catalog: Gym Shorts <!-- .element: class="hide" -->
 
 ![Course catalog showing Take 5 tutorials.](img/gym-courses-gym-shorts-1920w.png)
 
 Notes:
 - putting it together
 
+------
 
-### Course catalog: Full Courses<!-- .element: class="hide" -->
+#### Course catalog: Full Courses <!-- .element: class="hide" -->
 
-![Course catalog showing Take 5 tutorials.](img/gym-courses-gym--full-1920w.png)
+![Course catalog showing Take 5 tutorials.](img/gym-courses-full-courses-1920w.png)
 
 Notes:
 - putting it together

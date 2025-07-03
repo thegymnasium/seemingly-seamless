@@ -450,3 +450,36 @@ Notes:
 - The next slide shows how many versions Amir needed to process.
 
 ------
+
+### 10 years <!-- .element: class="hide" -->
+
+10 years as a design lead
+
+Notes:
+- 
+
+------
+
+### 20 years <!-- .element: class="hide" -->
+
+over 20 years of teaching design in higher ed
+
+Notes:
+- 
+
+---
+
+
+
+![Before (full page): LMS learning experience.](img/lms-enroll-now-before-designing-accessible-and-resonsibe-websites-crop-1920w.png)
+
+Notes:
+- 
+
+------
+
+![Connect on LinkedIn](img/qr-code-roman.svg)<!-- .element: class="connect" --><br>
+`linkedin.com/in/romanedirisinghe/`
+
+![Connect on LinkedIn](img/qr-code-justin.svg)<!-- .element: class="connect" --><br>
+`linkedin.com/in/justingagne/`

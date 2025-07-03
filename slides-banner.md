@@ -3,7 +3,7 @@
 
 Notes:
 
----
+------
 
 ### down time minimal<!-- .element: class="hide" -->
 
@@ -11,7 +11,7 @@ minimum down time
 
 Notes:
 
----
+------
 
 ### clear skies<!-- .element: class="hide" -->
 
@@ -19,7 +19,7 @@ running seamlessly since launch
 
 Notes:
 
----
+------
 
 ### 0 tickets<!-- .element: class="hide" -->
 
@@ -27,7 +27,7 @@ zero support tickets
 
 Notes:
 
----
+------
 
 ### no issues<!-- .element: class="hide" -->
 
@@ -54,7 +54,7 @@ Notes:
 - this is updated in real time without redeploying the LMS
 -
 
----
+------
 
 <!-- .slide: data-auto-animate -->
 
@@ -70,7 +70,7 @@ Notes:
 Notes:
 (note to self: this is another potential teaser about the conclusion)
 
----
+------
 
 <!-- .slide: data-auto-animate -->
 
@@ -86,7 +86,7 @@ Notes:
 Notes:
 (note to self: this is another potential teaser about the conclusion)
 
----
+------
 
 <!-- .slide: data-background="black" class="" -->
 

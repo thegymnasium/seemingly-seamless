@@ -106,24 +106,6 @@ Notes:
 
 ------
 
-### 10 years <!-- .element: class="hide" -->
-
-10 years as a design lead
-
-Notes:
-- 
-
-------
-
-### 20 years <!-- .element: class="hide" -->
-
-over 20 years of teaching design in higher ed
-
-Notes:
-- 
-
-------
-
 ### lecturer <!-- .element: class="hide" -->
 
 currently a lecturer at the University of Creative Communication in Prague
@@ -136,7 +118,7 @@ Notes:
 - We’re Gymnasium — Aquent’s free online learning platform.
 - FYI, if you don't know Aquent, it's a global staffing agency
 
----
+------
 
 ### Gymnasium homepage<!-- .element: class="hide" -->
 
@@ -155,7 +137,7 @@ Read from screen? Or use the following:
 
 ## Since 2013
 
----
+------
 
 ### 160,000 students<!-- .element: class="hide" -->
 
@@ -164,7 +146,7 @@ reached over 160,000 students
 Notes:
 - one hundred and sixty thousand students
 
----
+------
 
 ### 200+ countries and regions<!-- .element: class="hide" -->
 
@@ -173,7 +155,7 @@ more than 200 countries and regions
 Notes:
 - more than 200 countries and regions
 
----
+------
 
 ### 20,000 credentials<!-- .element: class="hide" -->
 
@@ -190,9 +172,9 @@ Notes:
 - preaching to the choir but...
 - new skills often lead to empowerment
 
----
+------
 
-### LinkedIn Cert<!-- .element: class="hide" -->
+### LinkedIn Cert <!-- .element: class="hide" -->
 
 ![LinkedIn Gymnasium course certificate completion show-off.](img/student-certificate-1920w.png)
 
@@ -202,7 +184,7 @@ Notes:
 
 ---
 
-### LinkedIn Cert Zoom<!-- .element: class="hide" -->
+### LinkedIn Cert Zoom <!-- .element: class="hide" -->
 
 ![Intern empowerment through Gymnasium.](img/student-certificate-detail-1920w.png)
 
@@ -216,7 +198,7 @@ Congrats to Salma!
 Notes:
 - why are we here?
 
----
+------
 
 ### 👀 This talk is for…
 
@@ -225,7 +207,7 @@ anyone integrating Open edX with a separate marketing site
 Notes:
 - 
 
----
+------
 
 ### 🔍 What we did
 
@@ -241,7 +223,7 @@ Notes:
 Show of hands regarding MFEs?
 YAML? JSON?
 
----
+------
 
 ### 🥳 What happened? 
 
@@ -254,27 +236,18 @@ Notes:
 
 ---
 
-## Enough about us<!-- .element: class="hide" -->
-
-![Animated gif of Homer Simpson retreating into a bush](img/homer-bushes.gif)
-
-Notes:
-Enough about us — time to get lost in the Open edX forest (and maybe into the weeds later).
-
----
-
 ## Rooted in customization
 
 Notes:
 - a quick timeline of our history
 
----
+------
 
 ### 2013 → launch<!-- .element: class="hide" -->
 
 2013 → initial launch on a custom-built platform
 
----
+------
 
 ### 2015 → relaunch<!-- .element: class="hide" -->
 
@@ -282,7 +255,7 @@ Notes:
 
 Notes: We were featured in an Open edX Conference talk entitled "Building the Plane While Flying it"
 
----
+------
 
 ### Building the Plane Slide<!-- .element: class="hide" -->
 
@@ -291,7 +264,7 @@ Notes: We were featured in an Open edX Conference talk entitled "Building the Pl
 Notes:
 Our talk today is somewhat a continuation of the previous presentation, a decade later. All civilization is built on the shoulders of giants.
 
----
+------
 
 ### 2018 → hawthorn<!-- .element: class="hide" -->
 
@@ -300,7 +273,7 @@ Our talk today is somewhat a continuation of the previous presentation, a decade
 Notes: (and time stood still)
 no pop quizzes, just exceptional performance
 
----
+------
 
 ### 2025 → redwood<!-- .element: class="hide" -->
 
@@ -309,7 +282,7 @@ no pop quizzes, just exceptional performance
 Notes:
 10 versions in 10 hours (with a lot planning)
 
----
+------
 
 ### 2025 stuff<!-- .element: class="hide" -->
 
@@ -318,8 +291,17 @@ Notes:
 Notes:
 ⚠️ 🚧 🔥
 
----
+------
 
 ### stick around<!-- .element: class="hide" -->
 
 stick around 🙏 (it’ll be worth it)
+
+---
+
+## Enough... <!-- .element: class="hide" -->
+
+![Animated gif of Homer Simpson retreating into a bush](img/homer-bushes.gif)
+
+Notes:
+Enough — time to get lost in the Open edX forest (and maybe into the weeds later).
