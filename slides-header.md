@@ -5,6 +5,8 @@ Notes:
 
 ------
 
+#### screencap <!-- .element: class="hide" -->
+
 ![Screencap detail of main navigation.](img/gym-nav-detail-1.png)
 
 Notes:

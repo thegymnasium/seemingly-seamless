@@ -5,6 +5,8 @@ Notes:
 
 ------
 
+#### screencap <!-- .element: class="hide" -->
+
 ![Screenshot of pre-Eleventy footer (detail) design.](img/gymnasium-footer-eleventy-detail-1920w.png)<!-- .element: class="r-fit-text" data-id="screencap" -->
 
 Notes:
