@@ -14,6 +14,7 @@ Notes:
 [maybe read quote out loud, then paraphrase]
 - its about craftmanship
 - making beautiful work
+- we preach what we teach
 
 ---
 
@@ -29,7 +30,7 @@ This translates to...
 learners first
 
 Notes:
-- UX first: 
+- UX first:
 - learners of all sorts: students, people, humans (and machines)
 
 ---

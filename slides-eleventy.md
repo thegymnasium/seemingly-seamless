@@ -28,7 +28,7 @@ Notes:
 
 <!-- .element: class="hide" -->
 
-30-45 minutes to deploy a new page
+30–45 minutes to deploy a new page
 
 Notes:
 - creating a marketing page took a long time to deploy
@@ -40,8 +40,8 @@ Notes:
 
 <!-- .element: class="hide" -->
 
-~~30-45 minutes to deploy a new page~~<br>
-2-3 minutes to deploy a new page
+~~30–45 minutes to deploy a new page~~<br>
+2–3 minutes to deploy a new page
 
 Notes:
 - After, using eleventy, deploying by ourselves
