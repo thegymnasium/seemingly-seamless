@@ -157,13 +157,13 @@ Notes:
 
 🔚
 
-Merci beaucoup<!-- .element: class="fragment" data-fragment-index="1" -->
+Merci<!-- .element: class="fragment" data-fragment-index="1" -->
 
 Notes: thank you
 
 ---
 
-### Connect & Questions 🤨❓
+### Questions & Comments 🤨❓
 
 [**Justin Gagne**](https://www.linkedin.com/in/justingagne/) ![Connect on LinkedIn](img/qr-code-justin.svg)<!-- .element: class="connect" --><br>
 `linkedin.com/in/justingagne/`

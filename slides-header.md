@@ -7,6 +7,8 @@ Notes:
 
 ![Screencap detail of main navigation.](img/gym-nav-detail-1.png)
 
+![Screencap detail of main navigation with secondary navigation.](img/gym-nav-detail-2.png)
+
 Notes:
 - here’s a zoomed in view of our main nav
 
@@ -14,7 +16,7 @@ Notes:
 
 <!-- .slide: data-auto-animate -->
 
-### Navigation YAML<!-- .element: data-id="code-title" -->
+#### Navigation YAML<!-- .element: data-id="code-title" -->
 
 <pre class="code-wrapper" data-id="code-animation">
   <code class="language-yml"
@@ -53,7 +55,7 @@ This JSON is consumed by the MFEs + LMS at build time.
 
 <!-- .slide: data-auto-animate -->
 
-### Navigation: Public
+#### Navigation: Public
 
 ![Screenshot of main navigation](img/home-public.png)<!-- .element: class="r-fit-text" data-id="screencap" -->
 
@@ -66,7 +68,7 @@ The home page for public visitors.
 
 <!-- .slide:  -->
 
-### Navigation: Logged-In
+#### Navigation: Logged-In
 
 ![Screenshot of main navigation](img/home-private.png)<!-- .element: class="r-fit-text" data-id="screencap" -->
 
@@ -78,7 +80,7 @@ The home page for logged in users.
 
 <!-- .slide:  -->
 
-### Navigation: Dashboard
+#### Navigation: Dashboard
 
 ![Screenshot of main navigation](img/dash-after.png)<!-- .element: class="r-fit-text" data-id="screencap" -->
 
@@ -92,7 +94,7 @@ The dashboard navigation.
 
 <!-- .slide:  -->
 
-### Navigation: Course
+#### Navigation: Course
 
 ![Screenshot of course navigation](img/course-about-dsfe.png)<!-- .element: class="r-fit-text" data-id="screencap" -->
 
