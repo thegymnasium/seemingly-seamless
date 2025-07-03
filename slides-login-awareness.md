@@ -11,7 +11,7 @@ Notes:
 
 Notes:
 - this is a cookie (i think some of you might a biscuit)
-- we used cookies and added our static site domain & URL to the approved CORS headers in open edx
+- we used cookies and added our static site domain & URL to the approved CORS (Cross-Origin Resource Sharing) headers in open edx
 
 ------
 

@@ -428,3 +428,25 @@ Notes:
 ### 👀 This talk is for…
 
 Anyone integrating Open edX with a brand, marketing site, or CMS
+
+
+------
+
+### login "awareness"<!-- .element: class="hide" -->
+
+login “awareness” on static site
+
+Notes:
+- separated marketing site & LMS? they need to be able to "talk"
+
+
+------
+
+## 10 versions in 10 hours
+
+Notes:
+- that’s with a lot of planning
+- in the end, the data migration took about 6 hours
+- The next slide shows how many versions Amir needed to process.
+
+------

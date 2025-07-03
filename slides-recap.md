@@ -29,3 +29,4 @@ upgrading code became a challenge
 
 Notes:
 - brittle customizations made upgrading a challenge
+- knew open edx had a lot of changes but we were daunted

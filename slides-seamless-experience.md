@@ -3,7 +3,7 @@
 Notes:
 Let’s talk talk about the steps involved in achieving a consistent visual design.
 
----
+------
 
 ## 
 
@@ -13,7 +13,7 @@ Let’s talk talk about the steps involved in achieving a consistent visual desi
 Notes:
 - a reminder that this is what we ended up doing
 
----
+------
 
 single source of truth
 
@@ -24,7 +24,7 @@ Notes:
 
 
 
----
+------
 
 ### Visual layer<!-- .element: class="hide" -->
 
@@ -44,7 +44,7 @@ Steps to achieving this:
 
 - Pitfalls: discovery that some development of MFEs resulted in CSS rules declared 8-10x (link to the issue)
 
----
+------
 
 <!-- .slide: data-background="black" class="" -->
 
@@ -66,7 +66,7 @@ Github link https://github.com/openedx/frontend-app-learner-dashboard/issues/325
 Notes:
 - YAML as the source of truth for content
 
----
+------
 
 <!-- .slide: data-background="black" class="" -->
 
@@ -103,57 +103,44 @@ Notes:
 
 ## JSON
 
-JSON is exclusively for consumption by the LMS (MFEs + theme)
+exclusively for consumption by the Open edX platform
 
 Notes:
+- platform = MFEs + theme
 
 ---
 
-## Custom react components
+## Custom React components
 
 Notes:
 Rather than serve our header, footer, and overrides from different repositories, we created one repo to meet our needs. One repo to rule them all.
 
 ------
 
-### One "library"
+### One repo
 
 `gym-frontend-components`
 
 Notes:
-One react library handles delivery of...
+- One react library handles delivery of...
 
 ------
 
-### react header<!-- .element: class="hide" -->
+### react header & footer<!-- .element: class="hide" -->
 
-header
+header and footer
 
 Notes: the header...
 
 ------
 
-### react footer<!-- .element: class="hide" -->
 
-footer
+### react 404, banner <!-- .element: class="hide" -->
 
-Notes: the footer...
+404 errors, status banner, etc.
 
-------
-
-### react 404<!-- .element: class="hide" -->
-
-404 errors, etc.
-
-Notes: the error pages...
-
-------
-
-### react banner<!-- .element: class="hide" -->
-
-banner
-
-Notes: the site banner...
+Notes:
+- 404 errors, status banner, etc.
 
 ------
 
@@ -161,6 +148,7 @@ Notes: the site banner...
 
 overrides to core MFE behaviors
 
-Notes: ...and last but not least, the individual customizations we made to MFEs.
+Notes: 
+- ...and last but not least, the individual customizations we made to MFEs.
 All by consuming our custom JSON at build time.
 

@@ -3,16 +3,14 @@
 
 Notes:
 
----
+------
 
 ![Screencap detail of main navigation.](img/gym-nav-detail-1.png)
-
-![Screencap detail of main navigation with secondary navigation.](img/gym-nav-detail-2.png)
 
 Notes:
 - here’s a zoomed in view of our main nav
 
----
+------
 
 <!-- .slide: data-auto-animate -->
 
@@ -27,7 +25,6 @@ Notes:
 </pre>
 
 Notes:
-[to do:simplify notes]
 Here’s an example of the YAML that governs our navigation.
 In this example, I’ll step through the various sections of YAML, each of which will get processed and transformed.
 
@@ -35,7 +32,7 @@ In this example, I’ll step through the various sections of YAML, each of which
 
 <!-- .slide: data-auto-animate -->
 
-### Navigation JSON<!-- .element: data-id="code-title" -->
+#### Navigation JSON<!-- .element: data-id="code-title" -->
 
 <pre class="code-wrapper" data-id="code-animation">
   <code class="language-json"

@@ -1,7 +1,8 @@
 ### Core requirements
 
 Notes:
-- for what we ended up calling Gymnasium v3
+- for what we ended up calling Gymnasium v3 - implementing modern open edx
+- V2 was Hawthorn
 
 ------
 
@@ -10,23 +11,18 @@ Notes:
 rapid deployment
 
 Notes:
-
-------
-
-### login "awareness"<!-- .element: class="hide" -->
-
-login “awareness” on static site
-
-Notes:
+- no more waiting for a hosting provider
+- why we chose a static site generator (SSG) for marketing site
 
 ------
 
 ### version upgrade<!-- .element: class="hide" -->
 
-open edx version upgrade
+Open edX version upgrade
 
 Notes:
-Implied in the upgrade or upgrades is the data migration required
+- a major step - 7 years of data needed to be migrated
+- Implied in the upgrade or upgrades is the data migration required
 
 ------
 
@@ -38,3 +34,4 @@ Notes:
 - YAML + JSON
 - custom react components
 - CSS served from static site
+

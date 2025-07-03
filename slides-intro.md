@@ -60,7 +60,8 @@ Notes:
 largely self-taught
 
 Notes:
-- Perhaps it’s not unusual these days, but I’m largely self taught with regard to the web.
+- maybe not unusual these days, but I’m largely self taught with regard to the web
+- could mean there are different (or better) ways to do what we did
 
 ---
 
@@ -73,7 +74,7 @@ Justin Gagne, Design Lead
 🎨 👨‍💻 ✍️
 
 Notes:
-- I’m Justin Gagne, and I’m Gymnasium’s design lead. I joined Gymnasium in 2015, and started my journey with Open edX.
+- Justin Gagne, Gymnasium’s design lead
 
 ------
 
@@ -82,6 +83,7 @@ Notes:
 joined Gymnasium in 2015
 
 Notes:
+- joined Gymnasium in 2015
 - brought in to migrate to open to Open edX and stayed on after
 
 ------
@@ -132,6 +134,7 @@ currently a lecturer at the University of Creative Communication in Prague
 
 Notes:
 - We’re Gymnasium — Aquent’s free online learning platform.
+- FYI, if you don't know Aquent, it's a global staffing agency
 
 ---
 
@@ -166,6 +169,9 @@ Notes:
 ### 200+ countries and regions<!-- .element: class="hide" -->
 
 more than 200 countries and regions
+
+Notes:
+- more than 200 countries and regions
 
 ---
 
@@ -208,13 +214,16 @@ Congrats to Salma!
 ## Why we’re here
 
 Notes:
-- 
+- why are we here?
 
 ---
 
 ### 👀 This talk is for…
 
 anyone integrating Open edX with a separate marketing site
+
+Notes:
+- 
 
 ---
 
@@ -227,7 +236,10 @@ anyone integrating Open edX with a separate marketing site
 - Customized MFEs using YAML and JSON for flexibility
 
 Notes:
-- and these resulted in...
+(read from screen)
+
+Show of hands regarding MFEs?
+YAML? JSON?
 
 ---
 
@@ -238,11 +250,6 @@ Notes:
 - Zero support tickets 
 
 Notes:
-- Design and development as a conversation
-- seamless branded experience
-- work had minimal student down-time
-- enhanced, customized catalog
-- Our design shaped our technical choices and vice versa
 - successful outcome: zero support tickets post launch
 
 ---
@@ -259,7 +266,7 @@ Enough about us — time to get lost in the Open edX forest (and maybe into the 
 ## Rooted in customization
 
 Notes:
-What started as a custom-built platform grew into something much bigger and better, thanks to Open edX. This brief timeline highlights the key migrations and milestones that shaped Gymnasium — and our approach to design and development along the way.
+- a quick timeline of our history
 
 ---
 
@@ -295,9 +302,9 @@ no pop quizzes, just exceptional performance
 
 ---
 
-### 2024 → redwood<!-- .element: class="hide" -->
+### 2025 → redwood<!-- .element: class="hide" -->
 
-2024 → upgrade to Redwood
+2025 → upgrade to Redwood
 
 Notes:
 10 versions in 10 hours (with a lot planning)
@@ -308,7 +315,7 @@ Notes:
 
 2025 → 🔮 🎱 🥠 twists, turns, and…
 
-Notes: revise? (do we change this?)
+Notes:
 ⚠️ 🚧 🔥
 
 ---
