@@ -1,8 +1,11 @@
 # Seemingly Seamless
 
+
+🇫🇷 🎤 🎥 Watch our talk (slides with audio):
+
 [![Seemingly Seamless: How We Improved the Open edX Learner Experience and Made Our Lives Easier](https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DuCbbREm5Dxc)](https://www.youtube.com/watch?v=uCbbREm5Dxc)
 
-🇫🇷 🎤 🎥 → Watch our talk: [Seemingly Seamless: How We Improved the Open edX Learner Experience and Made Our Lives Easier](https://www.youtube.com/watch?v=uCbbREm5Dxc)
+[Seemingly Seamless: How We Improved the Open edX Learner Experience and Made Our Lives Easier](https://www.youtube.com/watch?v=uCbbREm5Dxc)
 
 This case study is for anyone struggling to integrate Open edX with their branding, marketing websites, or content management systems. It’s a practical, real-world example of how to extend Open edX in creative ways. The talk is for those looking for technical insights into customization, user experience improvements, and strategies for dealing with the inherent challenges of Open edX’s architecture.
 
